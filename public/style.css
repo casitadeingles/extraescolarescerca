@@ -65,3 +65,6 @@ summary{cursor:pointer;color:var(--accent-2);font-weight:600}
 .foot a{color:var(--ink);text-decoration:none}
 .small{font-size:.85rem;margin-top:20px}
 .zona-h{margin:1.4em 0 .2em;color:var(--accent-2);font-size:1.2rem}
+.desc{font-size:.95rem;margin:.4em 0}
+.servs{list-style:none;padding:0;margin:.4em 0;display:flex;flex-wrap:wrap;gap:6px}
+.servs li{font-size:.8rem;background:var(--soft);padding:3px 10px;border-radius:999px}

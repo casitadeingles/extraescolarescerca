@@ -7,11 +7,26 @@ const out = path.join(root, 'dist');
 const read = (f) => JSON.parse(fs.readFileSync(path.join(root, 'data', f), 'utf8'));
 
 const site = read('site.json');
-const centros = read('centros.json');
+// centros.json viene del CSV; centros_extra.json, de fichas añadidas a mano (tools/importar_pegado.py)
+const extra = fs.existsSync(path.join(root, 'data', 'centros_extra.json')) ? read('centros_extra.json') : [];
+// Si una ficha ya existe, la añadida completa los datos (descripción, servicios) sin borrar los que ya tenía
+// (varias sedes de una misma cadena comparten slug: se numeran para no perder ninguna)
+const porId = new Map();
+for (const c of read('centros.json')) {
+  let id = c.id, n = 2;
+  while (porId.has(id)) id = `${c.id}-${n++}`;
+  porId.set(id, { ...c, id });
+}
+for (const e of extra) {
+  const base = porId.get(e.id);
+  porId.set(e.id, base ? { ...base, ...Object.fromEntries(Object.entries(e).filter(([, v]) => v !== '' && v != null && !(Array.isArray(v) && !v.length))) } : e);
+}
+const centros = [...porId.values()];
 const campamentos = read('campamentos.json');
-// La Casita de Inglés (destacado) siempre primero en cualquier listado
+// La Casita de Inglés (destacado) siempre primero en cualquier listado; luego, por valoración
+const peso = (c) => (c.rating || 0) * Math.min(c.opiniones || 0, 50);
 const primeroDestacado = (a, b) => (b.destacado ? 1 : 0) - (a.destacado ? 1 : 0);
-centros.sort(primeroDestacado);
+centros.sort((a, b) => primeroDestacado(a, b) || peso(b) - peso(a));
 for (const k of Object.keys(campamentos)) campamentos[k].sort(primeroDestacado);
 const cats = site.categorias;
 const catBy = Object.fromEntries(cats.map((c) => [c.slug, c]));
@@ -91,6 +106,8 @@ function card(c, { mostrarCat = false } = {}) {
   ${mostrarCat ? `<span class="tag">${cat.icono} ${esc(cat.corto)}</span>` : ''}
   <h3>${esc(c.nombre)}</h3>
   ${stars(c)}
+  ${c.descripcion ? `<p class="desc">${esc(c.descripcion.length > 220 ? c.descripcion.slice(0, c.descripcion.lastIndexOf(' ', 220)) + '…' : c.descripcion)}</p>` : ''}
+  ${c.servicios?.length ? `<ul class="servs">${c.servicios.slice(0, 5).map((s) => `<li>${esc(s.length > 60 ? s.slice(0, s.lastIndexOf(' ', 60)) + '…' : s)}</li>`).join('')}</ul>` : ''}
   <p class="addr">📍 ${esc(c.direccion)}</p>
   ${c.telefono ? `<p class="addr">📞 <a href="tel:${esc(c.telefono.replace(/\s/g, ''))}">${esc(c.telefono)}</a></p>` : ''}
   ${c.horario?.length ? `<details><summary>Horario</summary><ul class="hours">${c.horario.map(([d, h]) => `<li><span>${esc(d)}</span>${esc(h)}</li>`).join('')}</ul></details>` : ''}
