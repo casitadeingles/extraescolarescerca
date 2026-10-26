@@ -19,6 +19,46 @@
       "resumen": "Campamento residencial de inglés de La Casita de Inglés en plena naturaleza: convivencia, actividades al aire libre e inmersión total en inglés.",
       "donde": "Matapozuelos (Valladolid)",
       "fechas": "Primera quincena de julio"
+    },
+    {
+      "id": "kor-camp",
+      "nombre": "Kor Camp",
+      "web": "https://www.korplanet.com",
+      "resumen": "Campamento 100 % en inglés con monitores nativos y bilingües, clase diaria por niveles y más de 30 actividades a elegir: deportes, escalada, tirolina, piragüismo, hípica y talleres. Duermen en tiendas con su monitor.",
+      "donde": "Junto a Candeleda (Ávila), a 1 h 45 min de Madrid",
+      "edades": "5 a 13 años",
+      "idioma": "100 % en inglés",
+      "fechas": "Julio, en dos turnos de 15 días",
+      "transporte": "Autobús desde Madrid incluido"
+    },
+    {
+      "id": "layoscamp",
+      "nombre": "LayosCamp",
+      "web": "https://layoscamp.com",
+      "resumen": "Campamento multiaventura en instalaciones propias: escalada, piscina, hípica, tiro con arco, granja, golf, pádel, piragüismo, teatro y clases de inglés, con seis actividades al día por edades.",
+      "donde": "Layos, a 10 km de Toledo (unos 100 km de Madrid)",
+      "edades": "6 a 12 años",
+      "idioma": "En español, con clases de inglés",
+      "fechas": "Julio, en dos quincenas (también turno en agosto)",
+      "transporte": "Ida y vuelta desde Madrid incluida"
+    },
+    {
+      "id": "gaia-camp",
+      "nombre": "Gaia Camp",
+      "web": "https://gaiacamp.com",
+      "resumen": "Campamento en una finca cerrada en plena Sierra de Gredos, con hasta 20 deportes guiados por monitores (golf, tenis, pádel, natación, waterpolo, esgrima, tiro con arco…), huerto ecológico, baile y cine. Tiene versión en inglés.",
+      "donde": "Sierra de Gredos, a unos 170 km de Madrid",
+      "idioma": "Español o inglés, según programa",
+      "fechas": "Finales de junio y julio, en dos turnos de 15 días"
+    },
+    {
+      "id": "kc-camps-kings-college",
+      "nombre": "KC Camps · King's College Soto de Viñuelas",
+      "web": "https://www.madrid-soto.kingscollegeschools.org/en/summer-camps",
+      "resumen": "Campamento de verano en inglés en el campus de King's College, con opción de quedarse a dormir en la residencia del propio colegio o asistir solo de día.",
+      "donde": "Soto de Viñuelas, Tres Cantos (Madrid)",
+      "idioma": "En inglés",
+      "fechas": "Verano, por semanas"
     }
   ]
 }

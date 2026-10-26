@@ -214,7 +214,8 @@ for (const c of cats) {
 // ---------- Campamentos
 const otrosCamps = centros.filter((c) => c.campamento);
 function campCard(c) {
-  return `<article class="card card-star"><span class="badge">Destacado</span><h3>${esc(c.nombre)}</h3><p>${esc(c.resumen)}</p><p class="addr">📍 ${esc(c.donde)}</p><p class="addr">📅 ${esc(c.fechas)}</p><div class="actions"><a class="btn btn-sm" href="${esc(c.web)}" target="_blank" rel="noopener">Web</a></div></article>`;
+  const fila = (ico, v) => (v ? `<p class="addr">${ico} ${esc(v)}</p>` : '');
+  return `<article class="card${c.destacado ? ' card-star' : ''}">${c.destacado ? '<span class="badge">Destacado</span>' : ''}<h3>${esc(c.nombre)}</h3><p>${esc(c.resumen)}</p>${fila('📍', c.donde)}${fila('👧', c.edades)}${fila('🗣️', c.idioma)}${fila('📅', c.fechas)}${fila('🚌', c.transporte)}<div class="actions"><a class="btn btn-sm" href="${esc(c.web)}" target="_blank" rel="noopener${c.destacado ? '' : ' nofollow'}">Web</a></div></article>`;
 }
 function campPage(rel, tipo, h1, lead, description, extra = []) {
   write(rel, layout({
@@ -235,7 +236,7 @@ campPage('campamentos-urbanos', 'urbanos', 'Campamentos urbanos de verano en Mad
   'Campamentos de día en la ciudad: los niños duermen en casa y pasan la jornada aprendiendo y jugando.',
   'Campamentos urbanos de verano para niños en Madrid y alrededores: en inglés, de deporte, robótica, baile y más.', otrosCamps);
 campPage('campamentos-residenciales', 'residenciales', 'Campamentos residenciales de verano',
-  'Campamentos con alojamiento, en la naturaleza, para que los niños ganen autonomía y practiquen inglés de verdad.',
+  'Campamentos con alojamiento a los que se va desde Madrid: en la naturaleza, en inglés o multiaventura, para que los niños ganen autonomía. Fechas orientativas: confirma siempre en la web de cada campamento.',
   'Campamentos residenciales de verano para niños desde Madrid, con inmersión en inglés y actividades en la naturaleza.');
 
 // ---------- Estáticos, sitemap y robots
