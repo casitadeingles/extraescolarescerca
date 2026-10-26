@@ -1,0 +1,11 @@
+{
+  "name": "extraescolarescerca",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Directorio de academias, extraescolares y campamentos en Madrid por barrios",
+  "scripts": {
+    "build": "node build.js",
+    "start": "node server.js"
+  },
+  "engines": { "node": ">=18" }
+}

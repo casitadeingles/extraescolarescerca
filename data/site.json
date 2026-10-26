@@ -1,0 +1,11 @@
+{
+  "name": "Extraescolares Cerca",
+  "domain": "https://extraescolarescerca.es",
+  "tagline": "Academias, extraescolares y campamentos cerca de casa, en Madrid y alrededores",
+  "categorias": [
+    { "slug": "academias-ingles", "nombre": "Academias de inglés", "plural": "academias de inglés", "activa": true },
+    { "slug": "baile", "nombre": "Baile", "plural": "escuelas de baile", "activa": false },
+    { "slug": "musica", "nombre": "Música", "plural": "escuelas de música", "activa": false },
+    { "slug": "otros-idiomas", "nombre": "Otros idiomas", "plural": "academias de idiomas", "activa": false }
+  ]
+}

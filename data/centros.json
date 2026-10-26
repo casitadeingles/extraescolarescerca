@@ -1,0 +1,27 @@
+[
+  {
+    "id": "la-casita-de-ingles",
+    "nombre": "La Casita de Inglés",
+    "categoria": "academias-ingles",
+    "destacado": true,
+    "web": "https://www.lacasitadeingles.com",
+    "resumen": "Academia de inglés para niños desde 2001, con método de inmersión y salas temáticas Home Circle®: Dance Room, Theatre Room, Craft & Cooking Room y Game Room.",
+    "sedes": {
+      "alameda-de-osuna": "Calle Noray 6, 28042 Madrid",
+      "barrio-de-salamanca": "",
+      "carabanchel": "",
+      "chamberi": "Chamberí – Río Rosas",
+      "montecarmelo": "",
+      "pio-xii": "",
+      "retiro": "",
+      "sanchinarro": "",
+      "vallecas": "",
+      "vallehermoso": "",
+      "alcobendas": "",
+      "boadilla-del-monte": "Calle Isabel de Farnesio 27, Boadilla del Monte",
+      "majadahonda": "Calle Puerto de los Leones 1, Majadahonda",
+      "pozuelo-de-alarcon": "Calle Ámbar 9, 28224 Pozuelo de Alarcón",
+      "getafe": ""
+    }
+  }
+]

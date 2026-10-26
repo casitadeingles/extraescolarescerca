@@ -1,0 +1,24 @@
+{
+  "urbanos": [
+    {
+      "id": "summer-camp-la-casita",
+      "nombre": "Summer Camp de La Casita de Inglés",
+      "destacado": true,
+      "web": "https://www.lacasitadeingles.com",
+      "resumen": "Campamento urbano de verano en inglés en las sedes de La Casita de Inglés de Madrid y alrededores: juegos, teatro, manualidades y cocina, todo en inglés.",
+      "donde": "En las sedes de La Casita de Inglés",
+      "fechas": "Verano (junio–julio). Consulta fechas en cada sede."
+    }
+  ],
+  "residenciales": [
+    {
+      "id": "camp-treetop",
+      "nombre": "Camp Treetop",
+      "destacado": true,
+      "web": "https://camptreetop.es",
+      "resumen": "Campamento residencial de inglés de La Casita de Inglés en plena naturaleza: convivencia, actividades al aire libre e inmersión total en inglés.",
+      "donde": "Matapozuelos (Valladolid)",
+      "fechas": "Primera quincena de julio"
+    }
+  ]
+}
