@@ -64,6 +64,27 @@
       "fechas": "Finales de junio a mediados de julio"
     },
     {
+      "id": "shambala-summer-school",
+      "privado": true,
+      "nombre": "Shambala Children Zone · Summer School",
+      "web": "https://www.shambalachildrenzone.es/campamentos-urbanos-madrid/",
+      "resumen": "Campamento urbano solo en inglés con monitores nativos o bilingües: juegos, deportes, piscina y excursiones, baile, teatro, manualidades, yoga y un tema nuevo cada semana.",
+      "donde": "Colegios públicos de varios municipios de la Comunidad de Madrid",
+      "edades": "3 a 12 años",
+      "idioma": "Solo en inglés",
+      "fechas": "Julio, por semanas, quincenas o mes completo (9:00–14:00, ampliable de 8:00 a 16:00)"
+    },
+    {
+      "id": "ajedrez-blanco-y-negro",
+      "privado": true,
+      "nombre": "Ajedrez Blanco y Negro · Campamento de ajedrez, deporte y robótica",
+      "web": "https://ajedrezblancoynegro.com/campamento-urbano-madrid-ajedrez-deporte-robotica/",
+      "resumen": "Campamento con más de 15 años de trayectoria: ajedrez, deportes, piscina dos veces al día y talleres opcionales de robótica y programación (RBTK) o de cómic y manga.",
+      "donde": "Colegios mayores de Ciudad Universitaria (Moncloa), junto a Chamberí y Tetuán",
+      "edades": "5 a 16 años",
+      "fechas": "Del fin de las clases a finales de julio, por días, semanas o quincenas (7:30–17:00)"
+    },
+    {
       "id": "campamento-municipal-retiro",
       "zona": "Retiro (Madrid)",
       "nombre": "Campamento urbano municipal del Distrito de Retiro",

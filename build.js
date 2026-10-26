@@ -9,6 +9,10 @@ const read = (f) => JSON.parse(fs.readFileSync(path.join(root, 'data', f), 'utf8
 const site = read('site.json');
 const centros = read('centros.json');
 const campamentos = read('campamentos.json');
+// La Casita de Inglés (destacado) siempre primero en cualquier listado
+const primeroDestacado = (a, b) => (b.destacado ? 1 : 0) - (a.destacado ? 1 : 0);
+centros.sort(primeroDestacado);
+for (const k of Object.keys(campamentos)) campamentos[k].sort(primeroDestacado);
 const cats = site.categorias;
 const catBy = Object.fromEntries(cats.map((c) => [c.slug, c]));
 
