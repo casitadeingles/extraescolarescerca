@@ -8,6 +8,98 @@
       "resumen": "Campamento urbano de verano en inglés en las sedes de La Casita de Inglés de Madrid y alrededores: juegos, teatro, manualidades y cocina, todo en inglés.",
       "donde": "En las sedes de La Casita de Inglés",
       "fechas": "Verano (junio–julio). Consulta fechas en cada sede."
+    },
+    {
+      "id": "campamento-municipal-retiro",
+      "zona": "Retiro (Madrid)",
+      "nombre": "Campamento urbano municipal del Distrito de Retiro",
+      "web": "https://www.madrid.es/retiro",
+      "resumen": "Campamento municipal de la Junta de Retiro en un colegio público, con acogida desde las 8:00 y varias opciones de recogida. Plazas limitadas por sorteo.",
+      "donde": "CEIP Ciudad de Roma (Sáinz de Baranda)",
+      "edades": "Infantil (2.º ciclo) y Primaria",
+      "fechas": "De finales de junio a principios de septiembre, por periodos. Inscripción en primavera."
+    },
+    {
+      "id": "campamento-municipal-barajas",
+      "zona": "Barajas · Alameda de Osuna (Madrid)",
+      "nombre": "Campamento de verano del Distrito de Barajas",
+      "web": "https://diario.madrid.es/barajas/2026/05/26/ya-estan-aqui-los-campamentos-de-verano-de-barajas/",
+      "resumen": "Campamento urbano municipal de 9:00 a 16:00, con acogida desde las 8:00 y recogida ampliada hasta las 17:00. Prioridad para familias del distrito.",
+      "donde": "CP Ciudad de Zaragoza, Alameda de Osuna",
+      "edades": "Infantil (2.º ciclo) y Primaria",
+      "fechas": "De finales de junio a principios de septiembre, por quincenas. Inscripción a principios de junio."
+    },
+    {
+      "id": "colonias-alcobendas",
+      "zona": "Alcobendas",
+      "nombre": "Colonias urbanas · Los Veranos de Alcobendas",
+      "web": "https://www.imaginalcobendas.org/2026/03/verano-2026/",
+      "resumen": "Colonias municipales en colegios públicos de la ciudad, con piscina, talleres y espectáculos. Plazas por sorteo.",
+      "donde": "Varios colegios públicos de Alcobendas",
+      "edades": "4 a 11 años",
+      "fechas": "Julio y agosto"
+    },
+    {
+      "id": "campamentos-deportivos-alcobendas",
+      "zona": "Alcobendas",
+      "nombre": "Campamentos deportivos municipales de Alcobendas",
+      "web": "https://www.alcobendas.org/es/ayuntamiento/los-veranos-de-alcobendas-2026",
+      "resumen": "Campus de baloncesto, atletismo, esgrima, tenis, pádel, hockey, gimnasia rítmica, deportes acuáticos, baile y más.",
+      "donde": "Ciudad Deportiva Valdelasfuentes y Polideportivo José Caballero",
+      "edades": "Sobre todo de 6 a 16 años",
+      "fechas": "Verano, por semanas o quincenas"
+    },
+    {
+      "id": "summer-school-pozuelo",
+      "zona": "Pozuelo de Alarcón",
+      "nombre": "Summer School Pozuelo",
+      "web": "https://www.pozuelodealarcon.org",
+      "resumen": "Campamento urbano municipal con deporte, arte y juegos, buena parte en inglés, en colegios públicos de Pozuelo.",
+      "donde": "Colegios Las Acacias, Pinar Prados de Torrejón, Infanta Elena, Príncipes de Asturias y Los Ángeles",
+      "edades": "3 a 12 años",
+      "idioma": "Gran parte en inglés",
+      "fechas": "Verano"
+    },
+    {
+      "id": "campamentos-deportivos-pozuelo",
+      "zona": "Pozuelo de Alarcón",
+      "nombre": "Campamentos urbanos deportivos de Pozuelo",
+      "web": "https://www.pozuelodealarcon.org/deportes/verano-2026/inscripcion-campamentos-urbanos-deportivos-2026",
+      "resumen": "Campamento municipal que combina deporte, actividades acuáticas y juego, con grupos por edades y plazas inclusivas.",
+      "donde": "Polideportivo El Torreón y Ciudad Deportiva Valle de las Cañas",
+      "edades": "4 a 15 años",
+      "fechas": "Verano"
+    },
+    {
+      "id": "escuela-verano-majadahonda",
+      "zona": "Majadahonda",
+      "nombre": "Escuela Municipal de Verano de Majadahonda",
+      "web": "https://www.majadahonda.org",
+      "resumen": "Campamento urbano municipal centrado en la expresión artística, de 9:00 a 16:00, con acogida gratuita desde las 8:00 y comedor opcional.",
+      "donde": "CEIP Benito Pérez Galdós y CEIP Santa Catalina",
+      "edades": "3 a 12 años",
+      "fechas": "Finales de junio a finales de julio"
+    },
+    {
+      "id": "club-las-encinas",
+      "zona": "Boadilla del Monte",
+      "nombre": "Campamento multiaventura del Club Las Encinas",
+      "web": "https://www.clublasencinas.es",
+      "resumen": "Campamento de día con multiaventura, deporte y actividades acuáticas en las instalaciones del club.",
+      "donde": "Club Las Encinas, Boadilla del Monte",
+      "edades": "3 a 17 años",
+      "fechas": "Verano"
+    },
+    {
+      "id": "escuela-verano-virgen-de-europa",
+      "zona": "Boadilla del Monte",
+      "nombre": "Escuela de verano del Colegio Virgen de Europa",
+      "web": "https://www.cve.edu.es",
+      "resumen": "Campamento urbano de verano del colegio, con programas en inglés y en español según edad.",
+      "donde": "Colegio Virgen de Europa, Boadilla del Monte",
+      "edades": "0 a 12 años",
+      "idioma": "Inglés o español, según programa",
+      "fechas": "Verano"
     }
   ],
   "residenciales": [

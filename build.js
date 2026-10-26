@@ -226,14 +226,15 @@ function campPage(rel, tipo, h1, lead, description, extra = []) {
 <section class="wrap block">
   <h1>${esc(h1)}</h1>
   <p class="lead">${esc(lead)}</p>
-  <div class="cards">${campamentos[tipo].map(campCard).join('')}</div>
+  <div class="cards">${campamentos[tipo].filter((c) => !c.zona).map(campCard).join('')}</div>
+  ${[...new Set(campamentos[tipo].filter((c) => c.zona).map((c) => c.zona))].map((z) => `<h2>${esc(z)}</h2><div class="cards">${campamentos[tipo].filter((c) => c.zona === z).map(campCard).join('')}</div>`).join('')}
   ${extra.length ? `<h2>Otros organizadores de campamentos</h2><div class="cards">${extra.map((x) => card(x, { mostrarCat: true })).join('')}</div>` : ''}
   <p class="muted note">¿Organizas un campamento? Escríbenos para aparecer en el directorio.</p>
 </section>`
   }));
 }
 campPage('campamentos-urbanos', 'urbanos', 'Campamentos urbanos de verano en Madrid',
-  'Campamentos de día en la ciudad: los niños duermen en casa y pasan la jornada aprendiendo y jugando.',
+  'Campamentos de día: los niños duermen en casa y pasan la jornada aprendiendo y jugando. Muchos municipales adjudican plazas por sorteo en primavera; confirma fechas y plazos en la web de cada uno.',
   'Campamentos urbanos de verano para niños en Madrid y alrededores: en inglés, de deporte, robótica, baile y más.', otrosCamps);
 campPage('campamentos-residenciales', 'residenciales', 'Campamentos residenciales de verano',
   'Campamentos con alojamiento a los que se va desde Madrid: en la naturaleza, en inglés o multiaventura, para que los niños ganen autonomía. Fechas orientativas: confirma siempre en la web de cada campamento.',
