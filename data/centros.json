@@ -1,27 +1,9284 @@
 [
-  {
-    "id": "la-casita-de-ingles",
-    "nombre": "La Casita de Inglés",
-    "categoria": "academias-ingles",
-    "destacado": true,
-    "web": "https://www.lacasitadeingles.com",
-    "resumen": "Academia de inglés para niños desde 2001, con método de inmersión y salas temáticas Home Circle®: Dance Room, Theatre Room, Craft & Cooking Room y Game Room.",
-    "sedes": {
-      "alameda-de-osuna": "Calle Noray 6, 28042 Madrid",
-      "barrio-de-salamanca": "",
-      "carabanchel": "",
-      "chamberi": "Chamberí – Río Rosas",
-      "montecarmelo": "",
-      "pio-xii": "",
-      "retiro": "",
-      "sanchinarro": "",
-      "vallecas": "",
-      "vallehermoso": "",
-      "alcobendas": "",
-      "boadilla-del-monte": "Calle Isabel de Farnesio 27, Boadilla del Monte",
-      "majadahonda": "Calle Puerto de los Leones 1, Majadahonda",
-      "pozuelo-de-alarcon": "Calle Ámbar 9, 28224 Pozuelo de Alarcón",
-      "getafe": ""
-    }
-  }
+ {
+  "id": "la-casita-de-ingl-s-boadilla-del-monte",
+  "nombre": "La Casita de Inglés Boadilla del Monte",
+  "categoria": "ingles",
+  "campamento": false,
+  "destacado": true,
+  "zona": "Boadilla del Monte",
+  "zona_slug": "boadilla-del-monte",
+  "tipo_zona": "municipio",
+  "direccion": "Av. Isabel de Farnesio, 27, B, 28660 Boadilla del Monte, Madrid",
+  "telefono": "+34 722 17 13 35",
+  "web": "https://www.lacasitadeingles.com/boadilla-del-monte-ninos-clases",
+  "maps": "https://www.google.com/maps/place/?q=place_id:ChIJXyCiHnaPQQ0RhOMDi8E0QkQ",
+  "rating": 5.0,
+  "opiniones": 102,
+  "horario": [
+   [
+    "Lun",
+    "9:00–19:30"
+   ],
+   [
+    "Mar",
+    "9:00–19:30"
+   ],
+   [
+    "Mié",
+    "9:00–19:30"
+   ],
+   [
+    "Jue",
+    "9:00–19:30"
+   ],
+   [
+    "Vie",
+    "9:00–19:30"
+   ],
+   [
+    "Sáb",
+    "11:00–13:00"
+   ],
+   [
+    "Dom",
+    "Cerrado"
+   ]
+  ],
+  "lat": 40.3999973,
+  "lng": -3.885061
+ },
+ {
+  "id": "la-casita-de-ingl-s-majadahonda",
+  "nombre": "La Casita de Inglés Majadahonda",
+  "categoria": "ingles",
+  "campamento": false,
+  "destacado": true,
+  "zona": "Majadahonda",
+  "zona_slug": "majadahonda",
+  "tipo_zona": "municipio",
+  "direccion": "C. Puerto de los Leones, 1, 28220 Majadahonda, Madrid",
+  "telefono": "+34 676 78 50 76",
+  "web": "https://lacasitadeingles.com/academias/majadahonda/",
+  "maps": "https://www.google.com/maps/place/?q=place_id:ChIJk4CPNGeGQQ0R96CyH0QiC1E",
+  "rating": 5.0,
+  "opiniones": 119,
+  "horario": [
+   [
+    "Lun",
+    "11:00–19:30"
+   ],
+   [
+    "Mar",
+    "11:00–19:30"
+   ],
+   [
+    "Mié",
+    "11:00–19:30"
+   ],
+   [
+    "Jue",
+    "11:00–19:30"
+   ],
+   [
+    "Vie",
+    "11:00–19:30"
+   ],
+   [
+    "Sáb",
+    "11:00–13:00"
+   ],
+   [
+    "Dom",
+    "Cerrado"
+   ]
+  ],
+  "lat": 40.4753803,
+  "lng": -3.8755323
+ },
+ {
+  "id": "la-casita-de-ingl-s-getafe",
+  "nombre": "La Casita de Inglés Getafe",
+  "categoria": "ingles",
+  "campamento": false,
+  "destacado": true,
+  "zona": "Getafe",
+  "zona_slug": "getafe",
+  "tipo_zona": "municipio",
+  "direccion": "esquina con, Avenida de Chile 2A, C. Pedro Almodóvar, 1, 28907 Getafe, Madrid",
+  "telefono": "+34 671 75 59 02",
+  "web": "https://www.lacasitadeingles.com/ingles-ninos-getafe-bercial",
+  "maps": "https://www.google.com/maps/place/?q=place_id:ChIJFa37ZSMhQg0RHoKiOS8R-hY",
+  "rating": 5.0,
+  "opiniones": 81,
+  "horario": [
+   [
+    "Lun",
+    "10:00–14:00, 16:00–19:30"
+   ],
+   [
+    "Mar",
+    "10:00–14:00, 16:00–19:30"
+   ],
+   [
+    "Mié",
+    "10:00–14:00, 16:00–19:30"
+   ],
+   [
+    "Jue",
+    "10:00–14:00, 16:00–19:30"
+   ],
+   [
+    "Vie",
+    "10:00–14:00, 16:00–19:30"
+   ],
+   [
+    "Sáb",
+    "10:00–13:00"
+   ],
+   [
+    "Dom",
+    "Cerrado"
+   ]
+  ],
+  "lat": 40.3189074,
+  "lng": -3.7371483
+ },
+ {
+  "id": "la-casita-de-ingl-s-montecarmelo",
+  "nombre": "La Casita de Inglés Montecarmelo",
+  "categoria": "ingles",
+  "campamento": false,
+  "destacado": true,
+  "zona": "Fuencarral-El Pardo",
+  "zona_slug": "fuencarral-el-pardo",
+  "tipo_zona": "distrito",
+  "direccion": "C. del Monasterio de Oseira, 9, Fuencarral-El Pardo, 28034 Madrid",
+  "telefono": "+34 671 24 41 81",
+  "web": "https://www.lacasitadeingles.com/",
+  "maps": "https://www.google.com/maps/place/?q=place_id:ChIJt8uDss4rQg0RCRizawx6szo",
+  "rating": 5.0,
+  "opiniones": 125,
+  "horario": [
+   [
+    "Lun",
+    "11:00–19:30"
+   ],
+   [
+    "Mar",
+    "11:00–19:30"
+   ],
+   [
+    "Mié",
+    "11:00–19:30"
+   ],
+   [
+    "Jue",
+    "11:00–19:30"
+   ],
+   [
+    "Vie",
+    "11:00–19:30"
+   ],
+   [
+    "Sáb",
+    "11:00–13:00"
+   ],
+   [
+    "Dom",
+    "Cerrado"
+   ]
+  ],
+  "lat": 40.5093479,
+  "lng": -3.6973486
+ },
+ {
+  "id": "la-casita-de-ingl-s-chamber-r-os-rosas",
+  "nombre": "La Casita de Inglés Chamberí - Ríos Rosas",
+  "categoria": "ingles",
+  "campamento": false,
+  "destacado": true,
+  "zona": "Chamberí",
+  "zona_slug": "chamberi",
+  "tipo_zona": "distrito",
+  "direccion": "Calle de Fernández de la Hoz, 80, Chamberí, 28003 Madrid",
+  "telefono": "+34 607 54 00 67",
+  "web": "https://lacasitadeingles.com/academias/chamberi/",
+  "maps": "https://www.google.com/maps/place/?q=place_id:ChIJb0HitvEoQg0ROeBdzL2qjmM",
+  "rating": 5.0,
+  "opiniones": 104,
+  "horario": [
+   [
+    "Lun",
+    "10:00–13:00, 17:00–19:30"
+   ],
+   [
+    "Mar",
+    "10:00–13:00, 17:00–19:30"
+   ],
+   [
+    "Mié",
+    "10:00–13:00, 17:00–19:30"
+   ],
+   [
+    "Jue",
+    "10:00–13:00, 17:00–19:30"
+   ],
+   [
+    "Vie",
+    "10:00–13:00, 17:00–19:30"
+   ],
+   [
+    "Sáb",
+    "11:00–13:00"
+   ],
+   [
+    "Dom",
+    "Cerrado"
+   ]
+  ],
+  "lat": 40.4406593,
+  "lng": -3.6941703
+ },
+ {
+  "id": "la-casita-de-ingl-s-alcobendas",
+  "nombre": "La Casita de Inglés Alcobendas",
+  "categoria": "ingles",
+  "campamento": false,
+  "destacado": true,
+  "zona": "Alcobendas",
+  "zona_slug": "alcobendas",
+  "tipo_zona": "municipio",
+  "direccion": "P.º de Fuente Lucha, 20, 28100 Alcobendas, Madrid",
+  "telefono": "+34 633 20 52 16",
+  "web": "https://www.lacasitadeingles.com/alcobendas-valdelasfuentes-clases",
+  "maps": "https://www.google.com/maps/place/?q=place_id:ChIJNeudKDUtQg0R-HpmAwBWI7A",
+  "rating": 4.9,
+  "opiniones": 119,
+  "horario": [
+   [
+    "Lun",
+    "16:30–19:30"
+   ],
+   [
+    "Mar",
+    "16:30–19:30"
+   ],
+   [
+    "Mié",
+    "16:30–19:30"
+   ],
+   [
+    "Jue",
+    "16:30–19:30"
+   ],
+   [
+    "Vie",
+    "17:00–19:00"
+   ],
+   [
+    "Sáb",
+    "11:00–13:00"
+   ],
+   [
+    "Dom",
+    "Cerrado"
+   ]
+  ],
+  "lat": 40.5553947,
+  "lng": -3.6591832
+ },
+ {
+  "id": "la-casita-de-ingl-s-pozuelo",
+  "nombre": "La Casita de Inglés Pozuelo",
+  "categoria": "ingles",
+  "campamento": false,
+  "destacado": true,
+  "zona": "Pozuelo de Alarcón",
+  "zona_slug": "pozuelo-de-alarcon",
+  "tipo_zona": "municipio",
+  "direccion": "C. Ámbar, 9, 28224 Pozuelo de Alarcón, Madrid",
+  "telefono": "+34 699 93 63 73",
+  "web": "https://lacasitadeingles.com/academias/pozuelo-de-alarcon/",
+  "maps": "https://www.google.com/maps/place/?q=place_id:ChIJp7uGYb8pQg0R27dLASD5_ZY",
+  "rating": 4.9,
+  "opiniones": 153,
+  "horario": [
+   [
+    "Lun",
+    "9:00–19:30"
+   ],
+   [
+    "Mar",
+    "9:00–19:30"
+   ],
+   [
+    "Mié",
+    "9:00–19:30"
+   ],
+   [
+    "Jue",
+    "9:00–19:30"
+   ],
+   [
+    "Vie",
+    "9:00–19:30"
+   ],
+   [
+    "Sáb",
+    "11:00–13:00"
+   ],
+   [
+    "Dom",
+    "Cerrado"
+   ]
+  ],
+  "lat": 40.4414355,
+  "lng": -3.7972143
+ },
+ {
+  "id": "la-casita-de-ingl-s-el-retiro",
+  "nombre": "La Casita de Inglés El Retiro",
+  "categoria": "ingles",
+  "campamento": false,
+  "destacado": true,
+  "zona": "Retiro",
+  "zona_slug": "retiro",
+  "tipo_zona": "distrito",
+  "direccion": "C. de José Sánchez Pescador, 10, Retiro, 28007 Madrid",
+  "telefono": "+34 621 07 07 32",
+  "web": "https://lacasitadeingles.com/academias/retiro-pacifico/",
+  "maps": "https://www.google.com/maps/place/?q=place_id:ChIJURL5tbwnQg0RI5UANtpGPdA",
+  "rating": 4.9,
+  "opiniones": 53,
+  "horario": [
+   [
+    "Lun",
+    "11:00–14:00, 15:00–19:30"
+   ],
+   [
+    "Mar",
+    "11:00–14:00, 15:00–19:30"
+   ],
+   [
+    "Mié",
+    "11:00–14:00, 15:00–19:30"
+   ],
+   [
+    "Jue",
+    "11:00–14:00, 15:00–19:30"
+   ],
+   [
+    "Vie",
+    "11:00–14:00, 15:00–19:30"
+   ],
+   [
+    "Sáb",
+    "11:00–13:00"
+   ],
+   [
+    "Dom",
+    "Cerrado"
+   ]
+  ],
+  "lat": 40.4066023,
+  "lng": -3.6786764
+ },
+ {
+  "id": "la-casita-de-ingl-s-alameda-de-osuna",
+  "nombre": "La Casita de Inglés Alameda de Osuna",
+  "categoria": "ingles",
+  "campamento": false,
+  "destacado": true,
+  "zona": "Barajas",
+  "zona_slug": "barajas",
+  "tipo_zona": "distrito",
+  "direccion": "C. Noray, 6, Barajas, 28042 Madrid",
+  "telefono": "+34 602 67 62 47",
+  "web": "https://lacasitadeingles.com/academias/piovera-barajas-alameda-de-osuna/",
+  "maps": "https://www.google.com/maps/place/?q=place_id:ChIJAx6ltwUvQg0RlZq85xcZVnI",
+  "rating": 5.0,
+  "opiniones": 40,
+  "horario": [
+   [
+    "Lun",
+    "11:00–19:30"
+   ],
+   [
+    "Mar",
+    "11:00–19:30"
+   ],
+   [
+    "Mié",
+    "11:00–19:30"
+   ],
+   [
+    "Jue",
+    "11:00–19:30"
+   ],
+   [
+    "Vie",
+    "11:00–19:30"
+   ],
+   [
+    "Sáb",
+    "11:00–13:00"
+   ],
+   [
+    "Dom",
+    "Cerrado"
+   ]
+  ],
+  "lat": 40.4511893,
+  "lng": -3.5957537
+ },
+ {
+  "id": "la-casita-de-ingl-s-legan-s",
+  "nombre": "La Casita de Inglés Leganés",
+  "categoria": "ingles",
+  "campamento": false,
+  "destacado": true,
+  "zona": "Leganés",
+  "zona_slug": "leganes",
+  "tipo_zona": "municipio",
+  "direccion": "Av. Vicente Ferrer, 3, 28918 Leganés, Madrid",
+  "telefono": "+34 654 45 97 79",
+  "web": "https://lacasitadeingles.com/academias/leganes/",
+  "maps": "https://www.google.com/maps/place/?q=place_id:ChIJb-YOsYeJQQ0R8d3HBP0tuNk",
+  "rating": 5.0,
+  "opiniones": 33,
+  "horario": [
+   [
+    "Lun",
+    "10:00–19:30"
+   ],
+   [
+    "Mar",
+    "10:00–19:30"
+   ],
+   [
+    "Mié",
+    "10:00–19:30"
+   ],
+   [
+    "Jue",
+    "10:00–19:30"
+   ],
+   [
+    "Vie",
+    "10:00–19:30"
+   ],
+   [
+    "Sáb",
+    "10:00–13:00"
+   ],
+   [
+    "Dom",
+    "Cerrado"
+   ]
+  ],
+  "lat": 40.3379668,
+  "lng": -3.7829081
+ },
+ {
+  "id": "la-casita-de-ingl-s-p-o-xii",
+  "nombre": "La Casita de Inglés Pío XII",
+  "categoria": "ingles",
+  "campamento": false,
+  "destacado": true,
+  "zona": "Chamartín",
+  "zona_slug": "chamartin",
+  "tipo_zona": "distrito",
+  "direccion": "C. Bosque, 4, Loc, Chamartín, 28016 Madrid",
+  "telefono": "+34 919 93 37 69",
+  "web": "https://lacasitadeingles.com/academias/pio-xii/",
+  "maps": "https://www.google.com/maps/place/?q=place_id:ChIJ94iBgUEpQg0RlKAoOXgEPMA",
+  "rating": 5.0,
+  "opiniones": 28,
+  "horario": [
+   [
+    "Lun",
+    "12:30–19:30"
+   ],
+   [
+    "Mar",
+    "12:30–19:30"
+   ],
+   [
+    "Mié",
+    "12:30–19:30"
+   ],
+   [
+    "Jue",
+    "12:30–19:30"
+   ],
+   [
+    "Vie",
+    "12:30–19:30"
+   ],
+   [
+    "Sáb",
+    "11:00–13:00"
+   ],
+   [
+    "Dom",
+    "Cerrado"
+   ]
+  ],
+  "lat": 40.4633713,
+  "lng": -3.6712934
+ },
+ {
+  "id": "casita-de-ingles-vallehermoso",
+  "nombre": "Casita de Ingles Vallehermoso",
+  "categoria": "ingles",
+  "campamento": false,
+  "destacado": true,
+  "zona": "Chamberí",
+  "zona_slug": "chamberi",
+  "tipo_zona": "distrito",
+  "direccion": "Paseo de S. Fco. de Sales, 29, Chamberí, 28003 Madrid",
+  "telefono": "+34 632 18 86 59",
+  "web": "https://lacasitadeingles.com/academias/vallehermoso/",
+  "maps": "https://www.google.com/maps/place/?q=place_id:ChIJmyKA7WspQg0RiqtKfBlcnmQ",
+  "rating": 5.0,
+  "opiniones": 1,
+  "horario": [
+   [
+    "Lun",
+    "16:30–20:00"
+   ],
+   [
+    "Mar",
+    "16:30–20:00"
+   ],
+   [
+    "Mié",
+    "16:30–20:00"
+   ],
+   [
+    "Jue",
+    "16:30–20:00"
+   ],
+   [
+    "Vie",
+    "16:30–20:00"
+   ],
+   [
+    "Sáb",
+    "11:00–13:00"
+   ],
+   [
+    "Dom",
+    "Cerrado"
+   ]
+  ],
+  "lat": 40.4421558,
+  "lng": -3.7138306
+ },
+ {
+  "id": "lauras-dance-lauras-dance-studio",
+  "nombre": "Lauras' Dance / Lauras' Dance Studio",
+  "categoria": "baile",
+  "campamento": false,
+  "destacado": false,
+  "zona": "Fuencarral-El Pardo",
+  "zona_slug": "fuencarral-el-pardo",
+  "tipo_zona": "distrito",
+  "direccion": "C. de Navarrete, 9, Fuencarral-El Pardo, 28050 Madrid",
+  "telefono": "+34 642 44 68 82",
+  "web": "http://www.lauras-dance.com/",
+  "maps": "https://www.google.com/maps/place/?q=place_id:ChIJycVvPc0nQg0Ri4YqXLnkBaA",
+  "rating": 5.0,
+  "opiniones": 270,
+  "horario": [
+   [
+    "Lun",
+    "9:00–22:00"
+   ],
+   [
+    "Mar",
+    "9:00–22:00"
+   ],
+   [
+    "Mié",
+    "9:00–22:00"
+   ],
+   [
+    "Jue",
+    "9:00–22:00"
+   ],
+   [
+    "Vie",
+    "9:00–22:00"
+   ],
+   [
+    "Sáb",
+    "9:00–22:00"
+   ],
+   [
+    "Dom",
+    "9:00–22:00"
+   ]
+  ],
+  "lat": 40.4998828,
+  "lng": -3.6728813
+ },
+ {
+  "id": "la-clase-de-sylvia",
+  "nombre": "La clase de Sylvia",
+  "categoria": "idiomas",
+  "campamento": false,
+  "destacado": false,
+  "zona": "Majadahonda",
+  "zona_slug": "majadahonda",
+  "tipo_zona": "municipio",
+  "direccion": "C. Zuloaga, 18, 2ºD, 28222 Majadahonda, Madrid",
+  "telefono": "+34 681 38 04 98",
+  "web": "https://laclasedesylvia.com/",
+  "maps": "https://www.google.com/maps/place/?q=place_id:ChIJjZlcajF-g0MRY1jHmdF5v4M",
+  "rating": 5.0,
+  "opiniones": 72,
+  "horario": [
+   [
+    "Lun",
+    "10:00–20:00"
+   ],
+   [
+    "Mar",
+    "10:00–20:00"
+   ],
+   [
+    "Mié",
+    "10:00–20:00"
+   ],
+   [
+    "Jue",
+    "10:00–20:00"
+   ],
+   [
+    "Vie",
+    "10:00–20:00"
+   ],
+   [
+    "Sáb",
+    "Cerrado"
+   ],
+   [
+    "Dom",
+    "Cerrado"
+   ]
+  ],
+  "lat": 40.4522593,
+  "lng": -3.8639241
+ },
+ {
+  "id": "academia-de-idiomas-the-english-centre",
+  "nombre": "Academia De Idiomas The English Centre",
+  "categoria": "ingles",
+  "campamento": false,
+  "destacado": false,
+  "zona": "Boadilla del Monte",
+  "zona_slug": "boadilla-del-monte",
+  "tipo_zona": "municipio",
+  "direccion": "Av. de la Condesa de Chinchón, 107, 1ª planta, 28660 Boadilla del Monte, Madrid",
+  "telefono": "+34 915 27 60 33",
+  "web": "http://www.theenglishcentreboadilla.es/",
+  "maps": "https://www.google.com/maps/place/?q=place_id:ChIJyyLQ0IyPQQ0RNmsSHhy-9YM",
+  "rating": 5.0,
+  "opiniones": 129,
+  "horario": [
+   [
+    "Lun",
+    "10:00–12:00, 16:00–20:00"
+   ],
+   [
+    "Mar",
+    "10:00–12:00, 16:00–20:00"
+   ],
+   [
+    "Mié",
+    "10:00–12:00, 16:00–20:00"
+   ],
+   [
+    "Jue",
+    "10:00–12:00, 16:00–20:00"
+   ],
+   [
+    "Vie",
+    "10:00–12:00"
+   ],
+   [
+    "Sáb",
+    "Cerrado"
+   ],
+   [
+    "Dom",
+    "Cerrado"
+   ]
+  ],
+  "lat": 40.3986734,
+  "lng": -3.8923232
+ },
+ {
+  "id": "the-rose-language-school-academia-de-ingl-s-alem-n-y-japon-s-getafe-y-online",
+  "nombre": "The Rose Language School-Academia de inglés, alemán y japonés Getafe y online",
+  "categoria": "ingles",
+  "campamento": false,
+  "destacado": false,
+  "zona": "Getafe",
+  "zona_slug": "getafe",
+  "tipo_zona": "municipio",
+  "direccion": "C. Hospital de San José, 83, Bajo, 28901 Getafe, Madrid",
+  "telefono": "",
+  "web": "http://www.theroseidiomas.es/",
+  "maps": "https://www.google.com/maps/place/?q=place_id:ChIJFV2ZlQ4hQg0Rhv1KMt2uZho",
+  "rating": 5.0,
+  "opiniones": 195,
+  "horario": [
+   [
+    "Lun",
+    "12:00–14:00, 16:00–21:00"
+   ],
+   [
+    "Mar",
+    "9:00–11:00, 17:00–21:00"
+   ],
+   [
+    "Mié",
+    "17:00–21:00"
+   ],
+   [
+    "Jue",
+    "19:00–21:00"
+   ],
+   [
+    "Vie",
+    "16:00–21:00"
+   ],
+   [
+    "Sáb",
+    "10:30–13:30"
+   ],
+   [
+    "Dom",
+    "Cerrado"
+   ]
+  ],
+  "lat": 40.3052914,
+  "lng": -3.7252399
+ },
+ {
+  "id": "kosmokids",
+  "nombre": "KosmoKids",
+  "categoria": "ingles",
+  "campamento": false,
+  "destacado": false,
+  "zona": "Fuencarral-El Pardo",
+  "zona_slug": "fuencarral-el-pardo",
+  "tipo_zona": "distrito",
+  "direccion": "Av. del Monasterio de El Escorial, 26, Fuencarral-El Pardo, 28049 Madrid",
+  "telefono": "+34 644 75 70 54",
+  "web": "http://www.kosmokids.es/",
+  "maps": "https://www.google.com/maps/place/?q=place_id:ChIJpdTAhy0qQg0RYC10H7GTQ9M",
+  "rating": 5.0,
+  "opiniones": 55,
+  "horario": [
+   [
+    "Lun",
+    "11:00–14:00, 17:30–19:30"
+   ],
+   [
+    "Mar",
+    "11:00–14:00, 17:30–19:30"
+   ],
+   [
+    "Mié",
+    "11:00–14:00, 17:30–19:30"
+   ],
+   [
+    "Jue",
+    "11:00–14:00, 17:30–19:30"
+   ],
+   [
+    "Vie",
+    "11:00–14:00, 17:30–19:30"
+   ],
+   [
+    "Sáb",
+    "Cerrado"
+   ],
+   [
+    "Dom",
+    "Cerrado"
+   ]
+  ],
+  "lat": 40.5040839,
+  "lng": -3.7059237
+ },
+ {
+  "id": "yo-bailo-academia-de-baile",
+  "nombre": "YO BAILO ACADEMIA DE BAILE",
+  "categoria": "baile",
+  "campamento": false,
+  "destacado": false,
+  "zona": "Retiro",
+  "zona_slug": "retiro",
+  "tipo_zona": "distrito",
+  "direccion": "el local esta al lateral de edificio, C. del Cafeto, C. de Játiva, 5, entrada por, 28007 Madrid",
+  "telefono": "+34 641 89 69 64",
+  "web": "https://www.yobailoacademiadebaile.com/",
+  "maps": "https://www.google.com/maps/place/?q=place_id:ChIJd5v2HrEnQg0RwqF7iXY0TK4",
+  "rating": 5.0,
+  "opiniones": 197,
+  "horario": [
+   [
+    "Lun",
+    "9:00–23:00"
+   ],
+   [
+    "Mar",
+    "9:00–23:00"
+   ],
+   [
+    "Mié",
+    "9:00–23:00"
+   ],
+   [
+    "Jue",
+    "9:00–23:00"
+   ],
+   [
+    "Vie",
+    "9:00–23:00"
+   ],
+   [
+    "Sáb",
+    "10:00–23:00"
+   ],
+   [
+    "Dom",
+    "10:00–23:00"
+   ]
+  ],
+  "lat": 40.3986615,
+  "lng": -3.6732137
+ },
+ {
+  "id": "dance-school-dance-without-stopping",
+  "nombre": "Dance School dance without stopping",
+  "categoria": "baile",
+  "campamento": false,
+  "destacado": false,
+  "zona": "Moncloa-Aravaca",
+  "zona_slug": "moncloa-aravaca",
+  "tipo_zona": "distrito",
+  "direccion": "Progreso Musical, Clases y horarios previa cita, C. del Tutor, 52, 28008 Madrid",
+  "telefono": "+34 649 48 59 79",
+  "web": "http://bailasinparar.com/",
+  "maps": "https://www.google.com/maps/place/?q=place_id:ChIJL8goF9UnQg0RV3sKGfJluKA",
+  "rating": 5.0,
+  "opiniones": 66,
+  "horario": [
+   [
+    "Lun",
+    "10:00–21:00"
+   ],
+   [
+    "Mar",
+    "10:00–21:00"
+   ],
+   [
+    "Mié",
+    "10:00–21:00"
+   ],
+   [
+    "Jue",
+    "10:00–21:00"
+   ],
+   [
+    "Vie",
+    "10:00–21:00"
+   ],
+   [
+    "Sáb",
+    "10:00–14:00"
+   ],
+   [
+    "Dom",
+    "Cerrado"
+   ]
+  ],
+  "lat": 40.4310174,
+  "lng": -3.7178464
+ },
+ {
+  "id": "aqu-se-baila",
+  "nombre": "Aquí se Baila",
+  "categoria": "baile",
+  "campamento": false,
+  "destacado": false,
+  "zona": "Arganzuela",
+  "zona_slug": "arganzuela",
+  "tipo_zona": "distrito",
+  "direccion": "C. de Torres Miranda, 17, Arganzuela, 28045 Madrid",
+  "telefono": "+34 603 44 53 15",
+  "web": "http://www.aquisebailamadrid.com/",
+  "maps": "https://www.google.com/maps/place/?q=place_id:ChIJPSX2qxYnQg0R0wiFa_ByewY",
+  "rating": 5.0,
+  "opiniones": 51,
+  "horario": [
+   [
+    "Lun",
+    "17:00–21:30"
+   ],
+   [
+    "Mar",
+    "17:00–21:30"
+   ],
+   [
+    "Mié",
+    "17:00–21:30"
+   ],
+   [
+    "Jue",
+    "17:00–21:30"
+   ],
+   [
+    "Vie",
+    "17:00–20:30"
+   ],
+   [
+    "Sáb",
+    "Cerrado"
+   ],
+   [
+    "Dom",
+    "Cerrado"
+   ]
+  ],
+  "lat": 40.3979841,
+  "lng": -3.7001685
+ },
+ {
+  "id": "rldance-madrid",
+  "nombre": "RLDance Madrid",
+  "categoria": "baile",
+  "campamento": false,
+  "destacado": false,
+  "zona": "Centro",
+  "zona_slug": "centro",
+  "tipo_zona": "distrito",
+  "direccion": "Calle de la Magdalena, 7, Centro, 28012 Madrid",
+  "telefono": "+34 635 12 16 38",
+  "web": "https://rldancemadrid.my.canva.site/",
+  "maps": "https://www.google.com/maps/place/?q=place_id:ChIJwTAh_2QnQg0ROLtqU8MJL9E",
+  "rating": 5.0,
+  "opiniones": 98,
+  "horario": [
+   [
+    "Lun",
+    "13:00–23:00"
+   ],
+   [
+    "Mar",
+    "13:00–23:00"
+   ],
+   [
+    "Mié",
+    "15:00–21:00"
+   ],
+   [
+    "Jue",
+    "18:30–23:00"
+   ],
+   [
+    "Vie",
+    "13:00–23:00"
+   ],
+   [
+    "Sáb",
+    "9:00–22:00"
+   ],
+   [
+    "Dom",
+    "10:00–21:00"
+   ]
+  ],
+  "lat": 40.4124848,
+  "lng": -3.7023628
+ },
+ {
+  "id": "escuela-de-m-sica-en-madrid-la-armon-a-de-vivir",
+  "nombre": "Escuela de Música en Madrid | La Armonía de Vivir",
+  "categoria": "musica",
+  "campamento": false,
+  "destacado": false,
+  "zona": "Salamanca",
+  "zona_slug": "salamanca",
+  "tipo_zona": "distrito",
+  "direccion": "Calle del General Díaz Porlier, 36, Loc, Salamanca, 28001 Madrid",
+  "telefono": "+34 625 55 35 59",
+  "web": "https://escuelamusicamadrid.es/",
+  "maps": "https://www.google.com/maps/place/?q=place_id:ChIJ5V-7_bsoQg0RHmNyVwNMuB4",
+  "rating": 5.0,
+  "opiniones": 147,
+  "horario": [
+   [
+    "Lun",
+    "10:00–21:30"
+   ],
+   [
+    "Mar",
+    "10:00–21:30"
+   ],
+   [
+    "Mié",
+    "10:00–21:30"
+   ],
+   [
+    "Jue",
+    "10:00–21:30"
+   ],
+   [
+    "Vie",
+    "10:00–20:30"
+   ],
+   [
+    "Sáb",
+    "10:00–13:30"
+   ],
+   [
+    "Dom",
+    "Cerrado"
+   ]
+  ],
+  "lat": 40.428173,
+  "lng": -3.6765005
+ },
+ {
+  "id": "academia-de-pintura-demilcolores",
+  "nombre": "Academia de pintura Demilcolores",
+  "categoria": "arte",
+  "campamento": false,
+  "destacado": false,
+  "zona": "Ciudad Lineal",
+  "zona_slug": "ciudad-lineal",
+  "tipo_zona": "distrito",
+  "direccion": "C. Prudencio Álvaro, 36, Loc, Cdad. Lineal, 28027 Madrid",
+  "telefono": "+34 644 05 92 93",
+  "web": "",
+  "maps": "https://www.google.com/maps/place/?q=place_id:ChIJVfpC4FgvQg0Rn8H_F5DPz7A",
+  "rating": 5.0,
+  "opiniones": 51,
+  "horario": [
+   [
+    "Lun",
+    "10:00–20:30"
+   ],
+   [
+    "Mar",
+    "10:00–20:30"
+   ],
+   [
+    "Mié",
+    "10:00–20:30"
+   ],
+   [
+    "Jue",
+    "10:00–20:30"
+   ],
+   [
+    "Vie",
+    "10:00–20:30"
+   ],
+   [
+    "Sáb",
+    "Cerrado"
+   ],
+   [
+    "Dom",
+    "Cerrado"
+   ]
+  ],
+  "lat": 40.4379243,
+  "lng": -3.6449335
+ },
+ {
+  "id": "imagine-creativity-workshop",
+  "nombre": "Imagine. Creativity Workshop",
+  "categoria": "arte",
+  "campamento": false,
+  "destacado": false,
+  "zona": "Tetuán",
+  "zona_slug": "tetuan",
+  "tipo_zona": "distrito",
+  "direccion": "C. de la Reina Mercedes, 19, Tetuán, 28020 Madrid",
+  "telefono": "+34 657 78 65 80",
+  "web": "https://www.imaginaescuelacreativa.com/",
+  "maps": "https://www.google.com/maps/place/?q=place_id:ChIJ42F43PgoQg0RokrXGG8Zagc",
+  "rating": 5.0,
+  "opiniones": 107,
+  "horario": [
+   [
+    "Lun",
+    "16:00–19:30"
+   ],
+   [
+    "Mar",
+    "16:00–21:00"
+   ],
+   [
+    "Mié",
+    "16:00–21:00"
+   ],
+   [
+    "Jue",
+    "16:00–21:00"
+   ],
+   [
+    "Vie",
+    "16:00–19:30"
+   ],
+   [
+    "Sáb",
+    "Cerrado"
+   ],
+   [
+    "Dom",
+    "Cerrado"
+   ]
+  ],
+  "lat": 40.4510807,
+  "lng": -3.6970213
+ },
+ {
+  "id": "garabatos-escuela-de-arte",
+  "nombre": "Garabatos Escuela de Arte",
+  "categoria": "arte",
+  "campamento": false,
+  "destacado": false,
+  "zona": "Carabanchel",
+  "zona_slug": "carabanchel",
+  "tipo_zona": "distrito",
+  "direccion": "C. Baleares, 29, Carabanchel, 28019 Madrid",
+  "telefono": "+34 617 79 41 12",
+  "web": "http://www.garabatosescueladearte.com/",
+  "maps": "https://www.google.com/maps/place/?q=place_id:ChIJ5S3_18cnQg0RXxvEAl_aMWY",
+  "rating": 5.0,
+  "opiniones": 107,
+  "horario": [
+   [
+    "Lun",
+    "10:00–14:00, 17:00–21:00"
+   ],
+   [
+    "Mar",
+    "10:00–14:00, 17:00–21:00"
+   ],
+   [
+    "Mié",
+    "10:00–14:00, 17:00–21:00"
+   ],
+   [
+    "Jue",
+    "10:00–14:00, 17:00–21:00"
+   ],
+   [
+    "Vie",
+    "10:00–14:00, 17:00–21:00"
+   ],
+   [
+    "Sáb",
+    "10:00–14:00"
+   ],
+   [
+    "Dom",
+    "Cerrado"
+   ]
+  ],
+  "lat": 40.394118,
+  "lng": -3.713068
+ },
+ {
+  "id": "mad-english",
+  "nombre": "Mad English",
+  "categoria": "ingles",
+  "campamento": false,
+  "destacado": false,
+  "zona": "Centro",
+  "zona_slug": "centro",
+  "tipo_zona": "distrito",
+  "direccion": "C. de Mejía Lequerica, 3, Centro, 28004 Madrid",
+  "telefono": "+34 910 06 01 59",
+  "web": "http://www.madenglish.com/",
+  "maps": "https://www.google.com/maps/place/?q=place_id:ChIJ5fIyGo8oQg0RDPNKZTbOQHw",
+  "rating": 5.0,
+  "opiniones": 69,
+  "horario": [
+   [
+    "Lun",
+    "10:00–18:00"
+   ],
+   [
+    "Mar",
+    "10:00–18:00"
+   ],
+   [
+    "Mié",
+    "10:00–18:00"
+   ],
+   [
+    "Jue",
+    "10:00–18:00"
+   ],
+   [
+    "Vie",
+    "10:00–15:00"
+   ],
+   [
+    "Sáb",
+    "Cerrado"
+   ],
+   [
+    "Dom",
+    "Cerrado"
+   ]
+  ],
+  "lat": 40.4263442,
+  "lng": -3.6979123
+ },
+ {
+  "id": "mucho-m-s-que-idiomas-com",
+  "nombre": "Mucho Más Que Idiomas.Com",
+  "categoria": "apoyo-escolar",
+  "campamento": false,
+  "destacado": false,
+  "zona": "Centro",
+  "zona_slug": "centro",
+  "tipo_zona": "distrito",
+  "direccion": "C. de la Alameda, 22, Centro, 28014 Madrid",
+  "telefono": "+34 603 85 92 06",
+  "web": "http://www.muchomasqueidiomas.com/",
+  "maps": "https://www.google.com/maps/place/?q=place_id:ChIJZdg-pB0pQg0RWJiMa84U7LY",
+  "rating": 5.0,
+  "opiniones": 63,
+  "horario": [
+   [
+    "Lun",
+    "9:00–19:00"
+   ],
+   [
+    "Mar",
+    "9:00–19:00"
+   ],
+   [
+    "Mié",
+    "9:00–19:00"
+   ],
+   [
+    "Jue",
+    "9:00–19:00"
+   ],
+   [
+    "Vie",
+    "9:00–19:00"
+   ],
+   [
+    "Sáb",
+    "Cerrado"
+   ],
+   [
+    "Dom",
+    "Cerrado"
+   ]
+  ],
+  "lat": 40.4104932,
+  "lng": -3.6939227
+ },
+ {
+  "id": "cambridge-house",
+  "nombre": "Cambridge House",
+  "categoria": "ingles",
+  "campamento": false,
+  "destacado": false,
+  "zona": "Tetuán",
+  "zona_slug": "tetuan",
+  "tipo_zona": "distrito",
+  "direccion": "C. de Orense, 16, Tetuán, 28020 Madrid",
+  "telefono": "+34 917 70 87 06",
+  "web": "http://www.cambridge-house.com/centros/escuela-de-intensivos-nuevos-ministerios.html",
+  "maps": "https://www.google.com/maps/place/?q=place_id:ChIJbdLpiPwoQg0RpRAAMCTZgd4",
+  "rating": 5.0,
+  "opiniones": 183,
+  "horario": [
+   [
+    "Lun",
+    "10:30–13:00, 16:00–20:30"
+   ],
+   [
+    "Mar",
+    "10:30–13:00, 16:00–20:30"
+   ],
+   [
+    "Mié",
+    "10:30–13:00, 16:00–20:30"
+   ],
+   [
+    "Jue",
+    "10:30–13:00, 16:00–20:30"
+   ],
+   [
+    "Vie",
+    "16:00–19:15"
+   ],
+   [
+    "Sáb",
+    "Cerrado"
+   ],
+   [
+    "Dom",
+    "Cerrado"
+   ]
+  ],
+  "lat": 40.4498337,
+  "lng": -3.6947744
+ },
+ {
+  "id": "castletown-idiomas",
+  "nombre": "Castletown Idiomas",
+  "categoria": "ingles",
+  "campamento": false,
+  "destacado": false,
+  "zona": "Ciudad Lineal",
+  "zona_slug": "ciudad-lineal",
+  "tipo_zona": "distrito",
+  "direccion": "C. de Agastia, 112, B, Cdad. Lineal, 28043 Madrid",
+  "telefono": "+34 633 12 80 58",
+  "web": "https://castletown.es/",
+  "maps": "https://www.google.com/maps/place/?q=place_id:ChIJZXxnFyovQg0RL3izfPVgqs8",
+  "rating": 5.0,
+  "opiniones": 51,
+  "horario": [
+   [
+    "Lun",
+    "9:00–21:00"
+   ],
+   [
+    "Mar",
+    "9:00–21:00"
+   ],
+   [
+    "Mié",
+    "9:00–21:00"
+   ],
+   [
+    "Jue",
+    "9:00–21:00"
+   ],
+   [
+    "Vie",
+    "9:00–21:00"
+   ],
+   [
+    "Sáb",
+    "Cerrado"
+   ],
+   [
+    "Dom",
+    "Cerrado"
+   ]
+  ],
+  "lat": 40.4540711,
+  "lng": -3.6579757
+ },
+ {
+  "id": "impulse-english-academy-la-vaguada",
+  "nombre": "Impulse English Academy La Vaguada",
+  "categoria": "ingles",
+  "campamento": false,
+  "destacado": false,
+  "zona": "Fuencarral-El Pardo",
+  "zona_slug": "fuencarral-el-pardo",
+  "tipo_zona": "distrito",
+  "direccion": "Av. de El Ferrol, 22, Loc 1, Fuencarral-El Pardo, 28029 Madrid",
+  "telefono": "+34 604 91 06 11",
+  "web": "https://impulse-english.es/?utm_source=google&utm_medium=organic-local&utm_campaign=barrio-del-pilar",
+  "maps": "https://www.google.com/maps/place/?q=place_id:ChIJG7G2oAkpQg0Re7iLuuLzbr4",
+  "rating": 5.0,
+  "opiniones": 193,
+  "horario": [
+   [
+    "Lun",
+    "10:00–21:00"
+   ],
+   [
+    "Mar",
+    "10:00–21:00"
+   ],
+   [
+    "Mié",
+    "10:00–21:00"
+   ],
+   [
+    "Jue",
+    "10:00–21:00"
+   ],
+   [
+    "Vie",
+    "10:00–19:30"
+   ],
+   [
+    "Sáb",
+    "Cerrado"
+   ],
+   [
+    "Dom",
+    "Cerrado"
+   ]
+  ],
+  "lat": 40.4743948,
+  "lng": -3.7059009
+ },
+ {
+  "id": "newsland-languages-sl",
+  "nombre": "Newsland LANGUAGES SL",
+  "categoria": "ingles",
+  "campamento": false,
+  "destacado": false,
+  "zona": "Fuencarral-El Pardo",
+  "zona_slug": "fuencarral-el-pardo",
+  "tipo_zona": "distrito",
+  "direccion": "Av del Cardenal Herrera Oria, 173, Fuencarral-El Pardo, 28034 Madrid",
+  "telefono": "+34 917 30 32 52",
+  "web": "https://newslandidiomas.es/",
+  "maps": "https://www.google.com/maps/place/?q=place_id:ChIJ3d0MYGEpQg0RwJo5MmxltkI",
+  "rating": 5.0,
+  "opiniones": 82,
+  "horario": [
+   [
+    "Lun",
+    "10:00–13:00, 16:00–20:30"
+   ],
+   [
+    "Mar",
+    "10:00–13:00, 16:00–20:30"
+   ],
+   [
+    "Mié",
+    "10:00–13:00, 16:00–20:30"
+   ],
+   [
+    "Jue",
+    "10:00–13:00, 16:00–20:30"
+   ],
+   [
+    "Vie",
+    "16:00–19:30"
+   ],
+   [
+    "Sáb",
+    "Cerrado"
+   ],
+   [
+    "Dom",
+    "Cerrado"
+   ]
+  ],
+  "lat": 40.483874,
+  "lng": -3.711394
+ },
+ {
+  "id": "emotioning-school-academia-de-ingl-s-creatividad-y-coaching",
+  "nombre": "Emotioning School - Academia de inglés, creatividad y coaching",
+  "categoria": "arte",
+  "campamento": false,
+  "destacado": false,
+  "zona": "Retiro",
+  "zona_slug": "retiro",
+  "tipo_zona": "distrito",
+  "direccion": "C. de Granada, 11, Loc 2, Retiro, 28007 Madrid",
+  "telefono": "+34 623 50 71 90",
+  "web": "http://www.emotioningschool.com/",
+  "maps": "https://www.google.com/maps/place/?q=place_id:ChIJ45LR7bH_vgkRU9W5IU93gOY",
+  "rating": 5.0,
+  "opiniones": 124,
+  "horario": [
+   [
+    "Lun",
+    "8:00–21:00"
+   ],
+   [
+    "Mar",
+    "8:00–21:00"
+   ],
+   [
+    "Mié",
+    "8:00–21:00"
+   ],
+   [
+    "Jue",
+    "8:00–21:00"
+   ],
+   [
+    "Vie",
+    "8:00–19:00"
+   ],
+   [
+    "Sáb",
+    "9:00–19:00"
+   ],
+   [
+    "Dom",
+    "Cerrado"
+   ]
+  ],
+  "lat": 40.4049331,
+  "lng": -3.6793608
+ },
+ {
+  "id": "english-yes-you-can",
+  "nombre": "ENGLISH YES YOU CAN",
+  "categoria": "ingles",
+  "campamento": false,
+  "destacado": false,
+  "zona": "Moncloa-Aravaca",
+  "zona_slug": "moncloa-aravaca",
+  "tipo_zona": "distrito",
+  "direccion": "C. de Ferraz, 28, 2º Izda, Moncloa - Aravaca, 28008 Madrid",
+  "telefono": "+34 652 43 63 91",
+  "web": "http://www.englishyesyoucan.com/",
+  "maps": "https://www.google.com/maps/place/?q=place_id:ChIJu-7nf44oQg0R-yn5RuZ_uUY",
+  "rating": 5.0,
+  "opiniones": 94,
+  "horario": [
+   [
+    "Lun",
+    "9:00–22:00"
+   ],
+   [
+    "Mar",
+    "9:00–22:00"
+   ],
+   [
+    "Mié",
+    "9:00–22:00"
+   ],
+   [
+    "Jue",
+    "9:00–22:00"
+   ],
+   [
+    "Vie",
+    "9:00–22:00"
+   ],
+   [
+    "Sáb",
+    "9:00–22:00"
+   ],
+   [
+    "Dom",
+    "9:00–22:00"
+   ]
+  ],
+  "lat": 40.4254448,
+  "lng": -3.7164176
+ },
+ {
+  "id": "salsal-n-artes-esc-nicas",
+  "nombre": "Salsalón Artes Escénicas",
+  "categoria": "baile",
+  "campamento": false,
+  "destacado": false,
+  "zona": "Retiro",
+  "zona_slug": "retiro",
+  "tipo_zona": "distrito",
+  "direccion": "C. de Valderribas, 10, Retiro, 28007 Madrid",
+  "telefono": "+34 622 90 09 21",
+  "web": "http://www.salsalon.com/",
+  "maps": "https://www.google.com/maps/place/?q=place_id:ChIJM-Xl06coQg0RwURec4XyM3k",
+  "rating": 4.9,
+  "opiniones": 89,
+  "horario": [
+   [
+    "Lun",
+    "17:00–23:00"
+   ],
+   [
+    "Mar",
+    "17:00–23:00"
+   ],
+   [
+    "Mié",
+    "17:00–23:00"
+   ],
+   [
+    "Jue",
+    "17:00–23:00"
+   ],
+   [
+    "Vie",
+    "17:00–23:00"
+   ],
+   [
+    "Sáb",
+    "Cerrado"
+   ],
+   [
+    "Dom",
+    "Cerrado"
+   ]
+  ],
+  "lat": 40.405805,
+  "lng": -3.6788257
+ },
+ {
+  "id": "performing-english-academia-de-ingl-s-y-teatro-en-ingl-s",
+  "nombre": "Performing English - Academia de inglés y teatro en inglés",
+  "categoria": "ingles",
+  "campamento": false,
+  "destacado": false,
+  "zona": "Alcobendas",
+  "zona_slug": "alcobendas",
+  "tipo_zona": "municipio",
+  "direccion": "P.º de Fuente Lucha, 28100 Alcobendas, Madrid",
+  "telefono": "+34 653 87 52 13",
+  "web": "http://www.performingenglish.net/",
+  "maps": "https://www.google.com/maps/place/?q=place_id:ChIJJe1I954sQg0Rn-FXJE_GTIk",
+  "rating": 4.9,
+  "opiniones": 97,
+  "horario": [
+   [
+    "Lun",
+    "12:00–20:00"
+   ],
+   [
+    "Mar",
+    "12:00–20:00"
+   ],
+   [
+    "Mié",
+    "12:00–20:00"
+   ],
+   [
+    "Jue",
+    "12:00–20:00"
+   ],
+   [
+    "Vie",
+    "12:00–20:00"
+   ],
+   [
+    "Sáb",
+    "Cerrado"
+   ],
+   [
+    "Dom",
+    "Cerrado"
+   ]
+  ],
+  "lat": 40.5569803,
+  "lng": -3.6590048
+ },
+ {
+  "id": "what-s-up",
+  "nombre": "What's Up!",
+  "categoria": "ingles",
+  "campamento": false,
+  "destacado": false,
+  "zona": "Leganés",
+  "zona_slug": "leganes",
+  "tipo_zona": "municipio",
+  "direccion": "Pl. Salvador, 12, 28911 Leganés, Madrid",
+  "telefono": "+34 911 08 71 25",
+  "web": "https://whatsup.es/google-maps?utm_source=gmb&utm_medium=organic&utm_campaign=gmb_website",
+  "maps": "https://www.google.com/maps/place/?q=place_id:ChIJmzZ7dI-LQQ0RSOSVD99rgaY",
+  "rating": 4.9,
+  "opiniones": 211,
+  "horario": [
+   [
+    "Lun",
+    "9:30–21:30"
+   ],
+   [
+    "Mar",
+    "9:30–21:30"
+   ],
+   [
+    "Mié",
+    "9:30–21:30"
+   ],
+   [
+    "Jue",
+    "9:30–21:30"
+   ],
+   [
+    "Vie",
+    "9:30–21:30"
+   ],
+   [
+    "Sáb",
+    "10:00–14:00"
+   ],
+   [
+    "Dom",
+    "Cerrado"
+   ]
+  ],
+  "lat": 40.3268075,
+  "lng": -3.7647006
+ },
+ {
+  "id": "academia-en-leganes-ceronicex-apoyo-escolar-primaria-eso-y-bachillerato-ingl-s",
+  "nombre": "ACADEMIA EN LEGANES - CERONICEX - Apoyo Escolar - Primaria, ESO y Bachillerato - Inglés",
+  "categoria": "apoyo-escolar",
+  "campamento": false,
+  "destacado": false,
+  "zona": "Leganés",
+  "zona_slug": "leganes",
+  "tipo_zona": "municipio",
+  "direccion": "Av. Mar Mediterráneo, 2, 28918 Leganés, Madrid",
+  "telefono": "+34 916 87 49 03",
+  "web": "",
+  "maps": "https://www.google.com/maps/place/?q=place_id:ChIJ71WmlYyJQQ0RX8M49LdARew",
+  "rating": 4.9,
+  "opiniones": 134,
+  "horario": [
+   [
+    "Lun",
+    "9:00–14:00, 16:30–20:30"
+   ],
+   [
+    "Mar",
+    "9:00–14:00, 16:30–20:30"
+   ],
+   [
+    "Mié",
+    "9:00–14:00, 16:30–20:30"
+   ],
+   [
+    "Jue",
+    "9:00–14:00, 16:30–20:30"
+   ],
+   [
+    "Vie",
+    "9:00–14:00, 16:30–20:30"
+   ],
+   [
+    "Sáb",
+    "Cerrado"
+   ],
+   [
+    "Dom",
+    "Cerrado"
+   ]
+  ],
+  "lat": 40.3354575,
+  "lng": -3.7651387
+ },
+ {
+  "id": "academia-mundoestudiante-majadahonda",
+  "nombre": "Academia mundoestudiante Majadahonda",
+  "categoria": "apoyo-escolar",
+  "campamento": false,
+  "destacado": false,
+  "zona": "Majadahonda",
+  "zona_slug": "majadahonda",
+  "tipo_zona": "municipio",
+  "direccion": "C/ Iglesia, 10, 28220 Majadahonda, Madrid",
+  "telefono": "+34 910 63 71 11",
+  "web": "https://www.mundoestudiante.com/academias-madrid/majadahonda/?utm_source=google&utm_medium=local",
+  "maps": "https://www.google.com/maps/place/?q=place_id:ChIJ0fU6SryFQQ0RAsIQsKf3jZY",
+  "rating": 4.9,
+  "opiniones": 134,
+  "horario": [
+   [
+    "Lun",
+    "10:00–14:00, 16:30–20:30"
+   ],
+   [
+    "Mar",
+    "10:00–14:00, 16:30–20:30"
+   ],
+   [
+    "Mié",
+    "10:00–14:00, 16:30–20:30"
+   ],
+   [
+    "Jue",
+    "10:00–14:00, 16:30–20:30"
+   ],
+   [
+    "Vie",
+    "10:00–14:00"
+   ],
+   [
+    "Sáb",
+    "10:00–14:00"
+   ],
+   [
+    "Dom",
+    "Cerrado"
+   ]
+  ],
+  "lat": 40.474769,
+  "lng": -3.8727186
+ },
+ {
+  "id": "moretti-academy",
+  "nombre": "Moretti Academy",
+  "categoria": "idiomas",
+  "campamento": false,
+  "destacado": false,
+  "zona": "Chamberí",
+  "zona_slug": "chamberi",
+  "tipo_zona": "distrito",
+  "direccion": "C. de Andrés Mellado, 33, Chamberí, 28015 Madrid",
+  "telefono": "+34 685 96 04 11",
+  "web": "https://www.morettiacademy.com/",
+  "maps": "https://www.google.com/maps/place/?q=place_id:ChIJ14cODnApQg0RHBMJHUBzCwA",
+  "rating": 4.9,
+  "opiniones": 93,
+  "horario": [
+   [
+    "Lun",
+    "10:30–15:00, 16:30–20:00"
+   ],
+   [
+    "Mar",
+    "10:30–15:00, 16:30–20:00"
+   ],
+   [
+    "Mié",
+    "10:30–15:00, 16:30–20:00"
+   ],
+   [
+    "Jue",
+    "10:30–15:00, 16:30–20:00"
+   ],
+   [
+    "Vie",
+    "10:30–15:00, 16:30–20:00"
+   ],
+   [
+    "Sáb",
+    "Cerrado"
+   ],
+   [
+    "Dom",
+    "Cerrado"
+   ]
+  ],
+  "lat": 40.4337204,
+  "lng": -3.7145765
+ },
+ {
+  "id": "kids-us-english-for-children",
+  "nombre": "Kids & Us - English for children",
+  "categoria": "ingles",
+  "campamento": false,
+  "destacado": false,
+  "zona": "Boadilla del Monte",
+  "zona_slug": "boadilla-del-monte",
+  "tipo_zona": "municipio",
+  "direccion": "Av. Isabel de Farnesio, 20, 28660 Boadilla del Monte, Madrid",
+  "telefono": "+34 916 32 63 32",
+  "web": "https://www.kidsandus.es/es/academias-ingles/boadilla-monte",
+  "maps": "https://www.google.com/maps/place/?q=place_id:ChIJA06ImPWPQQ0Rng5JXw7zFug",
+  "rating": 4.9,
+  "opiniones": 140,
+  "horario": [
+   [
+    "Lun",
+    "10:00–14:00, 16:00–20:00"
+   ],
+   [
+    "Mar",
+    "10:30–14:00, 16:00–20:00"
+   ],
+   [
+    "Mié",
+    "10:30–14:00, 16:00–20:00"
+   ],
+   [
+    "Jue",
+    "10:30–14:00, 16:00–20:00"
+   ],
+   [
+    "Vie",
+    "9:00–14:00"
+   ],
+   [
+    "Sáb",
+    "Cerrado"
+   ],
+   [
+    "Dom",
+    "Cerrado"
+   ]
+  ],
+  "lat": 40.4015492,
+  "lng": -3.886796
+ },
+ {
+  "id": "first-in-english",
+  "nombre": "First in English",
+  "categoria": "ingles",
+  "campamento": false,
+  "destacado": false,
+  "zona": "Majadahonda",
+  "zona_slug": "majadahonda",
+  "tipo_zona": "municipio",
+  "direccion": "C. Valgrande, 28221 Majadahonda, Madrid",
+  "telefono": "+34 918 05 26 32",
+  "web": "https://firstinenglish.es/",
+  "maps": "https://www.google.com/maps/place/?q=place_id:ChIJvyGCJWiEQQ0RwJOfhweN0Vc",
+  "rating": 4.9,
+  "opiniones": 151,
+  "horario": [
+   [
+    "Lun",
+    "9:30–22:00"
+   ],
+   [
+    "Mar",
+    "9:30–22:00"
+   ],
+   [
+    "Mié",
+    "9:30–22:00"
+   ],
+   [
+    "Jue",
+    "9:30–22:00"
+   ],
+   [
+    "Vie",
+    "9:30–22:00"
+   ],
+   [
+    "Sáb",
+    "Cerrado"
+   ],
+   [
+    "Dom",
+    "Cerrado"
+   ]
+  ],
+  "lat": 40.4689137,
+  "lng": -3.8538614
+ },
+ {
+  "id": "escuela-le-sauce-baile-danza-y-deporte-madrid",
+  "nombre": "Escuela Le Sauce Baile, Danza y Deporte Madrid",
+  "categoria": "baile",
+  "campamento": false,
+  "destacado": false,
+  "zona": "Tetuán",
+  "zona_slug": "tetuan",
+  "tipo_zona": "distrito",
+  "direccion": "C. de Cuevas, 40, Tetuán, 28039 Madrid",
+  "telefono": "+34 910 11 31 49",
+  "web": "http://www.lesauce.es/",
+  "maps": "https://www.google.com/maps/place/?q=place_id:ChIJcRER_yopQg0RtNwBMIbBZjo",
+  "rating": 4.9,
+  "opiniones": 121,
+  "horario": [
+   [
+    "Lun",
+    "17:00–22:00"
+   ],
+   [
+    "Mar",
+    "17:00–22:00"
+   ],
+   [
+    "Mié",
+    "17:00–21:00"
+   ],
+   [
+    "Jue",
+    "17:00–22:00"
+   ],
+   [
+    "Vie",
+    "17:00–21:00"
+   ],
+   [
+    "Sáb",
+    "Cerrado"
+   ],
+   [
+    "Dom",
+    "Cerrado"
+   ]
+  ],
+  "lat": 40.4629504,
+  "lng": -3.7014804
+ },
+ {
+  "id": "la-armonia-de-vivir-centro-de-desarrollo-integral",
+  "nombre": "La Armonia de Vivir | Centro de desarrollo integral",
+  "categoria": "musica",
+  "campamento": false,
+  "destacado": false,
+  "zona": "Salamanca",
+  "zona_slug": "salamanca",
+  "tipo_zona": "distrito",
+  "direccion": "Calle del General Díaz Porlier, 36, Loc, Salamanca, 28001 Madrid",
+  "telefono": "+34 912 60 21 83",
+  "web": "https://laarmoniadevivir.es/",
+  "maps": "https://www.google.com/maps/place/?q=place_id:ChIJd-CHFfEpQg0RqWra8hwhwLg",
+  "rating": 4.9,
+  "opiniones": 82,
+  "horario": [
+   [
+    "Lun",
+    "15:00–22:00"
+   ],
+   [
+    "Mar",
+    "10:00–22:00"
+   ],
+   [
+    "Mié",
+    "11:00–22:00"
+   ],
+   [
+    "Jue",
+    "11:00–22:00"
+   ],
+   [
+    "Vie",
+    "13:30–20:00"
+   ],
+   [
+    "Sáb",
+    "10:00–14:00"
+   ],
+   [
+    "Dom",
+    "Cerrado"
+   ]
+  ],
+  "lat": 40.428185,
+  "lng": -3.676841
+ },
+ {
+  "id": "mushi-school-of-music-and-dance",
+  "nombre": "Mushi School of Music and Dance",
+  "categoria": "baile",
+  "campamento": false,
+  "destacado": false,
+  "zona": "Retiro",
+  "zona_slug": "retiro",
+  "tipo_zona": "distrito",
+  "direccion": "PLAZA MARIANO DE CAVIA, 2, Retiro, 28007 Madrid",
+  "telefono": "+34 914 33 03 03",
+  "web": "http://www.mushi-emd.com/",
+  "maps": "https://www.google.com/maps/place/?q=place_id:ChIJp3H4RhkmQg0R0arpD9grfsI",
+  "rating": 4.9,
+  "opiniones": 139,
+  "horario": [
+   [
+    "Lun",
+    "11:00–14:00, 16:30–22:00"
+   ],
+   [
+    "Mar",
+    "11:00–14:00, 16:30–22:00"
+   ],
+   [
+    "Mié",
+    "11:00–14:00, 16:30–22:00"
+   ],
+   [
+    "Jue",
+    "11:00–14:00, 16:30–22:00"
+   ],
+   [
+    "Vie",
+    "11:00–14:00, 16:30–22:00"
+   ],
+   [
+    "Sáb",
+    "Cerrado"
+   ],
+   [
+    "Dom",
+    "Cerrado"
+   ]
+  ],
+  "lat": 40.4080027,
+  "lng": -3.679018
+ },
+ {
+  "id": "el-molino-de-santa-isabel",
+  "nombre": "El Molino de Santa Isabel",
+  "categoria": "musica",
+  "campamento": false,
+  "destacado": false,
+  "zona": "Centro",
+  "zona_slug": "centro",
+  "tipo_zona": "distrito",
+  "direccion": "C. de Sta. Isabel, 42, Centro, 28012 Madrid",
+  "telefono": "+34 910 42 35 77",
+  "web": "http://www.elmolinodesantaisabel.com/",
+  "maps": "https://www.google.com/maps/place/?q=place_id:ChIJK8DJeykmQg0RRV3j9CAkU4k",
+  "rating": 4.9,
+  "opiniones": 58,
+  "horario": [
+   [
+    "Lun",
+    "10:30–22:00"
+   ],
+   [
+    "Mar",
+    "10:30–22:00"
+   ],
+   [
+    "Mié",
+    "10:30–22:00"
+   ],
+   [
+    "Jue",
+    "15:30–22:00"
+   ],
+   [
+    "Vie",
+    "10:30–19:30"
+   ],
+   [
+    "Sáb",
+    "Cerrado"
+   ],
+   [
+    "Dom",
+    "Cerrado"
+   ]
+  ],
+  "lat": 40.4101176,
+  "lng": -3.6974377
+ },
+ {
+  "id": "pintamonas-clases-de-pintura-dibujo-manualidades-y-joyer-a-en-ciudad-lineal-madrid",
+  "nombre": "Pintamonas: Clases de pintura, dibujo, manualidades y joyería en Ciudad Lineal, Madrid",
+  "categoria": "arte",
+  "campamento": false,
+  "destacado": false,
+  "zona": "Ciudad Lineal",
+  "zona_slug": "ciudad-lineal",
+  "tipo_zona": "distrito",
+  "direccion": "C. de los Hermanos Machado, 27, Cdad. Lineal, 28017 Madrid",
+  "telefono": "+34 665 57 46 75",
+  "web": "https://www.pintamonas.net/",
+  "maps": "https://www.google.com/maps/place/?q=place_id:ChIJHajOk0YvQg0Rb78qZplxH_s",
+  "rating": 4.9,
+  "opiniones": 337,
+  "horario": [
+   [
+    "Lun",
+    "11:30–14:00, 17:30–20:00"
+   ],
+   [
+    "Mar",
+    "11:00–14:00, 17:30–20:00"
+   ],
+   [
+    "Mié",
+    "17:30–20:00"
+   ],
+   [
+    "Jue",
+    "11:00–14:00, 17:30–20:00"
+   ],
+   [
+    "Vie",
+    "11:00–14:00, 17:30–20:00"
+   ],
+   [
+    "Sáb",
+    "11:00–14:00"
+   ],
+   [
+    "Dom",
+    "Cerrado"
+   ]
+  ],
+  "lat": 40.4308713,
+  "lng": -3.6488703
+ },
+ {
+  "id": "la-chula-family-art-studio",
+  "nombre": "La Chula Family Art Studio",
+  "categoria": "arte",
+  "campamento": false,
+  "destacado": false,
+  "zona": "Ciudad Lineal",
+  "zona_slug": "ciudad-lineal",
+  "tipo_zona": "distrito",
+  "direccion": "C. de Torrelaguna, 33, Cdad. Lineal, 28027 Madrid",
+  "telefono": "+34 622 16 68 89",
+  "web": "http://www.artelachula.com/",
+  "maps": "https://www.google.com/maps/place/?q=place_id:ChIJ_Vdxng4vQg0RPTZb0Us9thU",
+  "rating": 4.9,
+  "opiniones": 118,
+  "horario": [
+   [
+    "Lun",
+    "16:30–18:30"
+   ],
+   [
+    "Mar",
+    "10:00–13:00, 17:30–18:30"
+   ],
+   [
+    "Mié",
+    "10:00–13:00, 17:30–18:30"
+   ],
+   [
+    "Jue",
+    "10:00–13:00, 17:30–18:30"
+   ],
+   [
+    "Vie",
+    "10:00–13:00, 17:30–19:30"
+   ],
+   [
+    "Sáb",
+    "11:00–19:30"
+   ],
+   [
+    "Dom",
+    "11:00–19:30"
+   ]
+  ],
+  "lat": 40.4419464,
+  "lng": -3.6529882
+ },
+ {
+  "id": "yes-la-academia",
+  "nombre": "Yes! La Academia",
+  "categoria": "ingles",
+  "campamento": false,
+  "destacado": false,
+  "zona": "Tetuán",
+  "zona_slug": "tetuan",
+  "tipo_zona": "distrito",
+  "direccion": "C. de Lazaga, 9, Tetuán, 28020 Madrid",
+  "telefono": "+34 692 17 55 78",
+  "web": "http://www.inglesmadrid.es/",
+  "maps": "https://www.google.com/maps/place/?q=place_id:ChIJi7rS4AApQg0RFrKQI5IVbXA",
+  "rating": 4.9,
+  "opiniones": 331,
+  "horario": [
+   [
+    "Lun",
+    "9:30–13:00, 16:30–21:00"
+   ],
+   [
+    "Mar",
+    "9:30–13:00, 16:30–21:00"
+   ],
+   [
+    "Mié",
+    "9:30–13:00, 16:30–21:00"
+   ],
+   [
+    "Jue",
+    "9:30–13:00, 16:30–21:00"
+   ],
+   [
+    "Vie",
+    "Cerrado"
+   ],
+   [
+    "Sáb",
+    "Cerrado"
+   ],
+   [
+    "Dom",
+    "Cerrado"
+   ]
+  ],
+  "lat": 40.4577206,
+  "lng": -3.6988871
+ },
+ {
+  "id": "cambridge-house",
+  "nombre": "Cambridge House",
+  "categoria": "ingles",
+  "campamento": false,
+  "destacado": false,
+  "zona": "Chamartín",
+  "zona_slug": "chamartin",
+  "tipo_zona": "distrito",
+  "direccion": "C. de López de Hoyos, 95, Chamartín, 28002 Madrid",
+  "telefono": "+34 915 19 46 03",
+  "web": "http://www.cambridge-house.com/centros/academia-de-ingles-lopez-de-hoyos.html",
+  "maps": "https://www.google.com/maps/place/?q=place_id:ChIJb4-VpdooQg0RjKfijCx4KVA",
+  "rating": 4.9,
+  "opiniones": 161,
+  "horario": [
+   [
+    "Lun",
+    "10:30–20:00"
+   ],
+   [
+    "Mar",
+    "10:30–20:00"
+   ],
+   [
+    "Mié",
+    "10:30–20:00"
+   ],
+   [
+    "Jue",
+    "10:30–20:00"
+   ],
+   [
+    "Vie",
+    "11:00–14:00, 15:00–19:15"
+   ],
+   [
+    "Sáb",
+    "Cerrado"
+   ],
+   [
+    "Dom",
+    "Cerrado"
+   ]
+  ],
+  "lat": 40.4451306,
+  "lng": -3.6728543
+ },
+ {
+  "id": "the-english-exam-centre",
+  "nombre": "The English Exam Centre",
+  "categoria": "ingles",
+  "campamento": false,
+  "destacado": false,
+  "zona": "Chamartín",
+  "zona_slug": "chamartin",
+  "tipo_zona": "distrito",
+  "direccion": "P.º de La Habana, 9, 11, Chamartín, 28036 Madrid",
+  "telefono": "+34 912 98 62 36",
+  "web": "http://theenglishexamcentre.com/",
+  "maps": "https://www.google.com/maps/place/?q=place_id:ChIJGaRfjuMoQg0RBO2JKzCQYoU",
+  "rating": 4.9,
+  "opiniones": 529,
+  "horario": [
+   [
+    "Lun",
+    "9:00–18:00"
+   ],
+   [
+    "Mar",
+    "9:00–18:00"
+   ],
+   [
+    "Mié",
+    "9:00–18:00"
+   ],
+   [
+    "Jue",
+    "9:00–18:00"
+   ],
+   [
+    "Vie",
+    "9:00–18:00"
+   ],
+   [
+    "Sáb",
+    "Cerrado"
+   ],
+   [
+    "Dom",
+    "Cerrado"
+   ]
+  ],
+  "lat": 40.4494485,
+  "lng": -3.6893799
+ },
+ {
+  "id": "aware-escuela-de-idiomas",
+  "nombre": "Aware - Escuela de Idiomas",
+  "categoria": "idiomas",
+  "campamento": false,
+  "destacado": false,
+  "zona": "Arganzuela",
+  "zona_slug": "arganzuela",
+  "tipo_zona": "distrito",
+  "direccion": "P.º de los Pontones, 14, Arganzuela, 28005 Madrid",
+  "telefono": "+34 910 58 19 49",
+  "web": "http://www.awareidiomas.com/",
+  "maps": "https://www.google.com/maps/place/?q=place_id:ChIJB6ZqdNsnQg0R82cWGxMQILI",
+  "rating": 4.9,
+  "opiniones": 158,
+  "horario": [
+   [
+    "Lun",
+    "12:00–14:00, 16:00–20:30"
+   ],
+   [
+    "Mar",
+    "10:00–14:00, 16:00–20:30"
+   ],
+   [
+    "Mié",
+    "12:00–14:00, 16:00–20:30"
+   ],
+   [
+    "Jue",
+    "10:00–14:00, 16:00–20:30"
+   ],
+   [
+    "Vie",
+    "12:00–14:00, 15:30–20:00"
+   ],
+   [
+    "Sáb",
+    "Cerrado"
+   ],
+   [
+    "Dom",
+    "Cerrado"
+   ]
+  ],
+  "lat": 40.4045588,
+  "lng": -3.7170911
+ },
+ {
+  "id": "english-our-way",
+  "nombre": "English Our Way",
+  "categoria": "ingles",
+  "campamento": false,
+  "destacado": false,
+  "zona": "Tetuán",
+  "zona_slug": "tetuan",
+  "tipo_zona": "distrito",
+  "direccion": "C. de Orense, 25, 3 C - Escalera izquierda, Tetuán, 28020 Madrid",
+  "telefono": "+34 639 82 94 74",
+  "web": "http://www.englishourway.com/",
+  "maps": "https://www.google.com/maps/place/?q=place_id:ChIJN0eGzGAoQg0RaM6bjbdAMjA",
+  "rating": 4.9,
+  "opiniones": 151,
+  "horario": [
+   [
+    "Lun",
+    "9:00–20:00"
+   ],
+   [
+    "Mar",
+    "9:00–20:00"
+   ],
+   [
+    "Mié",
+    "9:00–20:00"
+   ],
+   [
+    "Jue",
+    "9:00–20:00"
+   ],
+   [
+    "Vie",
+    "9:00–20:00"
+   ],
+   [
+    "Sáb",
+    "9:00–18:00"
+   ],
+   [
+    "Dom",
+    "9:00–14:00"
+   ]
+  ],
+  "lat": 40.4514422,
+  "lng": -3.6953111
+ },
+ {
+  "id": "in-english-please-clases-particulares-de-ingl-s-en-madrid-y-clases-online",
+  "nombre": "In English Please - Clases particulares de Inglés en Madrid y clases online",
+  "categoria": "apoyo-escolar",
+  "campamento": false,
+  "destacado": false,
+  "zona": "Centro",
+  "zona_slug": "centro",
+  "tipo_zona": "distrito",
+  "direccion": "C. de Lope de Vega, 14, Centro, 28014 Madrid",
+  "telefono": "+34 641 28 92 41",
+  "web": "http://www.inenglishplease.es/",
+  "maps": "https://www.google.com/maps/place/?q=place_id:ChIJszI6T2spQg0RJGqNieMicpM",
+  "rating": 4.9,
+  "opiniones": 116,
+  "horario": [
+   [
+    "Lun",
+    "10:00–22:00"
+   ],
+   [
+    "Mar",
+    "10:00–22:00"
+   ],
+   [
+    "Mié",
+    "10:00–22:00"
+   ],
+   [
+    "Jue",
+    "10:00–22:00"
+   ],
+   [
+    "Vie",
+    "10:00–22:00"
+   ],
+   [
+    "Sáb",
+    "10:00–22:00"
+   ],
+   [
+    "Dom",
+    "10:00–22:00"
+   ]
+  ],
+  "lat": 40.4136908,
+  "lng": -3.6979651
+ },
+ {
+  "id": "what-s-up-academia-de-ingl-s-madrid",
+  "nombre": "What's Up! | Academia de inglés Madrid",
+  "categoria": "ingles",
+  "campamento": false,
+  "destacado": false,
+  "zona": "Centro",
+  "zona_slug": "centro",
+  "tipo_zona": "distrito",
+  "direccion": "C. de Toledo, 89, Centro, 28005 Madrid",
+  "telefono": "+34 911 17 41 22",
+  "web": "https://whatsup.es/google-maps?utm_source=gmb&utm_medium=organic&utm_campaign=gmb_website",
+  "maps": "https://www.google.com/maps/place/?q=place_id:ChIJh__fMM0nQg0R38KFEB5k0Vo",
+  "rating": 4.9,
+  "opiniones": 325,
+  "horario": [
+   [
+    "Lun",
+    "9:30–21:30"
+   ],
+   [
+    "Mar",
+    "9:30–21:30"
+   ],
+   [
+    "Mié",
+    "9:30–21:30"
+   ],
+   [
+    "Jue",
+    "9:30–21:30"
+   ],
+   [
+    "Vie",
+    "9:30–21:30"
+   ],
+   [
+    "Sáb",
+    "10:00–14:00"
+   ],
+   [
+    "Dom",
+    "Cerrado"
+   ]
+  ],
+  "lat": 40.4097853,
+  "lng": -3.7093327
+ },
+ {
+  "id": "language-plus-madrid",
+  "nombre": "Language Plus Madrid",
+  "categoria": "ingles",
+  "campamento": false,
+  "destacado": false,
+  "zona": "Centro",
+  "zona_slug": "centro",
+  "tipo_zona": "distrito",
+  "direccion": "C. de Carretas, 14, Planta 3, Centro, 28012 Madrid",
+  "telefono": "",
+  "web": "https://languageplusmadrid.com.es/",
+  "maps": "https://www.google.com/maps/place/?q=place_id:ChIJdb5J0H8oQg0RcCa5N6U3eyI",
+  "rating": 4.9,
+  "opiniones": 100,
+  "horario": [
+   [
+    "Lun",
+    "11:00–20:30"
+   ],
+   [
+    "Mar",
+    "11:00–20:30"
+   ],
+   [
+    "Mié",
+    "11:00–20:30"
+   ],
+   [
+    "Jue",
+    "11:00–20:30"
+   ],
+   [
+    "Vie",
+    "11:00–20:30"
+   ],
+   [
+    "Sáb",
+    "Cerrado"
+   ],
+   [
+    "Dom",
+    "Cerrado"
+   ]
+  ],
+  "lat": 40.4149117,
+  "lng": -3.7034487
+ },
+ {
+  "id": "kids-us-alcobendas-fuentelucha-ingl-s-para-ni-os",
+  "nombre": "Kids&Us Alcobendas Fuentelucha - Inglés para niños",
+  "categoria": "ingles",
+  "campamento": false,
+  "destacado": false,
+  "zona": "Alcobendas",
+  "zona_slug": "alcobendas",
+  "tipo_zona": "municipio",
+  "direccion": "C/ Imaginación, P.º de Fuente Lucha, 13, Loc 1 esquina, 28100 Alcobendas, Madrid",
+  "telefono": "+34 601 75 91 85",
+  "web": "https://www.kidsandus.es/es/academias-ingles/alcobendas",
+  "maps": "https://www.google.com/maps/place/?q=place_id:ChIJn8l7m9wtQg0RU16pMeWR1-U",
+  "rating": 4.8,
+  "opiniones": 64,
+  "horario": [
+   [
+    "Lun",
+    "10:00–19:30"
+   ],
+   [
+    "Mar",
+    "10:00–19:30"
+   ],
+   [
+    "Mié",
+    "10:00–19:30"
+   ],
+   [
+    "Jue",
+    "10:00–19:30"
+   ],
+   [
+    "Vie",
+    "10:00–18:00"
+   ],
+   [
+    "Sáb",
+    "Cerrado"
+   ],
+   [
+    "Dom",
+    "Cerrado"
+   ]
+  ],
+  "lat": 40.5538169,
+  "lng": -3.6601637
+ },
+ {
+  "id": "studio11-la-escuela-de-baile",
+  "nombre": "Studio11 La Escuela de Baile",
+  "categoria": "baile",
+  "campamento": false,
+  "destacado": false,
+  "zona": "Salamanca",
+  "zona_slug": "salamanca",
+  "tipo_zona": "distrito",
+  "direccion": "C. de Antonia Ruiz Soro, 11, Salamanca, 28028 Madrid",
+  "telefono": "+34 910 84 47 06",
+  "web": "https://www.studio11madrid.com/",
+  "maps": "https://www.google.com/maps/place/?q=place_id:ChIJ_ZXGw8soQg0RoIIQ1nfkraM",
+  "rating": 4.8,
+  "opiniones": 202,
+  "horario": [
+   [
+    "Lun",
+    "17:00–22:00"
+   ],
+   [
+    "Mar",
+    "17:00–22:00"
+   ],
+   [
+    "Mié",
+    "17:00–22:00"
+   ],
+   [
+    "Jue",
+    "17:00–22:00"
+   ],
+   [
+    "Vie",
+    "17:00–22:00"
+   ],
+   [
+    "Sáb",
+    "Cerrado"
+   ],
+   [
+    "Dom",
+    "Cerrado"
+   ]
+  ],
+  "lat": 40.4380942,
+  "lng": -3.6664823
+ },
+ {
+  "id": "madrid-dance-center",
+  "nombre": "Madrid Dance Center",
+  "categoria": "baile",
+  "campamento": false,
+  "destacado": false,
+  "zona": "Carabanchel",
+  "zona_slug": "carabanchel",
+  "tipo_zona": "distrito",
+  "direccion": "C. de La Solana de Opañel, 6, Carabanchel, 28019 Madrid",
+  "telefono": "+34 677 70 65 15",
+  "web": "http://madriddancecenter.wordpress.com/",
+  "maps": "https://www.google.com/maps/place/?q=place_id:ChIJf4VKl6MoQg0RGfEDN1Qf9cU",
+  "rating": 4.8,
+  "opiniones": 79,
+  "horario": [
+   [
+    "Lun",
+    "9:30–21:30"
+   ],
+   [
+    "Mar",
+    "9:30–21:30"
+   ],
+   [
+    "Mié",
+    "9:30–21:30"
+   ],
+   [
+    "Jue",
+    "9:30–21:30"
+   ],
+   [
+    "Vie",
+    "9:30–21:30"
+   ],
+   [
+    "Sáb",
+    "9:30–14:30"
+   ],
+   [
+    "Dom",
+    "Cerrado"
+   ]
+  ],
+  "lat": 40.3893819,
+  "lng": -3.7201372
+ },
+ {
+  "id": "genios-retiro",
+  "nombre": "Genios Retiro",
+  "categoria": "robotica",
+  "campamento": false,
+  "destacado": false,
+  "zona": "Retiro",
+  "zona_slug": "retiro",
+  "tipo_zona": "distrito",
+  "direccion": "Plaza del Dr. Laguna, 11, Retiro, 28009 Madrid",
+  "telefono": "+34 650 20 01 59",
+  "web": "http://www.geniosretiro.com/?utm_source=gmb&utm_medium=organic&utm_campaign=google-my-business",
+  "maps": "https://www.google.com/maps/place/?q=place_id:ChIJZ8c05KcoQg0ROzZY42I82iE",
+  "rating": 4.8,
+  "opiniones": 56,
+  "horario": [
+   [
+    "Lun",
+    "16:00–20:00"
+   ],
+   [
+    "Mar",
+    "16:00–20:00"
+   ],
+   [
+    "Mié",
+    "16:00–20:00"
+   ],
+   [
+    "Jue",
+    "16:00–20:00"
+   ],
+   [
+    "Vie",
+    "16:00–20:00"
+   ],
+   [
+    "Sáb",
+    "Cerrado"
+   ],
+   [
+    "Dom",
+    "Cerrado"
+   ]
+  ],
+  "lat": 40.4146513,
+  "lng": -3.6729367
+ },
+ {
+  "id": "arte-hoy",
+  "nombre": "Arte Hoy",
+  "categoria": "arte",
+  "campamento": false,
+  "destacado": false,
+  "zona": "Centro",
+  "zona_slug": "centro",
+  "tipo_zona": "distrito",
+  "direccion": "C. de la Cabeza, 26, Centro, 28012 Madrid",
+  "telefono": "+34 630 48 50 85",
+  "web": "https://www.arte-hoy.com/?utm_source=gmb&utm_medium=organic&utm_campaign=google-my-business",
+  "maps": "https://www.google.com/maps/place/?q=place_id:ChIJ-QeyviomQg0RFiEEmlmJZyI",
+  "rating": 4.8,
+  "opiniones": 147,
+  "horario": [
+   [
+    "Lun",
+    "10:00–14:00, 17:00–20:00"
+   ],
+   [
+    "Mar",
+    "10:00–14:00, 17:00–20:00"
+   ],
+   [
+    "Mié",
+    "10:00–14:00, 17:00–20:00"
+   ],
+   [
+    "Jue",
+    "10:00–14:00, 17:00–20:00"
+   ],
+   [
+    "Vie",
+    "10:00–14:00"
+   ],
+   [
+    "Sáb",
+    "Cerrado"
+   ],
+   [
+    "Dom",
+    "Cerrado"
+   ]
+  ],
+  "lat": 40.4118979,
+  "lng": -3.7019095
+ },
+ {
+  "id": "playedu-empresa-de-actividades-extraescolares-en-madrid",
+  "nombre": "Playedu - Empresa de actividades extraescolares en Madrid",
+  "categoria": "extraescolares",
+  "campamento": false,
+  "destacado": false,
+  "zona": "Chamartín",
+  "zona_slug": "chamartin",
+  "tipo_zona": "distrito",
+  "direccion": "Calle del Dr. Fleming, 3, Chamartín, 28036 Madrid",
+  "telefono": "+34 649 78 15 35",
+  "web": "http://www.playedu.es/",
+  "maps": "https://www.google.com/maps/place/?q=place_id:ChIJU1AAdRiLQQ0R6TGPOHzPGK8",
+  "rating": 4.8,
+  "opiniones": 80,
+  "horario": [
+   [
+    "Lun",
+    "9:00–18:00"
+   ],
+   [
+    "Mar",
+    "9:00–18:00"
+   ],
+   [
+    "Mié",
+    "9:00–18:00"
+   ],
+   [
+    "Jue",
+    "9:00–18:00"
+   ],
+   [
+    "Vie",
+    "9:00–18:00"
+   ],
+   [
+    "Sáb",
+    "Cerrado"
+   ],
+   [
+    "Dom",
+    "Cerrado"
+   ]
+  ],
+  "lat": 40.4549182,
+  "lng": -3.689374
+ },
+ {
+  "id": "english-first-centre",
+  "nombre": "English First Centre",
+  "categoria": "ingles",
+  "campamento": false,
+  "destacado": false,
+  "zona": "Chamberí",
+  "zona_slug": "chamberi",
+  "tipo_zona": "distrito",
+  "direccion": "C. de Hilarión Eslava, 50, Chamberí, 28015 Madrid",
+  "telefono": "+34 917 65 52 33",
+  "web": "https://englishfirstcentre.com/",
+  "maps": "https://www.google.com/maps/place/?q=place_id:ChIJxafMkUMoQg0RQbaeR7y9tcM",
+  "rating": 4.8,
+  "opiniones": 213,
+  "horario": [
+   [
+    "Lun",
+    "10:00–14:00, 17:00–20:30"
+   ],
+   [
+    "Mar",
+    "10:00–14:00, 17:00–21:00"
+   ],
+   [
+    "Mié",
+    "10:00–14:00, 17:00–20:30"
+   ],
+   [
+    "Jue",
+    "10:00–14:00, 17:00–21:00"
+   ],
+   [
+    "Vie",
+    "10:00–14:00"
+   ],
+   [
+    "Sáb",
+    "11:30–13:30"
+   ],
+   [
+    "Dom",
+    "Cerrado"
+   ]
+  ],
+  "lat": 40.4371914,
+  "lng": -3.7164142
+ },
+ {
+  "id": "luis-vives-school-of-spanish-spanish-courses-in-madrid",
+  "nombre": "Luis Vives School of Spanish - Spanish courses in Madrid",
+  "categoria": "idiomas",
+  "campamento": false,
+  "destacado": false,
+  "zona": "Centro",
+  "zona_slug": "centro",
+  "tipo_zona": "distrito",
+  "direccion": "C. del Arenal, 18, 1º izda B, Centro, 28013 Madrid",
+  "telefono": "+34 915 47 67 30",
+  "web": "http://www.spanishluisvives.com/",
+  "maps": "https://www.google.com/maps/place/?q=place_id:ChIJ1ypRTHkoQg0R4bzQ6_U4JGM",
+  "rating": 4.8,
+  "opiniones": 93,
+  "horario": [
+   [
+    "Lun",
+    "9:00–14:30, 17:00–20:00"
+   ],
+   [
+    "Mar",
+    "9:00–14:30, 17:00–20:00"
+   ],
+   [
+    "Mié",
+    "9:00–14:30, 17:00–20:00"
+   ],
+   [
+    "Jue",
+    "9:00–14:30, 17:00–20:00"
+   ],
+   [
+    "Vie",
+    "9:00–14:30"
+   ],
+   [
+    "Sáb",
+    "Cerrado"
+   ],
+   [
+    "Dom",
+    "Cerrado"
+   ]
+  ],
+  "lat": 40.4173831,
+  "lng": -3.7068138
+ },
+ {
+  "id": "number-16-school-nuevos-ministerios-academia-de-ingl-s",
+  "nombre": "Number 16 School Nuevos Ministerios - Academia de inglés",
+  "categoria": "ingles",
+  "campamento": false,
+  "destacado": false,
+  "zona": "Chamartín",
+  "zona_slug": "chamartin",
+  "tipo_zona": "distrito",
+  "direccion": "P.º de La Habana, 12, Chamartín, 28036 Madrid",
+  "telefono": "+34 912 90 30 40",
+  "web": "https://number16.com/academias-de-ingles/madrid/nuevos-ministerios",
+  "maps": "https://www.google.com/maps/place/?q=place_id:ChIJW9KUGowpQg0RHDqYZiHqNX8",
+  "rating": 4.8,
+  "opiniones": 386,
+  "horario": [
+   [
+    "Lun",
+    "8:00–21:30"
+   ],
+   [
+    "Mar",
+    "8:00–21:30"
+   ],
+   [
+    "Mié",
+    "8:00–21:30"
+   ],
+   [
+    "Jue",
+    "8:00–21:30"
+   ],
+   [
+    "Vie",
+    "8:00–21:30"
+   ],
+   [
+    "Sáb",
+    "9:00–14:00"
+   ],
+   [
+    "Dom",
+    "Cerrado"
+   ]
+  ],
+  "lat": 40.4477986,
+  "lng": -3.6899284
+ },
+ {
+  "id": "what-s-up-academia-de-ingl-s-madrid",
+  "nombre": "What's Up! | Academia de inglés Madrid",
+  "categoria": "ingles",
+  "campamento": false,
+  "destacado": false,
+  "zona": "Carabanchel",
+  "zona_slug": "carabanchel",
+  "tipo_zona": "distrito",
+  "direccion": "Calle del Gral. Ricardos, 87, Carabanchel, 28019 Madrid",
+  "telefono": "+34 910 60 60 62",
+  "web": "https://whatsup.es/google-maps?utm_source=gmb&utm_medium=organic&utm_campaign=gmb_website",
+  "maps": "https://www.google.com/maps/place/?q=place_id:ChIJKfUJcCEnQg0RQ0Ob-Cu6Vfg",
+  "rating": 4.8,
+  "opiniones": 611,
+  "horario": [
+   [
+    "Lun",
+    "9:30–21:30"
+   ],
+   [
+    "Mar",
+    "9:30–21:30"
+   ],
+   [
+    "Mié",
+    "9:30–21:30"
+   ],
+   [
+    "Jue",
+    "9:30–21:30"
+   ],
+   [
+    "Vie",
+    "9:30–21:30"
+   ],
+   [
+    "Sáb",
+    "10:00–14:00"
+   ],
+   [
+    "Dom",
+    "Cerrado"
+   ]
+  ],
+  "lat": 40.3934133,
+  "lng": -3.7230221
+ },
+ {
+  "id": "sunny-academy",
+  "nombre": "Sunny Academy",
+  "categoria": "idiomas",
+  "campamento": false,
+  "destacado": false,
+  "zona": "Centro",
+  "zona_slug": "centro",
+  "tipo_zona": "distrito",
+  "direccion": "Cra de S. Jerónimo, 16, 2º Izda, Centro, 28014 Madrid",
+  "telefono": "",
+  "web": "http://www.sunnyacademy.es/",
+  "maps": "https://www.google.com/maps/place/?q=place_id:ChIJufwzPmMoQg0R6bCHsQSOq1o",
+  "rating": 4.8,
+  "opiniones": 104,
+  "horario": [
+   [
+    "Lun",
+    "10:00–13:30, 17:00–21:00"
+   ],
+   [
+    "Mar",
+    "10:00–13:30, 17:00–21:00"
+   ],
+   [
+    "Mié",
+    "10:00–13:30, 17:00–21:00"
+   ],
+   [
+    "Jue",
+    "10:00–13:30, 17:00–21:00"
+   ],
+   [
+    "Vie",
+    "16:00–20:00"
+   ],
+   [
+    "Sáb",
+    "Cerrado"
+   ],
+   [
+    "Dom",
+    "Cerrado"
+   ]
+  ],
+  "lat": 40.4165143,
+  "lng": -3.7010268
+ },
+ {
+  "id": "cambridge-house",
+  "nombre": "Cambridge House",
+  "categoria": "ingles",
+  "campamento": false,
+  "destacado": false,
+  "zona": "Arganzuela",
+  "zona_slug": "arganzuela",
+  "tipo_zona": "distrito",
+  "direccion": "Paseo de las Delicias, 30, 1º, Arganzuela, 28045 Madrid",
+  "telefono": "+34 915 28 13 35",
+  "web": "http://www.cambridge-house.com/centros/academia-de-ingles-atocha.html",
+  "maps": "https://www.google.com/maps/place/?q=place_id:ChIJ-aWSWS8mQg0RlfnO45hDbOY",
+  "rating": 4.8,
+  "opiniones": 233,
+  "horario": [
+   [
+    "Lun",
+    "9:00–15:00, 16:00–20:30"
+   ],
+   [
+    "Mar",
+    "9:00–15:00, 16:00–20:30"
+   ],
+   [
+    "Mié",
+    "9:00–15:00, 16:00–20:30"
+   ],
+   [
+    "Jue",
+    "9:00–15:00, 16:00–20:30"
+   ],
+   [
+    "Vie",
+    "9:00–15:00, 16:00–19:15"
+   ],
+   [
+    "Sáb",
+    "Cerrado"
+   ],
+   [
+    "Dom",
+    "Cerrado"
+   ]
+  ],
+  "lat": 40.4046271,
+  "lng": -3.6939275
+ },
+ {
+  "id": "chester-school-of-english",
+  "nombre": "CHESTER SCHOOL OF ENGLISH",
+  "categoria": "ingles",
+  "campamento": false,
+  "destacado": false,
+  "zona": "Salamanca",
+  "zona_slug": "salamanca",
+  "tipo_zona": "distrito",
+  "direccion": "Calle de Don Ramón de la Cruz, 98, Salamanca, 28006 Madrid",
+  "telefono": "+34 914 01 97 29",
+  "web": "https://chester.es/",
+  "maps": "https://www.google.com/maps/place/?q=place_id:ChIJN6q627AoQg0RbZMKm_F4PAo",
+  "rating": 4.8,
+  "opiniones": 193,
+  "horario": [
+   [
+    "Lun",
+    "9:00–21:30"
+   ],
+   [
+    "Mar",
+    "9:00–21:30"
+   ],
+   [
+    "Mié",
+    "9:00–21:30"
+   ],
+   [
+    "Jue",
+    "9:00–21:30"
+   ],
+   [
+    "Vie",
+    "9:00–21:30"
+   ],
+   [
+    "Sáb",
+    "9:00–14:00"
+   ],
+   [
+    "Dom",
+    "Cerrado"
+   ]
+  ],
+  "lat": 40.428397,
+  "lng": -3.670528
+ },
+ {
+  "id": "blue-parrot-school-madrid-escuela-de-idiomas",
+  "nombre": "Blue Parrot School Madrid - Escuela de idiomas",
+  "categoria": "robotica",
+  "campamento": false,
+  "destacado": false,
+  "zona": "Retiro",
+  "zona_slug": "retiro",
+  "tipo_zona": "distrito",
+  "direccion": "Pl. de los Reyes Magos, 13, Bajo Derecha, Retiro, 28007 Madrid",
+  "telefono": "+34 627 29 86 54",
+  "web": "http://www.blueparrotschool.com/",
+  "maps": "https://www.google.com/maps/place/?q=place_id:ChIJ8S47hM0nQg0RVL3ovaPTuow",
+  "rating": 4.8,
+  "opiniones": 659,
+  "horario": [
+   [
+    "Lun",
+    "12:00–14:00, 16:00–20:00"
+   ],
+   [
+    "Mar",
+    "12:00–14:00, 16:00–20:00"
+   ],
+   [
+    "Mié",
+    "9:00–20:00"
+   ],
+   [
+    "Jue",
+    "9:00–20:00"
+   ],
+   [
+    "Vie",
+    "12:00–14:00"
+   ],
+   [
+    "Sáb",
+    "Cerrado"
+   ],
+   [
+    "Dom",
+    "Cerrado"
+   ]
+  ],
+  "lat": 40.4097322,
+  "lng": -3.6760049
+ },
+ {
+  "id": "number-16-school-arg-elles-academia-de-ingl-s-moncloa",
+  "nombre": "Number 16 School Argüelles - Academia de inglés Moncloa",
+  "categoria": "apoyo-escolar",
+  "campamento": false,
+  "destacado": false,
+  "zona": "Chamberí",
+  "zona_slug": "chamberi",
+  "tipo_zona": "distrito",
+  "direccion": "C. de Alberto Aguilera, 38, Chamberí, 28015 Madrid",
+  "telefono": "+34 912 90 30 39",
+  "web": "https://number16.com/academias-de-ingles/madrid/arguelles",
+  "maps": "https://www.google.com/maps/place/?q=place_id:ChIJ4bX4OugpQg0R_P7NQ8GvixE",
+  "rating": 4.8,
+  "opiniones": 788,
+  "horario": [
+   [
+    "Lun",
+    "8:00–21:30"
+   ],
+   [
+    "Mar",
+    "8:00–21:30"
+   ],
+   [
+    "Mié",
+    "8:00–21:30"
+   ],
+   [
+    "Jue",
+    "8:00–21:30"
+   ],
+   [
+    "Vie",
+    "8:00–21:30"
+   ],
+   [
+    "Sáb",
+    "9:00–14:00"
+   ],
+   [
+    "Dom",
+    "Cerrado"
+   ]
+  ],
+  "lat": 40.4303577,
+  "lng": -3.7116914
+ },
+ {
+  "id": "american-language-academy",
+  "nombre": "American Language Academy",
+  "categoria": "ingles",
+  "campamento": false,
+  "destacado": false,
+  "zona": "Chamberí",
+  "zona_slug": "chamberi",
+  "tipo_zona": "distrito",
+  "direccion": "Pl. del Conde del Valle de Súchil, 17, Chamberí, 28015 Madrid",
+  "telefono": "+34 914 45 55 11",
+  "web": "https://www.americanlanguage.es/",
+  "maps": "https://www.google.com/maps/place/?q=place_id:ChIJnevvuWAoQg0RutEnXlpSJeQ",
+  "rating": 4.8,
+  "opiniones": 392,
+  "horario": [
+   [
+    "Lun",
+    "9:00–21:30"
+   ],
+   [
+    "Mar",
+    "9:00–21:30"
+   ],
+   [
+    "Mié",
+    "9:00–21:30"
+   ],
+   [
+    "Jue",
+    "9:00–21:30"
+   ],
+   [
+    "Vie",
+    "9:00–21:30"
+   ],
+   [
+    "Sáb",
+    "11:00–14:00"
+   ],
+   [
+    "Dom",
+    "Cerrado"
+   ]
+  ],
+  "lat": 40.432109,
+  "lng": -3.7074598
+ },
+ {
+  "id": "seif-english-academy",
+  "nombre": "Seif English Academy",
+  "categoria": "ingles",
+  "campamento": false,
+  "destacado": false,
+  "zona": "Centro",
+  "zona_slug": "centro",
+  "tipo_zona": "distrito",
+  "direccion": "Gran Vía, 50, 1.º izquierda, Centro, 28013 Madrid",
+  "telefono": "+34 915 48 75 92",
+  "web": "https://idiomasseif.com/?utm_source=google&utm_medium=organic&utm_campaign=gbp&utm_content=website",
+  "maps": "https://www.google.com/maps/place/?q=place_id:ChIJd_AjtXooQg0RlDbyN2xPqgg",
+  "rating": 4.8,
+  "opiniones": 251,
+  "horario": [
+   [
+    "Lun",
+    "9:30–22:00"
+   ],
+   [
+    "Mar",
+    "9:30–22:00"
+   ],
+   [
+    "Mié",
+    "9:30–22:00"
+   ],
+   [
+    "Jue",
+    "9:30–22:00"
+   ],
+   [
+    "Vie",
+    "9:30–21:00"
+   ],
+   [
+    "Sáb",
+    "9:30–14:00"
+   ],
+   [
+    "Dom",
+    "Cerrado"
+   ]
+  ],
+  "lat": 40.4209189,
+  "lng": -3.7066013
+ },
+ {
+  "id": "eureka",
+  "nombre": "Eureka",
+  "categoria": "idiomas",
+  "campamento": false,
+  "destacado": false,
+  "zona": "Centro",
+  "zona_slug": "centro",
+  "tipo_zona": "distrito",
+  "direccion": "C. del Arenal, 26, 3º, Centro, 28013 Madrid",
+  "telefono": "+34 915 48 86 40",
+  "web": "http://www.eurekamadrid.com/",
+  "maps": "https://www.google.com/maps/place/?q=place_id:ChIJhXcEVnkoQg0RefNLIm4Zs8c",
+  "rating": 4.8,
+  "opiniones": 186,
+  "horario": [],
+  "lat": 40.4178369,
+  "lng": -3.7083288
+ },
+ {
+  "id": "pintapi-s-escuela-de-arte-en-madrid",
+  "nombre": "Pintapiés - Escuela de arte en Madrid",
+  "categoria": "arte",
+  "campamento": false,
+  "destacado": false,
+  "zona": "Centro",
+  "zona_slug": "centro",
+  "tipo_zona": "distrito",
+  "direccion": "C. de Lavapiés, 11, Centro, 28012 Madrid",
+  "telefono": "+34 633 25 98 31",
+  "web": "http://www.pintapiesarte.com/",
+  "maps": "https://www.google.com/maps/place/?q=place_id:ChIJCaNkUUwnQg0RnoSeuvOgkXs",
+  "rating": 4.9,
+  "opiniones": 48,
+  "horario": [
+   [
+    "Lun",
+    "18:00–21:00"
+   ],
+   [
+    "Mar",
+    "10:00–0:00"
+   ],
+   [
+    "Mié",
+    "17:00–21:00"
+   ],
+   [
+    "Jue",
+    "17:00–21:00"
+   ],
+   [
+    "Vie",
+    "17:00–21:00"
+   ],
+   [
+    "Sáb",
+    "Cerrado"
+   ],
+   [
+    "Dom",
+    "Cerrado"
+   ]
+  ],
+  "lat": 40.4112271,
+  "lng": -3.7027823
+ },
+ {
+  "id": "danza-180",
+  "nombre": "DANZA 180",
+  "categoria": "baile",
+  "campamento": false,
+  "destacado": false,
+  "zona": "Chamberí",
+  "zona_slug": "chamberi",
+  "tipo_zona": "distrito",
+  "direccion": "C. de Cea Bermúdez, 45, Chamberí, 28003 Madrid",
+  "telefono": "+34 646 43 94 52",
+  "web": "http://danza180.com/",
+  "maps": "https://www.google.com/maps/place/?q=place_id:ChIJJ28asUQoQg0RMF0oHJGf6tE",
+  "rating": 4.7,
+  "opiniones": 74,
+  "horario": [
+   [
+    "Lun",
+    "9:30–22:00"
+   ],
+   [
+    "Mar",
+    "9:30–22:00"
+   ],
+   [
+    "Mié",
+    "9:30–22:00"
+   ],
+   [
+    "Jue",
+    "9:30–22:00"
+   ],
+   [
+    "Vie",
+    "9:30–21:00"
+   ],
+   [
+    "Sáb",
+    "10:00–15:00"
+   ],
+   [
+    "Dom",
+    "Cerrado"
+   ]
+  ],
+  "lat": 40.4388028,
+  "lng": -3.7134188
+ },
+ {
+  "id": "sylvan-getafe",
+  "nombre": "Sylvan Getafe",
+  "categoria": "idiomas",
+  "campamento": false,
+  "destacado": false,
+  "zona": "Getafe",
+  "zona_slug": "getafe",
+  "tipo_zona": "municipio",
+  "direccion": "C. de la Ilustración, 1, 28902 Getafe, Madrid",
+  "telefono": "+34 671 91 76 68",
+  "web": "https://sylvangetafe.com/",
+  "maps": "https://www.google.com/maps/place/?q=place_id:ChIJWaZ4yxkhQg0RtrQlOrwq62s",
+  "rating": 4.7,
+  "opiniones": 77,
+  "horario": [
+   [
+    "Lun",
+    "10:00–14:00, 16:00–21:00"
+   ],
+   [
+    "Mar",
+    "10:00–14:00, 16:00–21:00"
+   ],
+   [
+    "Mié",
+    "10:00–14:00, 16:00–21:00"
+   ],
+   [
+    "Jue",
+    "10:00–14:00, 16:00–21:00"
+   ],
+   [
+    "Vie",
+    "Cerrado"
+   ],
+   [
+    "Sáb",
+    "Cerrado"
+   ],
+   [
+    "Dom",
+    "Cerrado"
+   ]
+  ],
+  "lat": 40.3139587,
+  "lng": -3.727866
+ },
+ {
+  "id": "what-s-up",
+  "nombre": "What's Up!",
+  "categoria": "ingles",
+  "campamento": false,
+  "destacado": false,
+  "zona": "Getafe",
+  "zona_slug": "getafe",
+  "tipo_zona": "municipio",
+  "direccion": "C. Madrid, 78, 28902 Getafe, Madrid",
+  "telefono": "+34 911 17 41 60",
+  "web": "https://whatsup.es/google-maps?utm_source=gmb&utm_medium=organic&utm_campaign=gmb_website",
+  "maps": "https://www.google.com/maps/place/?q=place_id:ChIJqTIzxKghQg0RrLl9EWw4iZc",
+  "rating": 4.7,
+  "opiniones": 113,
+  "horario": [
+   [
+    "Lun",
+    "9:30–21:30"
+   ],
+   [
+    "Mar",
+    "9:30–21:30"
+   ],
+   [
+    "Mié",
+    "9:30–21:30"
+   ],
+   [
+    "Jue",
+    "9:30–21:30"
+   ],
+   [
+    "Vie",
+    "9:30–21:30"
+   ],
+   [
+    "Sáb",
+    "10:00–14:00"
+   ],
+   [
+    "Dom",
+    "Cerrado"
+   ]
+  ],
+  "lat": 40.3099343,
+  "lng": -3.728495
+ },
+ {
+  "id": "my-english-school-academia-de-ingl-s-madrid-chamber",
+  "nombre": "My English School - Academia de Inglés Madrid Chamberí",
+  "categoria": "ingles",
+  "campamento": false,
+  "destacado": false,
+  "zona": "Chamberí",
+  "zona_slug": "chamberi",
+  "tipo_zona": "distrito",
+  "direccion": "C. de Cea Bermúdez, 33, Chamberí, 28003 Madrid",
+  "telefono": "+34 910 55 25 94",
+  "web": "https://www.myes.school/es/cursos-de-ingles-madrid/",
+  "maps": "https://www.google.com/maps/place/?q=place_id:ChIJhxgYzB4pQg0R3Ch24RZP7Js",
+  "rating": 4.7,
+  "opiniones": 91,
+  "horario": [
+   [
+    "Lun",
+    "10:00–21:00"
+   ],
+   [
+    "Mar",
+    "10:00–21:00"
+   ],
+   [
+    "Mié",
+    "10:00–21:00"
+   ],
+   [
+    "Jue",
+    "10:00–21:00"
+   ],
+   [
+    "Vie",
+    "10:00–21:00"
+   ],
+   [
+    "Sáb",
+    "10:00–14:00"
+   ],
+   [
+    "Dom",
+    "Cerrado"
+   ]
+  ],
+  "lat": 40.4387156,
+  "lng": -3.7114138
+ },
+ {
+  "id": "kids-us-english-for-children",
+  "nombre": "Kids & Us - English for children",
+  "categoria": "ingles",
+  "campamento": false,
+  "destacado": false,
+  "zona": "Getafe",
+  "zona_slug": "getafe",
+  "tipo_zona": "municipio",
+  "direccion": "Esquina con, Calle Alhambra, s/n, Av. del Casar, 28903 Getafe, Madrid",
+  "telefono": "+34 910 02 80 50",
+  "web": "https://www.kidsandusmadridsur.es/",
+  "maps": "https://www.google.com/maps/place/?q=place_id:ChIJiaKz5NogQg0RGikkdj7SHiU",
+  "rating": 4.7,
+  "opiniones": 91,
+  "horario": [
+   [
+    "Lun",
+    "12:00–20:00"
+   ],
+   [
+    "Mar",
+    "12:00–20:00"
+   ],
+   [
+    "Mié",
+    "12:00–20:00"
+   ],
+   [
+    "Jue",
+    "12:00–20:00"
+   ],
+   [
+    "Vie",
+    "13:00–20:00"
+   ],
+   [
+    "Sáb",
+    "Cerrado"
+   ],
+   [
+    "Dom",
+    "Cerrado"
+   ]
+  ],
+  "lat": 40.3178385,
+  "lng": -3.7114362
+ },
+ {
+  "id": "kids-us-english-for-children",
+  "nombre": "Kids & Us - English for children",
+  "categoria": "ingles",
+  "campamento": false,
+  "destacado": false,
+  "zona": "Majadahonda",
+  "zona_slug": "majadahonda",
+  "tipo_zona": "municipio",
+  "direccion": "Av. Dr. Marañón, 37, 28220 Majadahonda, Madrid",
+  "telefono": "+34 620 54 31 33",
+  "web": "https://www.kidsandus.es/es/academias-ingles/majadahonda",
+  "maps": "https://www.google.com/maps/place/?q=place_id:ChIJM04JKJKEQQ0RpOogiPq3TsI",
+  "rating": 4.7,
+  "opiniones": 63,
+  "horario": [
+   [
+    "Lun",
+    "12:00–20:30"
+   ],
+   [
+    "Mar",
+    "12:00–20:30"
+   ],
+   [
+    "Mié",
+    "12:00–20:30"
+   ],
+   [
+    "Jue",
+    "12:00–20:30"
+   ],
+   [
+    "Vie",
+    "12:00–18:30"
+   ],
+   [
+    "Sáb",
+    "Cerrado"
+   ],
+   [
+    "Dom",
+    "Cerrado"
+   ]
+  ],
+  "lat": 40.47311,
+  "lng": -3.87828
+ },
+ {
+  "id": "kids-us-english-for-children",
+  "nombre": "Kids & Us - English for children",
+  "categoria": "ingles",
+  "campamento": false,
+  "destacado": false,
+  "zona": "Retiro",
+  "zona_slug": "retiro",
+  "tipo_zona": "distrito",
+  "direccion": "Plaza del Dr. Laguna, 3, Retiro, 28009 Madrid",
+  "telefono": "+34 601 14 55 02",
+  "web": "https://www.kidsandus.es/es/academias-ingles/el-retiro",
+  "maps": "https://www.google.com/maps/place/?q=place_id:ChIJOU8e3acoQg0R66yMMsGEhx0",
+  "rating": 4.7,
+  "opiniones": 118,
+  "horario": [
+   [
+    "Lun",
+    "11:00–13:30, 15:00–20:00"
+   ],
+   [
+    "Mar",
+    "11:00–13:30, 15:00–19:30"
+   ],
+   [
+    "Mié",
+    "11:00–13:30, 15:00–20:00"
+   ],
+   [
+    "Jue",
+    "11:00–13:30, 15:00–20:00"
+   ],
+   [
+    "Vie",
+    "15:00–19:30"
+   ],
+   [
+    "Sáb",
+    "Cerrado"
+   ],
+   [
+    "Dom",
+    "Cerrado"
+   ]
+  ],
+  "lat": 40.4152638,
+  "lng": -3.6730427
+ },
+ {
+  "id": "paso-a-paso-madrid-escuela-de-baile",
+  "nombre": "Paso a Paso Madrid. Escuela de baile",
+  "categoria": "baile",
+  "campamento": false,
+  "destacado": false,
+  "zona": "Centro",
+  "zona_slug": "centro",
+  "tipo_zona": "distrito",
+  "direccion": "Centro La Corrala de la Danza, Calle del Dr. Piga, 5 Bis, Centro, 28012 Madrid",
+  "telefono": "+34 659 11 56 61",
+  "web": "http://www.pasoapasomadrid.com/",
+  "maps": "https://www.google.com/maps/place/?q=place_id:ChIJL3zG7ysmQg0RjjTAUrGHKhU",
+  "rating": 4.7,
+  "opiniones": 108,
+  "horario": [
+   [
+    "Lun",
+    "10:00–22:00"
+   ],
+   [
+    "Mar",
+    "10:00–22:00"
+   ],
+   [
+    "Mié",
+    "10:00–22:00"
+   ],
+   [
+    "Jue",
+    "10:00–22:00"
+   ],
+   [
+    "Vie",
+    "10:00–22:00"
+   ],
+   [
+    "Sáb",
+    "10:00–14:00"
+   ],
+   [
+    "Dom",
+    "Cerrado"
+   ]
+  ],
+  "lat": 40.40868,
+  "lng": -3.6986523
+ },
+ {
+  "id": "degranero-taller-de-dibujo-y-pintura",
+  "nombre": "deGranero TALLER DE DIBUJO Y PINTURA",
+  "categoria": "arte",
+  "campamento": false,
+  "destacado": false,
+  "zona": "Salamanca",
+  "zona_slug": "salamanca",
+  "tipo_zona": "distrito",
+  "direccion": "C. de Méjico, 15, Loc 2, Salamanca, 28028 Madrid",
+  "telefono": "+34 914 10 91 73",
+  "web": "https://degranero.es/",
+  "maps": "https://www.google.com/maps/place/?q=place_id:ChIJ43gttccoQg0RjnH8_zqvXp0",
+  "rating": 4.7,
+  "opiniones": 224,
+  "horario": [
+   [
+    "Lun",
+    "10:00–14:00, 17:30–21:30"
+   ],
+   [
+    "Mar",
+    "10:00–14:00, 16:30–21:30"
+   ],
+   [
+    "Mié",
+    "10:00–14:00, 17:30–21:30"
+   ],
+   [
+    "Jue",
+    "10:00–14:00, 17:30–21:30"
+   ],
+   [
+    "Vie",
+    "10:00–14:00, 17:30–21:30"
+   ],
+   [
+    "Sáb",
+    "10:00–14:00"
+   ],
+   [
+    "Dom",
+    "Cerrado"
+   ]
+  ],
+  "lat": 40.4367105,
+  "lng": -3.6741183
+ },
+ {
+  "id": "art-ma-as-s-l",
+  "nombre": "Art&Mañas S.L.",
+  "categoria": "extraescolares",
+  "campamento": false,
+  "destacado": false,
+  "zona": "Arganzuela",
+  "zona_slug": "arganzuela",
+  "tipo_zona": "distrito",
+  "direccion": "C. de Valdelasierra, 2, Arganzuela, 28005 Madrid",
+  "telefono": "+34 678 28 28 09",
+  "web": "http://www.artymanas.com/",
+  "maps": "https://www.google.com/maps/place/?q=place_id:ChIJ98k3a_gmQg0RYELQJ2cQQis",
+  "rating": 4.7,
+  "opiniones": 94,
+  "horario": [
+   [
+    "Lun",
+    "10:00–17:00"
+   ],
+   [
+    "Mar",
+    "10:00–17:00"
+   ],
+   [
+    "Mié",
+    "10:00–17:00"
+   ],
+   [
+    "Jue",
+    "10:00–17:00"
+   ],
+   [
+    "Vie",
+    "10:00–17:00"
+   ],
+   [
+    "Sáb",
+    "Cerrado"
+   ],
+   [
+    "Dom",
+    "Cerrado"
+   ]
+  ],
+  "lat": 40.3978925,
+  "lng": -3.7067938
+ },
+ {
+  "id": "aula-joven-campamentos-de-verano-y-actividades-extraescolares",
+  "nombre": "Aula Joven - Campamentos de verano y actividades extraescolares",
+  "categoria": "extraescolares",
+  "campamento": true,
+  "destacado": false,
+  "zona": "Chamartín",
+  "zona_slug": "chamartin",
+  "tipo_zona": "distrito",
+  "direccion": "C. de Marcenado, 34, Chamartín, 28002 Madrid",
+  "telefono": "+34 914 13 26 65",
+  "web": "https://aulajoven.com/",
+  "maps": "https://www.google.com/maps/place/?q=place_id:ChIJW8ZkMdooQg0RHB8WocGqBg0",
+  "rating": 4.7,
+  "opiniones": 250,
+  "horario": [
+   [
+    "Lun",
+    "9:00–14:00, 15:00–18:00"
+   ],
+   [
+    "Mar",
+    "9:00–14:00, 15:00–18:00"
+   ],
+   [
+    "Mié",
+    "9:00–14:00, 15:00–18:00"
+   ],
+   [
+    "Jue",
+    "9:00–14:00, 15:00–18:00"
+   ],
+   [
+    "Vie",
+    "10:00–14:00, 15:30–17:30"
+   ],
+   [
+    "Sáb",
+    "Cerrado"
+   ],
+   [
+    "Dom",
+    "Cerrado"
+   ]
+  ],
+  "lat": 40.4477125,
+  "lng": -3.6733761
+ },
+ {
+  "id": "what-s-up",
+  "nombre": "What's Up!",
+  "categoria": "ingles",
+  "campamento": false,
+  "destacado": false,
+  "zona": "Chamberí",
+  "zona_slug": "chamberi",
+  "tipo_zona": "distrito",
+  "direccion": "C. de Sagasta, 11, Chamberí, 28004 Madrid",
+  "telefono": "+34 911 08 71 87",
+  "web": "https://whatsup.es/google-maps?utm_source=gmb&utm_medium=organic&utm_campaign=gmb_website",
+  "maps": "https://www.google.com/maps/place/?q=place_id:ChIJk23jaAUpQg0RImQq0gItDo8",
+  "rating": 4.7,
+  "opiniones": 341,
+  "horario": [
+   [
+    "Lun",
+    "9:30–21:30"
+   ],
+   [
+    "Mar",
+    "9:30–21:30"
+   ],
+   [
+    "Mié",
+    "9:30–21:30"
+   ],
+   [
+    "Jue",
+    "9:30–21:30"
+   ],
+   [
+    "Vie",
+    "9:30–21:30"
+   ],
+   [
+    "Sáb",
+    "10:00–14:00"
+   ],
+   [
+    "Dom",
+    "Cerrado"
+   ]
+  ],
+  "lat": 40.4287517,
+  "lng": -3.7002527
+ },
+ {
+  "id": "dictum-idioma",
+  "nombre": "Dictum Idioma",
+  "categoria": "ingles",
+  "campamento": false,
+  "destacado": false,
+  "zona": "Chamberí",
+  "zona_slug": "chamberi",
+  "tipo_zona": "distrito",
+  "direccion": "C. de Cristóbal Bordiú, 35, Chamberí, 28003 Madrid",
+  "telefono": "+34 918 21 72 74",
+  "web": "http://www.dictumidiomas.com/",
+  "maps": "https://www.google.com/maps/place/?q=place_id:ChIJS9Y7eFEoQg0R0tIKFErWP6c",
+  "rating": 4.7,
+  "opiniones": 102,
+  "horario": [
+   [
+    "Lun",
+    "9:30–21:30"
+   ],
+   [
+    "Mar",
+    "9:30–21:30"
+   ],
+   [
+    "Mié",
+    "9:30–21:30"
+   ],
+   [
+    "Jue",
+    "9:30–21:30"
+   ],
+   [
+    "Vie",
+    "10:00–20:30"
+   ],
+   [
+    "Sáb",
+    "Cerrado"
+   ],
+   [
+    "Dom",
+    "Cerrado"
+   ]
+  ],
+  "lat": 40.4431236,
+  "lng": -3.6980241
+ },
+ {
+  "id": "tandem",
+  "nombre": "TANDEM",
+  "categoria": "ingles",
+  "campamento": false,
+  "destacado": false,
+  "zona": "Centro",
+  "zona_slug": "centro",
+  "tipo_zona": "distrito",
+  "direccion": "C. del Marqués de Cubas, 8, Centro, 28014 Madrid",
+  "telefono": "+34 915 32 27 15",
+  "web": "https://www.tandemmadrid.com/?utm_source=GoogleMyBusiness&utm_campaign=GoogleMyBusiness&utm_medium=organic",
+  "maps": "https://www.google.com/maps/place/?q=place_id:ChIJ6TBXmIMoQg0R1nC9Aj6k6Bc",
+  "rating": 4.7,
+  "opiniones": 241,
+  "horario": [
+   [
+    "Lun",
+    "9:00–19:00"
+   ],
+   [
+    "Mar",
+    "9:00–19:00"
+   ],
+   [
+    "Mié",
+    "9:00–19:00"
+   ],
+   [
+    "Jue",
+    "9:00–19:00"
+   ],
+   [
+    "Vie",
+    "9:00–19:00"
+   ],
+   [
+    "Sáb",
+    "Cerrado"
+   ],
+   [
+    "Dom",
+    "Cerrado"
+   ]
+  ],
+  "lat": 40.4171147,
+  "lng": -3.6955638
+ },
+ {
+  "id": "school-of-music-with-heart",
+  "nombre": "School of Music with Heart",
+  "categoria": "musica",
+  "campamento": false,
+  "destacado": false,
+  "zona": "Chamberí",
+  "zona_slug": "chamberi",
+  "tipo_zona": "distrito",
+  "direccion": "Calle de Ramiro II, 7, Chamberí, 28003 Madrid",
+  "telefono": "+34 676 82 24 91",
+  "web": "http://www.musicaconcorazon.com/",
+  "maps": "https://www.google.com/maps/place/?q=place_id:ChIJY14WKlgoQg0R6I_DpDZTUD4",
+  "rating": 4.9,
+  "opiniones": 47,
+  "horario": [
+   [
+    "Lun",
+    "16:00–20:00"
+   ],
+   [
+    "Mar",
+    "16:00–20:00"
+   ],
+   [
+    "Mié",
+    "16:00–20:00"
+   ],
+   [
+    "Jue",
+    "16:00–20:00"
+   ],
+   [
+    "Vie",
+    "16:00–20:00"
+   ],
+   [
+    "Sáb",
+    "Cerrado"
+   ],
+   [
+    "Dom",
+    "Cerrado"
+   ]
+  ],
+  "lat": 40.4431843,
+  "lng": -3.704913
+ },
+ {
+  "id": "studio11-madrid-dance-center-pl-castilla",
+  "nombre": "Studio11® Madrid Dance Center (Pl. Castilla)",
+  "categoria": "baile",
+  "campamento": false,
+  "destacado": false,
+  "zona": "Chamartín",
+  "zona_slug": "chamartin",
+  "tipo_zona": "distrito",
+  "direccion": "C. de Manuel Ferrero, 5, Chamartín, 28036 Madrid",
+  "telefono": "+34 910 84 47 06",
+  "web": "https://www.studio11madrid.com/",
+  "maps": "https://www.google.com/maps/place/?q=place_id:ChIJMxCg-4cpQg0RtfOh4D3qQ_g",
+  "rating": 4.6,
+  "opiniones": 74,
+  "horario": [
+   [
+    "Lun",
+    "17:00–22:00"
+   ],
+   [
+    "Mar",
+    "17:00–22:00"
+   ],
+   [
+    "Mié",
+    "17:00–22:00"
+   ],
+   [
+    "Jue",
+    "17:00–22:00"
+   ],
+   [
+    "Vie",
+    "17:00–22:00"
+   ],
+   [
+    "Sáb",
+    "10:00–14:00"
+   ],
+   [
+    "Dom",
+    "Cerrado"
+   ]
+  ],
+  "lat": 40.468277,
+  "lng": -3.6845811
+ },
+ {
+  "id": "escuela-oficial-de-idiomas-pozuelo-de-alarc-n",
+  "nombre": "Escuela Oficial de Idiomas Pozuelo de Alarcón",
+  "categoria": "ingles",
+  "campamento": false,
+  "destacado": false,
+  "zona": "Pozuelo de Alarcón",
+  "zona_slug": "pozuelo-de-alarcon",
+  "tipo_zona": "municipio",
+  "direccion": "Av. de Juan XXIII, 4, 28224 Pozuelo de Alarcón, Madrid",
+  "telefono": "+34 917 15 23 17",
+  "web": "https://site.educa.madrid.org/eoi.pozuelo.pozuelodealarcon/",
+  "maps": "https://www.google.com/maps/place/?q=place_id:ChIJF09dXV-GQQ0ReGjAmowybN8",
+  "rating": 4.6,
+  "opiniones": 59,
+  "horario": [
+   [
+    "Lun",
+    "9:00–21:00"
+   ],
+   [
+    "Mar",
+    "9:00–21:00"
+   ],
+   [
+    "Mié",
+    "9:00–21:00"
+   ],
+   [
+    "Jue",
+    "9:00–21:00"
+   ],
+   [
+    "Vie",
+    "9:00–14:30"
+   ],
+   [
+    "Sáb",
+    "Cerrado"
+   ],
+   [
+    "Dom",
+    "Cerrado"
+   ]
+  ],
+  "lat": 40.4498997,
+  "lng": -3.8006596
+ },
+ {
+  "id": "c-rculo-de-baile",
+  "nombre": "Círculo de Baile",
+  "categoria": "baile",
+  "campamento": false,
+  "destacado": false,
+  "zona": "Chamberí",
+  "zona_slug": "chamberi",
+  "tipo_zona": "distrito",
+  "direccion": "Pl. del Conde del Valle de Súchil, 3, Chamberí, 28015 Madrid",
+  "telefono": "+34 675 82 58 72",
+  "web": "https://www.circulodebaile.es/",
+  "maps": "https://www.google.com/maps/place/?q=place_id:ChIJ-wT-Oo4oQg0R8Ce_ecKhPEw",
+  "rating": 4.6,
+  "opiniones": 169,
+  "horario": [
+   [
+    "Lun",
+    "10:00–22:00"
+   ],
+   [
+    "Mar",
+    "10:00–22:00"
+   ],
+   [
+    "Mié",
+    "10:00–22:00"
+   ],
+   [
+    "Jue",
+    "10:00–22:00"
+   ],
+   [
+    "Vie",
+    "10:00–22:00"
+   ],
+   [
+    "Sáb",
+    "10:00–14:00"
+   ],
+   [
+    "Dom",
+    "17:00–21:00"
+   ]
+  ],
+  "lat": 40.430269,
+  "lng": -3.707742
+ },
+ {
+  "id": "nataci-n-infantil-trampol-n-madrid",
+  "nombre": "Natación Infantil Trampolín Madrid",
+  "categoria": "deporte",
+  "campamento": false,
+  "destacado": false,
+  "zona": "Chamartín",
+  "zona_slug": "chamartin",
+  "tipo_zona": "distrito",
+  "direccion": "CALLE RAFAEL HERRERA 11 SEMISOTANO, 28036 Madrid",
+  "telefono": "+34 913 25 83 25",
+  "web": "https://trampolinnatacioninfantil.es/",
+  "maps": "https://www.google.com/maps/place/?q=place_id:ChIJb9ZV6ecpQg0R_WR9an7lQVI",
+  "rating": 4.6,
+  "opiniones": 72,
+  "horario": [
+   [
+    "Lun",
+    "9:30–13:00, 16:00–20:30"
+   ],
+   [
+    "Mar",
+    "9:30–13:00, 16:00–20:30"
+   ],
+   [
+    "Mié",
+    "9:30–13:00, 16:00–20:30"
+   ],
+   [
+    "Jue",
+    "9:30–13:00, 16:00–20:30"
+   ],
+   [
+    "Vie",
+    "9:30–13:00, 16:00–20:30"
+   ],
+   [
+    "Sáb",
+    "9:00–13:30"
+   ],
+   [
+    "Dom",
+    "Cerrado"
+   ]
+  ],
+  "lat": 40.4678198,
+  "lng": -3.6848631
+ },
+ {
+  "id": "vaughan-systems-slu",
+  "nombre": "Vaughan Systems SLU",
+  "categoria": "apoyo-escolar",
+  "campamento": false,
+  "destacado": false,
+  "zona": "Tetuán",
+  "zona_slug": "tetuan",
+  "tipo_zona": "distrito",
+  "direccion": "C. de Orense, 69, Tetuán, 28020 Madrid",
+  "telefono": "+34 911 33 58 31",
+  "web": "https://grupovaughan.com/?utm_medium=organic-gmb&utm_source=google&utm_campaign=madrid",
+  "maps": "https://www.google.com/maps/place/?q=place_id:ChIJh7KOZQMpQg0R0JyCufu44Tg",
+  "rating": 4.6,
+  "opiniones": 620,
+  "horario": [
+   [
+    "Lun",
+    "9:00–21:30"
+   ],
+   [
+    "Mar",
+    "9:00–21:00"
+   ],
+   [
+    "Mié",
+    "9:00–21:00"
+   ],
+   [
+    "Jue",
+    "9:00–21:00"
+   ],
+   [
+    "Vie",
+    "9:00–21:00"
+   ],
+   [
+    "Sáb",
+    "9:30–14:00"
+   ],
+   [
+    "Dom",
+    "Cerrado"
+   ]
+  ],
+  "lat": 40.4583256,
+  "lng": -3.694588
+ },
+ {
+  "id": "academia-paraninfo",
+  "nombre": "Academia Paraninfo",
+  "categoria": "robotica",
+  "campamento": false,
+  "destacado": false,
+  "zona": "Chamberí",
+  "zona_slug": "chamberi",
+  "tipo_zona": "distrito",
+  "direccion": "Calle de la Princesa, 70, 1 planta, Chamberí, 28008 Madrid",
+  "telefono": "+34 915 43 31 39",
+  "web": "https://www.paraninfo.com/",
+  "maps": "https://www.google.com/maps/place/?q=place_id:ChIJ42AL6mkoQg0RLaE0cI633uk",
+  "rating": 4.6,
+  "opiniones": 343,
+  "horario": [
+   [
+    "Lun",
+    "9:00–21:00"
+   ],
+   [
+    "Mar",
+    "9:00–21:00"
+   ],
+   [
+    "Mié",
+    "9:00–21:00"
+   ],
+   [
+    "Jue",
+    "9:00–21:00"
+   ],
+   [
+    "Vie",
+    "9:00–21:00"
+   ],
+   [
+    "Sáb",
+    "9:00–14:00"
+   ],
+   [
+    "Dom",
+    "Cerrado"
+   ]
+  ],
+  "lat": 40.4317097,
+  "lng": -3.7166745
+ },
+ {
+  "id": "workshop-la-salamandra",
+  "nombre": "Workshop La Salamandra",
+  "categoria": "arte",
+  "campamento": false,
+  "destacado": false,
+  "zona": "Chamberí",
+  "zona_slug": "chamberi",
+  "tipo_zona": "distrito",
+  "direccion": "C. de María Panés, 8, Chamberí, 28003 Madrid",
+  "telefono": "+34 915 34 85 16",
+  "web": "https://www.tallersalamandra.com/?utm_source=gmb&utm_medium=organico&utm_campaign=maria-panes",
+  "maps": "https://www.google.com/maps/place/?q=place_id:ChIJPcM0E_ooQg0R1p3QRfPrWWU",
+  "rating": 4.9,
+  "opiniones": 46,
+  "horario": [
+   [
+    "Lun",
+    "17:30–21:30"
+   ],
+   [
+    "Mar",
+    "10:00–14:00, 17:30–21:30"
+   ],
+   [
+    "Mié",
+    "10:00–14:00, 17:30–21:30"
+   ],
+   [
+    "Jue",
+    "10:00–14:00, 17:30–21:30"
+   ],
+   [
+    "Vie",
+    "10:00–12:00, 17:30–19:30"
+   ],
+   [
+    "Sáb",
+    "10:00–14:00"
+   ],
+   [
+    "Dom",
+    "Cerrado"
+   ]
+  ],
+  "lat": 40.444479,
+  "lng": -3.6965621
+ },
+ {
+  "id": "educachild-zarzaquemada",
+  "nombre": "EducaChild Zarzaquemada",
+  "categoria": "ingles",
+  "campamento": false,
+  "destacado": false,
+  "zona": "Leganés",
+  "zona_slug": "leganes",
+  "tipo_zona": "municipio",
+  "direccion": "C. de la Moraña, 1, 28915 Leganés, Madrid",
+  "telefono": "+34 656 82 67 48",
+  "web": "http://www.educachild.com/",
+  "maps": "https://www.google.com/maps/place/?q=place_id:ChIJ-ZKRefeJQQ0RDH2omm-QClE",
+  "rating": 4.5,
+  "opiniones": 62,
+  "horario": [
+   [
+    "Lun",
+    "15:30–21:30"
+   ],
+   [
+    "Mar",
+    "15:30–20:30"
+   ],
+   [
+    "Mié",
+    "15:30–21:30"
+   ],
+   [
+    "Jue",
+    "15:30–20:30"
+   ],
+   [
+    "Vie",
+    "10:00–12:30, 15:30–21:00"
+   ],
+   [
+    "Sáb",
+    "Cerrado"
+   ],
+   [
+    "Dom",
+    "Cerrado"
+   ]
+  ],
+  "lat": 40.3325739,
+  "lng": -3.754199
+ },
+ {
+  "id": "academia-talktalk-ingl-s-montecarmelo-madrid",
+  "nombre": "Academia TALKTALK inglés MONTECARMELO MADRID",
+  "categoria": "ingles",
+  "campamento": false,
+  "destacado": false,
+  "zona": "Fuencarral-El Pardo",
+  "zona_slug": "fuencarral-el-pardo",
+  "tipo_zona": "distrito",
+  "direccion": "C. del Monasterio de Liébana, 5, Fuencarral-El Pardo, 28049 Madrid",
+  "telefono": "+34 917 29 61 17",
+  "web": "http://www.talktalkidiomas.com/",
+  "maps": "https://www.google.com/maps/place/?q=place_id:ChIJ1_-fjs8rQg0RKcJ1DZ5PU1Y",
+  "rating": 4.5,
+  "opiniones": 80,
+  "horario": [
+   [
+    "Lun",
+    "12:00–22:00"
+   ],
+   [
+    "Mar",
+    "12:00–22:00"
+   ],
+   [
+    "Mié",
+    "12:00–22:00"
+   ],
+   [
+    "Jue",
+    "12:00–22:00"
+   ],
+   [
+    "Vie",
+    "12:00–22:00"
+   ],
+   [
+    "Sáb",
+    "12:00–14:00"
+   ],
+   [
+    "Dom",
+    "Cerrado"
+   ]
+  ],
+  "lat": 40.5069584,
+  "lng": -3.6947168
+ },
+ {
+  "id": "el-horno",
+  "nombre": "El Horno",
+  "categoria": "baile",
+  "campamento": false,
+  "destacado": false,
+  "zona": "Centro",
+  "zona_slug": "centro",
+  "tipo_zona": "distrito",
+  "direccion": "C. de la Esgrima, 11, Centro, 28012 Madrid",
+  "telefono": "+34 659 92 09 72",
+  "web": "http://www.centroelhorno.com/",
+  "maps": "https://www.google.com/maps/place/?q=place_id:ChIJL8goF9UnQg0Rg5HsTNeJ2zA",
+  "rating": 4.5,
+  "opiniones": 250,
+  "horario": [
+   [
+    "Lun",
+    "10:00–21:30"
+   ],
+   [
+    "Mar",
+    "10:00–21:30"
+   ],
+   [
+    "Mié",
+    "10:00–21:30"
+   ],
+   [
+    "Jue",
+    "10:00–21:30"
+   ],
+   [
+    "Vie",
+    "10:00–21:30"
+   ],
+   [
+    "Sáb",
+    "10:00–15:00"
+   ],
+   [
+    "Dom",
+    "Cerrado"
+   ]
+  ],
+  "lat": 40.41107,
+  "lng": -3.704451
+ },
+ {
+  "id": "number-16-school-alonso-mart-nez-academia-de-ingl-s-centro",
+  "nombre": "Number 16 School Alonso Martínez - Academia de Inglés Centro",
+  "categoria": "ingles",
+  "campamento": false,
+  "destacado": false,
+  "zona": "Centro",
+  "zona_slug": "centro",
+  "tipo_zona": "distrito",
+  "direccion": "C. de Fernando VI, 1, Centro, 28004 Madrid",
+  "telefono": "+34 912 90 30 31",
+  "web": "https://number16.com/academias-de-ingles/madrid/alonso-martinez",
+  "maps": "https://www.google.com/maps/place/?q=place_id:ChIJq0ao2Y4oQg0RBmzYWKWLEx0",
+  "rating": 4.5,
+  "opiniones": 525,
+  "horario": [
+   [
+    "Lun",
+    "8:00–21:30"
+   ],
+   [
+    "Mar",
+    "8:00–21:30"
+   ],
+   [
+    "Mié",
+    "8:00–21:30"
+   ],
+   [
+    "Jue",
+    "8:00–21:30"
+   ],
+   [
+    "Vie",
+    "8:00–21:30"
+   ],
+   [
+    "Sáb",
+    "9:00–14:00"
+   ],
+   [
+    "Dom",
+    "Cerrado"
+   ]
+  ],
+  "lat": 40.4259463,
+  "lng": -3.6969959
+ },
+ {
+  "id": "the-green-monkey",
+  "nombre": "The Green Monkey",
+  "categoria": "ingles",
+  "campamento": false,
+  "destacado": false,
+  "zona": "Fuencarral-El Pardo",
+  "zona_slug": "fuencarral-el-pardo",
+  "tipo_zona": "distrito",
+  "direccion": "Av del Santuario de Valverde, 1, Fuencarral-El Pardo, 28049 Madrid",
+  "telefono": "+34 917 59 81 52",
+  "web": "http://www.thegreenmonkey.es/montecarmelo",
+  "maps": "https://www.google.com/maps/place/?q=place_id:ChIJfZQhtIApQg0RTu1BEjCiIJk",
+  "rating": 4.4,
+  "opiniones": 52,
+  "horario": [
+   [
+    "Lun",
+    "10:00–14:00, 16:00–20:00"
+   ],
+   [
+    "Mar",
+    "10:00–14:00, 16:00–20:00"
+   ],
+   [
+    "Mié",
+    "10:00–14:00, 16:00–20:00"
+   ],
+   [
+    "Jue",
+    "10:00–14:00, 16:00–20:00"
+   ],
+   [
+    "Vie",
+    "10:00–14:00, 16:00–20:00"
+   ],
+   [
+    "Sáb",
+    "Cerrado"
+   ],
+   [
+    "Dom",
+    "Cerrado"
+   ]
+  ],
+  "lat": 40.5044201,
+  "lng": -3.7092035
+ },
+ {
+  "id": "centro-deportivo-el-pilar",
+  "nombre": "Centro Deportivo El Pilar",
+  "categoria": "deporte",
+  "campamento": false,
+  "destacado": false,
+  "zona": "Salamanca",
+  "zona_slug": "salamanca",
+  "tipo_zona": "distrito",
+  "direccion": "Cl. de Ayala, 47-49, Salamanca, 28001 Madrid",
+  "telefono": "+34 915 75 24 81",
+  "web": "http://www.centrodeportivoelpilar.es/",
+  "maps": "https://www.google.com/maps/place/?q=place_id:ChIJA3c5yL0oQg0Rh-0ikRe5Iok",
+  "rating": 4.4,
+  "opiniones": 89,
+  "horario": [
+   [
+    "Lun",
+    "14:00–22:15"
+   ],
+   [
+    "Mar",
+    "14:00–22:15"
+   ],
+   [
+    "Mié",
+    "14:00–22:15"
+   ],
+   [
+    "Jue",
+    "14:00–22:15"
+   ],
+   [
+    "Vie",
+    "14:00–22:15"
+   ],
+   [
+    "Sáb",
+    "9:00–14:15"
+   ],
+   [
+    "Dom",
+    "9:00–14:15"
+   ]
+  ],
+  "lat": 40.4275929,
+  "lng": -3.6806063
+ },
+ {
+  "id": "kids-us-english-for-children",
+  "nombre": "Kids & Us - English for children",
+  "categoria": "ingles",
+  "campamento": false,
+  "destacado": false,
+  "zona": "Leganés",
+  "zona_slug": "leganes",
+  "tipo_zona": "municipio",
+  "direccion": "Av. del Conde de Barcelona, 17, 28914 Leganés, Madrid",
+  "telefono": "+34 910 07 58 88",
+  "web": "https://www.kidsandusmadridsur.es/",
+  "maps": "https://www.google.com/maps/place/?q=place_id:ChIJT4LCydSLQQ0RnYAgMQGWwb0",
+  "rating": 4.7,
+  "opiniones": 46,
+  "horario": [
+   [
+    "Lun",
+    "10:00–21:00"
+   ],
+   [
+    "Mar",
+    "10:00–21:00"
+   ],
+   [
+    "Mié",
+    "10:00–21:00"
+   ],
+   [
+    "Jue",
+    "10:00–21:00"
+   ],
+   [
+    "Vie",
+    "10:00–20:00"
+   ],
+   [
+    "Sáb",
+    "Cerrado"
+   ],
+   [
+    "Dom",
+    "Cerrado"
+   ]
+  ],
+  "lat": 40.325,
+  "lng": -3.7841667
+ },
+ {
+  "id": "dancing-dreams-madrid",
+  "nombre": "Dancing Dreams Madrid",
+  "categoria": "baile",
+  "campamento": false,
+  "destacado": false,
+  "zona": "Retiro",
+  "zona_slug": "retiro",
+  "tipo_zona": "distrito",
+  "direccion": "Calle de los Pajaritos, 19, Retiro, 28007 Madrid",
+  "telefono": "+34 675 39 47 99",
+  "web": "http://www.dancingdreamsmadrid.es/",
+  "maps": "https://www.google.com/maps/place/?q=place_id:ChIJnYSb7g8mQg0RmwyI26dz3dA",
+  "rating": 4.7,
+  "opiniones": 46,
+  "horario": [
+   [
+    "Lun",
+    "24 horas"
+   ],
+   [
+    "Mar",
+    "24 horas"
+   ],
+   [
+    "Mié",
+    "24 horas"
+   ],
+   [
+    "Jue",
+    "24 horas"
+   ],
+   [
+    "Vie",
+    "24 horas"
+   ],
+   [
+    "Sáb",
+    "24 horas"
+   ],
+   [
+    "Dom",
+    "24 horas"
+   ]
+  ],
+  "lat": 40.4029055,
+  "lng": -3.6715391
+ },
+ {
+  "id": "kids-us",
+  "nombre": "Kids & Us",
+  "categoria": "ingles",
+  "campamento": false,
+  "destacado": false,
+  "zona": "Chamartín",
+  "zona_slug": "chamartin",
+  "tipo_zona": "distrito",
+  "direccion": "C. de Sta. Rita, 2, Chamartín, 28002 Madrid",
+  "telefono": "+34 626 76 37 45",
+  "web": "https://www.kidsandus.es/es/academias-ingles/prosperidad",
+  "maps": "https://www.google.com/maps/place/?q=place_id:ChIJ6U1cwNEoQg0RTSIU1QHVC1w",
+  "rating": 4.8,
+  "opiniones": 45,
+  "horario": [
+   [
+    "Lun",
+    "16:00–20:30"
+   ],
+   [
+    "Mar",
+    "16:00–20:30"
+   ],
+   [
+    "Mié",
+    "16:00–20:30"
+   ],
+   [
+    "Jue",
+    "16:00–20:30"
+   ],
+   [
+    "Vie",
+    "16:00–19:30"
+   ],
+   [
+    "Sáb",
+    "Cerrado"
+   ],
+   [
+    "Dom",
+    "Cerrado"
+   ]
+  ],
+  "lat": 40.445636,
+  "lng": -3.668765
+ },
+ {
+  "id": "multidiomas-retiro",
+  "nombre": "Multidiomas Retiro",
+  "categoria": "idiomas",
+  "campamento": false,
+  "destacado": false,
+  "zona": "Retiro",
+  "zona_slug": "retiro",
+  "tipo_zona": "distrito",
+  "direccion": "C. de Abtao, 5, Loc 4, Retiro, 28007 Madrid",
+  "telefono": "+34 911 47 49 11",
+  "web": "http://multidiomas.com/retiro",
+  "maps": "https://www.google.com/maps/place/?q=place_id:ChIJx6fjpxAmQg0RIq0v5-wtjv0",
+  "rating": 4.9,
+  "opiniones": 44,
+  "horario": [
+   [
+    "Lun",
+    "9:30–17:30"
+   ],
+   [
+    "Mar",
+    "9:30–17:30"
+   ],
+   [
+    "Mié",
+    "9:30–17:30"
+   ],
+   [
+    "Jue",
+    "9:30–17:30"
+   ],
+   [
+    "Vie",
+    "9:30–16:30"
+   ],
+   [
+    "Sáb",
+    "Cerrado"
+   ],
+   [
+    "Dom",
+    "Cerrado"
+   ]
+  ],
+  "lat": 40.40362,
+  "lng": -3.6768281
+ },
+ {
+  "id": "prymates-school",
+  "nombre": "Prymates School",
+  "categoria": "idiomas",
+  "campamento": false,
+  "destacado": false,
+  "zona": "Fuencarral-El Pardo",
+  "zona_slug": "fuencarral-el-pardo",
+  "tipo_zona": "distrito",
+  "direccion": "C. Afueras a Valverde, 10, Loc, Fuencarral-El Pardo, 28034 Madrid",
+  "telefono": "+34 695 56 29 39",
+  "web": "http://www.prymates.es/",
+  "maps": "https://www.google.com/maps/place/?q=place_id:ChIJQVw7OtkrQg0RWz96iPWkQls",
+  "rating": 5.0,
+  "opiniones": 43,
+  "horario": [
+   [
+    "Lun",
+    "9:30–21:30"
+   ],
+   [
+    "Mar",
+    "9:30–21:30"
+   ],
+   [
+    "Mié",
+    "9:30–21:30"
+   ],
+   [
+    "Jue",
+    "9:30–21:30"
+   ],
+   [
+    "Vie",
+    "9:30–21:30"
+   ],
+   [
+    "Sáb",
+    "10:00–14:00"
+   ],
+   [
+    "Dom",
+    "Cerrado"
+   ]
+  ],
+  "lat": 40.498163,
+  "lng": -3.6884041
+ },
+ {
+  "id": "escuela-de-m-sica-creativa",
+  "nombre": "Escuela de Música Creativa",
+  "categoria": "musica",
+  "campamento": false,
+  "destacado": false,
+  "zona": "Centro",
+  "zona_slug": "centro",
+  "tipo_zona": "distrito",
+  "direccion": "C. de la Palma, 35, Centro, 28004 Madrid",
+  "telefono": "+34 915 21 11 56",
+  "web": "https://www.musicacreativa.com/",
+  "maps": "https://www.google.com/maps/place/?q=place_id:ChIJfQ1zQ2IoQg0RCrfn-zQHarU",
+  "rating": 4.3,
+  "opiniones": 105,
+  "horario": [
+   [
+    "Lun",
+    "9:30–22:00"
+   ],
+   [
+    "Mar",
+    "9:30–22:00"
+   ],
+   [
+    "Mié",
+    "9:30–22:00"
+   ],
+   [
+    "Jue",
+    "9:30–22:00"
+   ],
+   [
+    "Vie",
+    "9:30–22:00"
+   ],
+   [
+    "Sáb",
+    "10:00–14:30"
+   ],
+   [
+    "Dom",
+    "Cerrado"
+   ]
+  ],
+  "lat": 40.4263358,
+  "lng": -3.7044776
+ },
+ {
+  "id": "escuela-de-actividades-naturales",
+  "nombre": "Escuela de Actividades Naturales",
+  "categoria": "extraescolares",
+  "campamento": false,
+  "destacado": false,
+  "zona": "Moncloa-Aravaca",
+  "zona_slug": "moncloa-aravaca",
+  "tipo_zona": "distrito",
+  "direccion": "C. de José Fentanes, 55, primero, Moncloa - Aravaca, 28035 Madrid",
+  "telefono": "+34 680 87 31 62",
+  "web": "http://www.escueladeactividadesnaturales.com/",
+  "maps": "https://www.google.com/maps/place/?q=place_id:ChIJZeaq4TcpQg0R0ge7DXN4-i0",
+  "rating": 4.9,
+  "opiniones": 43,
+  "horario": [
+   [
+    "Lun",
+    "9:00–21:00"
+   ],
+   [
+    "Mar",
+    "9:00–21:00"
+   ],
+   [
+    "Mié",
+    "9:00–21:00"
+   ],
+   [
+    "Jue",
+    "9:00–21:00"
+   ],
+   [
+    "Vie",
+    "9:00–21:00"
+   ],
+   [
+    "Sáb",
+    "9:00–21:00"
+   ],
+   [
+    "Dom",
+    "9:00–21:00"
+   ]
+  ],
+  "lat": 40.4661654,
+  "lng": -3.7253498
+ },
+ {
+  "id": "centro-deportivo-municipal-la-chopera",
+  "nombre": "Centro Deportivo Municipal La Chopera",
+  "categoria": "deporte",
+  "campamento": false,
+  "destacado": false,
+  "zona": "Retiro",
+  "zona_slug": "retiro",
+  "tipo_zona": "distrito",
+  "direccion": "P.º de Fernán Núñez, 3, Retiro, 28009 Madrid",
+  "telefono": "+34 914 20 11 54",
+  "web": "https://www.madrid.es/portales/munimadrid/es/Inicio/El-Ayuntamiento/Retiro/Direcciones-y-telefonos/Centro-Deportivo-Municipal-La-Chopera/?vgnextfmt=default&vgnextoid=a09842be9971c010VgnVCM1000000b205a0aRCRD&vgnextchannel=8236d47ffee28010VgnVCM100000dc0ca8c0RCRD",
+  "maps": "https://www.google.com/maps/place/?q=place_id:ChIJO-wFlyAmQg0RnPyv78j_tHQ",
+  "rating": 4.2,
+  "opiniones": 628,
+  "horario": [
+   [
+    "Lun",
+    "8:30–21:30"
+   ],
+   [
+    "Mar",
+    "8:30–21:30"
+   ],
+   [
+    "Mié",
+    "8:30–21:30"
+   ],
+   [
+    "Jue",
+    "8:30–21:30"
+   ],
+   [
+    "Vie",
+    "8:30–21:30"
+   ],
+   [
+    "Sáb",
+    "9:00–21:00"
+   ],
+   [
+    "Dom",
+    "9:00–21:00"
+   ]
+  ],
+  "lat": 40.4123505,
+  "lng": -3.6861743
+ },
+ {
+  "id": "centro-deportivo-smp",
+  "nombre": "Centro deportivo SMP",
+  "categoria": "deporte",
+  "campamento": false,
+  "destacado": false,
+  "zona": "Retiro",
+  "zona_slug": "retiro",
+  "tipo_zona": "distrito",
+  "direccion": "C. del Dr. Esquerdo, 64, 66, Retiro, 28007 Madrid",
+  "telefono": "+34 914 00 97 37",
+  "web": "http://centrodeportivosmp.es/",
+  "maps": "https://www.google.com/maps/place/?q=place_id:ChIJeYHlJ6goQg0R9fx6p2clbE8",
+  "rating": 4.2,
+  "opiniones": 574,
+  "horario": [
+   [
+    "Lun",
+    "7:00–22:00"
+   ],
+   [
+    "Mar",
+    "7:00–22:00"
+   ],
+   [
+    "Mié",
+    "7:00–22:00"
+   ],
+   [
+    "Jue",
+    "7:00–22:00"
+   ],
+   [
+    "Vie",
+    "7:00–22:00"
+   ],
+   [
+    "Sáb",
+    "9:00–22:00"
+   ],
+   [
+    "Dom",
+    "9:00–22:00"
+   ]
+  ],
+  "lat": 40.414328,
+  "lng": -3.6709454
+ },
+ {
+  "id": "helen-doron-english-getafe-cerro-buenavista",
+  "nombre": "Helen Doron English Getafe Cerro Buenavista",
+  "categoria": "ingles",
+  "campamento": false,
+  "destacado": false,
+  "zona": "Getafe",
+  "zona_slug": "getafe",
+  "tipo_zona": "municipio",
+  "direccion": "P.º de Santiago Casares Quiroga, 4, local 4, 28905 Getafe, Madrid",
+  "telefono": "+34 697 45 93 05",
+  "web": "https://helendoron.es/getafe-cerro-buenavista/contact-us/",
+  "maps": "https://www.google.com/maps/place/?q=place_id:ChIJqfaRGZWLQQ0ROciaeh96FyI",
+  "rating": 4.9,
+  "opiniones": 42,
+  "horario": [
+   [
+    "Lun",
+    "16:00–20:30"
+   ],
+   [
+    "Mar",
+    "16:00–20:30"
+   ],
+   [
+    "Mié",
+    "16:00–20:30"
+   ],
+   [
+    "Jue",
+    "16:00–20:00"
+   ],
+   [
+    "Vie",
+    "17:00–20:00"
+   ],
+   [
+    "Sáb",
+    "0:00–20:00"
+   ],
+   [
+    "Dom",
+    "Cerrado"
+   ]
+  ],
+  "lat": 40.3016116,
+  "lng": -3.7521875
+ },
+ {
+  "id": "high-five-academia-de-ingl-s",
+  "nombre": "High Five - Academia de Inglés",
+  "categoria": "ingles",
+  "campamento": false,
+  "destacado": false,
+  "zona": "Moncloa-Aravaca",
+  "zona_slug": "moncloa-aravaca",
+  "tipo_zona": "distrito",
+  "direccion": "C. de Evaristo San Miguel, 2, Moncloa - Aravaca, 28008 Madrid",
+  "telefono": "+34 651 49 13 58",
+  "web": "https://high-five.es/",
+  "maps": "https://www.google.com/maps/place/?q=place_id:ChIJI9jVPDQpQg0RlshcYInnVzk",
+  "rating": 5.0,
+  "opiniones": 41,
+  "horario": [
+   [
+    "Lun",
+    "8:30–20:30"
+   ],
+   [
+    "Mar",
+    "8:30–20:30"
+   ],
+   [
+    "Mié",
+    "8:30–20:30"
+   ],
+   [
+    "Jue",
+    "8:30–20:30"
+   ],
+   [
+    "Vie",
+    "8:30–20:30"
+   ],
+   [
+    "Sáb",
+    "10:00–13:00"
+   ],
+   [
+    "Dom",
+    "Cerrado"
+   ]
+  ],
+  "lat": 40.4275329,
+  "lng": -3.7145526
+ },
+ {
+  "id": "kids-us-english-for-children",
+  "nombre": "Kids & Us - English for children",
+  "categoria": "ingles",
+  "campamento": false,
+  "destacado": false,
+  "zona": "Leganés",
+  "zona_slug": "leganes",
+  "tipo_zona": "municipio",
+  "direccion": "Av. de Carmen Martín Gaite, 61, 28919 Leganés, Madrid",
+  "telefono": "+34 918 31 09 44",
+  "web": "https://www.kidsandusmadridsur.es/",
+  "maps": "https://www.google.com/maps/place/?q=place_id:ChIJpcyWiOGJQQ0RnVsXJuIui7c",
+  "rating": 4.5,
+  "opiniones": 45,
+  "horario": [
+   [
+    "Lun",
+    "16:00–20:00"
+   ],
+   [
+    "Mar",
+    "16:00–20:00"
+   ],
+   [
+    "Mié",
+    "16:00–20:00"
+   ],
+   [
+    "Jue",
+    "16:00–20:00"
+   ],
+   [
+    "Vie",
+    "16:00–20:00"
+   ],
+   [
+    "Sáb",
+    "Cerrado"
+   ],
+   [
+    "Dom",
+    "Cerrado"
+   ]
+  ],
+  "lat": 40.3455445,
+  "lng": -3.7453601
+ },
+ {
+  "id": "edae-empezar-de-cien",
+  "nombre": "Edae Empezar De Cien",
+  "categoria": "baile",
+  "campamento": false,
+  "destacado": false,
+  "zona": "Puente de Vallecas",
+  "zona_slug": "puente-de-vallecas",
+  "tipo_zona": "distrito",
+  "direccion": "Av. de Peña Prieta, 42, Puente de Vallecas, 28038 Madrid",
+  "telefono": "+34 912 87 36 37",
+  "web": "http://www.empezardecien.com/",
+  "maps": "https://www.google.com/maps/place/?q=place_id:ChIJf_amPQkmQg0RWGDCpiYp0K8",
+  "rating": 4.6,
+  "opiniones": 44,
+  "horario": [
+   [
+    "Lun",
+    "9:00–14:15, 17:00–22:00"
+   ],
+   [
+    "Mar",
+    "9:00–14:15, 17:00–22:00"
+   ],
+   [
+    "Mié",
+    "9:00–14:15, 17:00–22:00"
+   ],
+   [
+    "Jue",
+    "9:00–14:15, 17:00–22:00"
+   ],
+   [
+    "Vie",
+    "9:00–14:15, 17:00–22:00"
+   ],
+   [
+    "Sáb",
+    "9:00–14:15"
+   ],
+   [
+    "Dom",
+    "Cerrado"
+   ]
+  ],
+  "lat": 40.4004987,
+  "lng": -3.6662371
+ },
+ {
+  "id": "kids-us-english-for-children",
+  "nombre": "Kids & Us - English for children",
+  "categoria": "ingles",
+  "campamento": false,
+  "destacado": false,
+  "zona": "Barajas",
+  "zona_slug": "barajas",
+  "tipo_zona": "distrito",
+  "direccion": "C. de la Playa de Aro, 12, Barajas, 28042 Madrid",
+  "telefono": "+34 672 83 43 51",
+  "web": "https://www.kidsandus.es/es/academias-ingles/barajas",
+  "maps": "https://www.google.com/maps/place/?q=place_id:ChIJdzLOpyQuQg0RV-QovnRorJw",
+  "rating": 4.8,
+  "opiniones": 42,
+  "horario": [
+   [
+    "Lun",
+    "12:00–20:30"
+   ],
+   [
+    "Mar",
+    "12:00–20:30"
+   ],
+   [
+    "Mié",
+    "12:00–20:30"
+   ],
+   [
+    "Jue",
+    "12:00–20:30"
+   ],
+   [
+    "Vie",
+    "15:00–18:30"
+   ],
+   [
+    "Sáb",
+    "Cerrado"
+   ],
+   [
+    "Dom",
+    "Cerrado"
+   ]
+  ],
+  "lat": 40.4720412,
+  "lng": -3.5900382
+ },
+ {
+  "id": "pequeritmo",
+  "nombre": "PequeRitmo",
+  "categoria": "musica",
+  "campamento": false,
+  "destacado": false,
+  "zona": "Arganzuela",
+  "zona_slug": "arganzuela",
+  "tipo_zona": "distrito",
+  "direccion": "Calle del Labrador, 20, Arganzuela, 28005 Madrid",
+  "telefono": "+34 616 70 79 84",
+  "web": "https://pequeritmo.com/",
+  "maps": "https://www.google.com/maps/place/?q=place_id:ChIJcViII-NisyERRihEjjRuLwo",
+  "rating": 5.0,
+  "opiniones": 40,
+  "horario": [
+   [
+    "Lun",
+    "9:00–20:00"
+   ],
+   [
+    "Mar",
+    "9:00–20:00"
+   ],
+   [
+    "Mié",
+    "9:00–20:00"
+   ],
+   [
+    "Jue",
+    "9:00–20:00"
+   ],
+   [
+    "Vie",
+    "9:00–20:00"
+   ],
+   [
+    "Sáb",
+    "9:00–15:00"
+   ],
+   [
+    "Dom",
+    "Cerrado"
+   ]
+  ],
+  "lat": 40.4014505,
+  "lng": -3.7026177
+ },
+ {
+  "id": "centro-deportivo-municipal-marqu-s-de-samaranch",
+  "nombre": "Centro Deportivo Municipal Marqués de Samaranch",
+  "categoria": "deporte",
+  "campamento": false,
+  "destacado": false,
+  "zona": "Arganzuela",
+  "zona_slug": "arganzuela",
+  "tipo_zona": "distrito",
+  "direccion": "P.º Imperial, 20, Arganzuela, 28005 Madrid",
+  "telefono": "+34 914 22 03 44",
+  "web": "http://www.madrid.es/portales/munimadrid/es/Inicio/El-Ayuntamiento/Deportes/Equipamientos-deportivos/Centros-deportivos-/Deportes/Badminton/Centro-Deportivo-Municipal-Marques-de-Samaranch?vgnextfmt=default&vgnextoid=6b00e8ae8d81c010VgnVCM1000000b205a0aRCRD&vgnextchannel=c37f5e409de46310VgnVCM2000000c205a0aRCRD",
+  "maps": "https://www.google.com/maps/place/?q=place_id:ChIJ4f53RtknQg0RwiStbD7ZlUE",
+  "rating": 4.0,
+  "opiniones": 1897,
+  "horario": [
+   [
+    "Lun",
+    "7:30–23:30"
+   ],
+   [
+    "Mar",
+    "7:30–23:30"
+   ],
+   [
+    "Mié",
+    "7:30–23:30"
+   ],
+   [
+    "Jue",
+    "7:30–23:30"
+   ],
+   [
+    "Vie",
+    "7:30–23:30"
+   ],
+   [
+    "Sáb",
+    "9:00–14:30"
+   ],
+   [
+    "Dom",
+    "9:00–14:30"
+   ]
+  ],
+  "lat": 40.4075805,
+  "lng": -3.71739
+ },
+ {
+  "id": "playroom-school-of-english",
+  "nombre": "PlayRoom School of English",
+  "categoria": "ingles",
+  "campamento": false,
+  "destacado": false,
+  "zona": "Getafe",
+  "zona_slug": "getafe",
+  "tipo_zona": "municipio",
+  "direccion": "Av. de María Zambrano, 7, 28903 Getafe, Madrid",
+  "telefono": "+34 601 50 73 74",
+  "web": "http://www.playroomenglish.com/",
+  "maps": "https://www.google.com/maps/place/?q=place_id:ChIJz2F6no0hQg0R6PsyHh0D1Kk",
+  "rating": 4.9,
+  "opiniones": 40,
+  "horario": [
+   [
+    "Lun",
+    "16:00–21:00"
+   ],
+   [
+    "Mar",
+    "16:00–21:00"
+   ],
+   [
+    "Mié",
+    "16:00–21:00"
+   ],
+   [
+    "Jue",
+    "16:00–21:00"
+   ],
+   [
+    "Vie",
+    "Cerrado"
+   ],
+   [
+    "Sáb",
+    "Cerrado"
+   ],
+   [
+    "Dom",
+    "Cerrado"
+   ]
+  ],
+  "lat": 40.3254338,
+  "lng": -3.7222675
+ },
+ {
+  "id": "instalaciones-deportivas-canal-de-isabel-ii",
+  "nombre": "Instalaciones Deportivas Canal de Isabel II",
+  "categoria": "deporte",
+  "campamento": false,
+  "destacado": false,
+  "zona": "Chamberí",
+  "zona_slug": "chamberi",
+  "tipo_zona": "distrito",
+  "direccion": "Av. de Filipinas, 54, Chamberí, 28003 Madrid",
+  "telefono": "+34 915 33 96 42",
+  "web": "https://www.comunidad.madrid/centros/instalaciones-deportivas-canal-isabel-ii",
+  "maps": "https://www.google.com/maps/place/?q=place_id:ChIJwR6hSVgoQg0RLwq20KZpmq8",
+  "rating": 3.9,
+  "opiniones": 2175,
+  "horario": [
+   [
+    "Lun",
+    "9:00–21:00"
+   ],
+   [
+    "Mar",
+    "9:00–21:00"
+   ],
+   [
+    "Mié",
+    "9:00–21:00"
+   ],
+   [
+    "Jue",
+    "9:00–21:00"
+   ],
+   [
+    "Vie",
+    "9:00–21:00"
+   ],
+   [
+    "Sáb",
+    "9:00–21:00"
+   ],
+   [
+    "Dom",
+    "9:00–21:00"
+   ]
+  ],
+  "lat": 40.441189,
+  "lng": -3.705117
+ },
+ {
+  "id": "academia-de-inventores",
+  "nombre": "Academia de inventores",
+  "categoria": "robotica",
+  "campamento": false,
+  "destacado": false,
+  "zona": "Fuencarral-El Pardo",
+  "zona_slug": "fuencarral-el-pardo",
+  "tipo_zona": "distrito",
+  "direccion": "Av. del Camino de Santiago, 21, Fuencarral-El Pardo, 28050 Madrid",
+  "telefono": "+34 626 52 33 59",
+  "web": "http://www.academiadeinventores.com/",
+  "maps": "https://www.google.com/maps/place/?q=place_id:ChIJi1NaA6YrQg0RVfGVRwWsuZg",
+  "rating": 5.0,
+  "opiniones": 38,
+  "horario": [
+   [
+    "Lun",
+    "17:00–20:00"
+   ],
+   [
+    "Mar",
+    "17:00–20:00"
+   ],
+   [
+    "Mié",
+    "17:00–20:00"
+   ],
+   [
+    "Jue",
+    "17:00–20:00"
+   ],
+   [
+    "Vie",
+    "17:00–20:00"
+   ],
+   [
+    "Sáb",
+    "11:00–13:00"
+   ],
+   [
+    "Dom",
+    "Cerrado"
+   ]
+  ],
+  "lat": 40.4994146,
+  "lng": -3.6751084
+ },
+ {
+  "id": "centro-deportivo-municipal-escuelas-de-san-ant-n",
+  "nombre": "Centro Deportivo Municipal Escuelas de San Antón",
+  "categoria": "deporte",
+  "campamento": false,
+  "destacado": false,
+  "zona": "Centro",
+  "zona_slug": "centro",
+  "tipo_zona": "distrito",
+  "direccion": "C. de la Farmacia, 13, Centro, 28004 Madrid",
+  "telefono": "+34 918 28 90 06",
+  "web": "https://cdmescuelassananton.com/?utm_source=google&utm_medium=gmb&utm_campaign=gmb_esa_perfil",
+  "maps": "https://www.google.com/maps/place/?q=place_id:ChIJg-0zvYgoQg0RQwmptNZY_3o",
+  "rating": 3.8,
+  "opiniones": 697,
+  "horario": [
+   [
+    "Lun",
+    "7:00–23:00"
+   ],
+   [
+    "Mar",
+    "7:00–23:00"
+   ],
+   [
+    "Mié",
+    "7:00–23:00"
+   ],
+   [
+    "Jue",
+    "7:00–23:00"
+   ],
+   [
+    "Vie",
+    "7:00–23:00"
+   ],
+   [
+    "Sáb",
+    "8:00–21:00"
+   ],
+   [
+    "Dom",
+    "9:00–19:00"
+   ]
+  ],
+  "lat": 40.424005,
+  "lng": -3.6992456
+ },
+ {
+  "id": "dance-studio-montecarmelo",
+  "nombre": "Dance Studio Montecarmelo",
+  "categoria": "baile",
+  "campamento": false,
+  "destacado": false,
+  "zona": "Fuencarral-El Pardo",
+  "zona_slug": "fuencarral-el-pardo",
+  "tipo_zona": "distrito",
+  "direccion": "entrada por, Avenida del Monasterio de El Escorial, C. del Monasterio de El Paular, 40, D 40D, 28049 Madrid",
+  "telefono": "+34 615 84 78 62",
+  "web": "http://www.studiomontecarmelo.com/",
+  "maps": "https://www.google.com/maps/place/?q=place_id:ChIJb00mtDIqQg0RoFEmZcNqD6s",
+  "rating": 4.6,
+  "opiniones": 41,
+  "horario": [
+   [
+    "Lun",
+    "17:00–21:00"
+   ],
+   [
+    "Mar",
+    "17:00–21:00"
+   ],
+   [
+    "Mié",
+    "17:00–21:00"
+   ],
+   [
+    "Jue",
+    "17:00–21:00"
+   ],
+   [
+    "Vie",
+    "17:00–21:00"
+   ],
+   [
+    "Sáb",
+    "Cerrado"
+   ],
+   [
+    "Dom",
+    "Cerrado"
+   ]
+  ],
+  "lat": 40.5033278,
+  "lng": -3.7005852
+ },
+ {
+  "id": "english365",
+  "nombre": "English365",
+  "categoria": "ingles",
+  "campamento": false,
+  "destacado": false,
+  "zona": "Salamanca",
+  "zona_slug": "salamanca",
+  "tipo_zona": "distrito",
+  "direccion": "C. de Hermosilla, 48, Salamanca, 28001 Madrid",
+  "telefono": "+34 633 63 64 24",
+  "web": "http://english365.es/",
+  "maps": "https://www.google.com/maps/place/?q=place_id:ChIJC7qdMmUoQg0RTESDcgPk6HQ",
+  "rating": 4.9,
+  "opiniones": 38,
+  "horario": [
+   [
+    "Lun",
+    "8:30–21:00"
+   ],
+   [
+    "Mar",
+    "8:30–21:00"
+   ],
+   [
+    "Mié",
+    "8:30–21:00"
+   ],
+   [
+    "Jue",
+    "8:30–21:00"
+   ],
+   [
+    "Vie",
+    "8:30–21:00"
+   ],
+   [
+    "Sáb",
+    "9:00–13:00"
+   ],
+   [
+    "Dom",
+    "Cerrado"
+   ]
+  ],
+  "lat": 40.4261,
+  "lng": -3.6818749
+ },
+ {
+  "id": "escuela-oficial-de-idiomas-madrid-tribunal",
+  "nombre": "Escuela Oficial de Idiomas Madrid-Tribunal",
+  "categoria": "idiomas",
+  "campamento": false,
+  "destacado": false,
+  "zona": "Centro",
+  "zona_slug": "centro",
+  "tipo_zona": "distrito",
+  "direccion": "Calle de Sta. Brígida, 10, Centro, 28004 Madrid",
+  "telefono": "+34 915 21 32 86",
+  "web": "http://eoimadridtribunal.com/",
+  "maps": "https://www.google.com/maps/place/?q=place_id:ChIJxbdN7YgoQg0RTyAXLlcQhKk",
+  "rating": 3.7,
+  "opiniones": 196,
+  "horario": [
+   [
+    "Lun",
+    "9:00–21:00"
+   ],
+   [
+    "Mar",
+    "9:00–21:00"
+   ],
+   [
+    "Mié",
+    "9:00–21:00"
+   ],
+   [
+    "Jue",
+    "9:00–21:00"
+   ],
+   [
+    "Vie",
+    "9:00–20:00"
+   ],
+   [
+    "Sáb",
+    "Cerrado"
+   ],
+   [
+    "Dom",
+    "Cerrado"
+   ]
+  ],
+  "lat": 40.4244154,
+  "lng": -3.6995969
+ },
+ {
+  "id": "kaizen-idiomas",
+  "nombre": "KAIZEN IDIOMAS",
+  "categoria": "idiomas",
+  "campamento": false,
+  "destacado": false,
+  "zona": "Centro",
+  "zona_slug": "centro",
+  "tipo_zona": "distrito",
+  "direccion": "C. del Humilladero, 30, Centro, 28005 Madrid",
+  "telefono": "+34 910 33 47 78",
+  "web": "http://www.kaizenidiomas.com/",
+  "maps": "https://www.google.com/maps/place/?q=place_id:ChIJO4Hq5NYnQg0RgMWEtLbll6w",
+  "rating": 4.8,
+  "opiniones": 38,
+  "horario": [
+   [
+    "Lun",
+    "10:00–14:00, 16:30–20:30"
+   ],
+   [
+    "Mar",
+    "10:00–14:00, 16:30–20:30"
+   ],
+   [
+    "Mié",
+    "10:00–14:00, 16:30–20:30"
+   ],
+   [
+    "Jue",
+    "10:00–14:00, 16:30–20:30"
+   ],
+   [
+    "Vie",
+    "16:30–0:00"
+   ],
+   [
+    "Sáb",
+    "10:00–14:00"
+   ],
+   [
+    "Dom",
+    "Cerrado"
+   ]
+  ],
+  "lat": 40.4092749,
+  "lng": -3.7103489
+ },
+ {
+  "id": "kids-us-english-for-children",
+  "nombre": "Kids & Us - English for children",
+  "categoria": "ingles",
+  "campamento": false,
+  "destacado": false,
+  "zona": "Alcobendas",
+  "zona_slug": "alcobendas",
+  "tipo_zona": "municipio",
+  "direccion": "P.º de Valdelasfuentes, 8, 28100 Alcobendas, Madrid",
+  "telefono": "+34 637 61 45 44",
+  "web": "",
+  "maps": "https://www.google.com/maps/place/?q=place_id:ChIJyaMKZposQg0RCnX9Y5KpV2w",
+  "rating": 4.9,
+  "opiniones": 37,
+  "horario": [
+   [
+    "Lun",
+    "12:00–21:00"
+   ],
+   [
+    "Mar",
+    "16:00–21:00"
+   ],
+   [
+    "Mié",
+    "12:00–21:00"
+   ],
+   [
+    "Jue",
+    "12:00–21:00"
+   ],
+   [
+    "Vie",
+    "15:00–18:00"
+   ],
+   [
+    "Sáb",
+    "Cerrado"
+   ],
+   [
+    "Dom",
+    "Cerrado"
+   ]
+  ],
+  "lat": 40.5495775,
+  "lng": -3.6530575
+ },
+ {
+  "id": "break-into-english",
+  "nombre": "Break Into English",
+  "categoria": "ingles",
+  "campamento": false,
+  "destacado": false,
+  "zona": "Moncloa-Aravaca",
+  "zona_slug": "moncloa-aravaca",
+  "tipo_zona": "distrito",
+  "direccion": "Calle de la Princesa, 31, Moncloa - Aravaca, 28008 Madrid",
+  "telefono": "+34 620 54 57 72",
+  "web": "http://englishclassviaskype.com/",
+  "maps": "https://www.google.com/maps/place/?q=place_id:ChIJq4TDgtMnQg0RijZNzP5Q7OI",
+  "rating": 4.9,
+  "opiniones": 37,
+  "horario": [
+   [
+    "Lun",
+    "24 horas"
+   ],
+   [
+    "Mar",
+    "24 horas"
+   ],
+   [
+    "Mié",
+    "24 horas"
+   ],
+   [
+    "Jue",
+    "24 horas"
+   ],
+   [
+    "Vie",
+    "24 horas"
+   ],
+   [
+    "Sáb",
+    "24 horas"
+   ],
+   [
+    "Dom",
+    "24 horas"
+   ]
+  ],
+  "lat": 40.4280521,
+  "lng": -3.7147543
+ },
+ {
+  "id": "academia-de-idiomas-alive-speaking",
+  "nombre": "Academia de idiomas Alive & Speaking",
+  "categoria": "ingles",
+  "campamento": false,
+  "destacado": false,
+  "zona": "Alcobendas",
+  "zona_slug": "alcobendas",
+  "tipo_zona": "municipio",
+  "direccion": "C. del Quejigo, 168, 28109 Alcobendas, Madrid",
+  "telefono": "+34 693 77 08 19",
+  "web": "https://alivespeaking.com/",
+  "maps": "https://www.google.com/maps/place/?q=place_id:ChIJ9ypzp-wtQg0RdXYOuKDE3c4",
+  "rating": 5.0,
+  "opiniones": 36,
+  "horario": [
+   [
+    "Lun",
+    "8:00–22:00"
+   ],
+   [
+    "Mar",
+    "8:00–22:00"
+   ],
+   [
+    "Mié",
+    "8:00–22:00"
+   ],
+   [
+    "Jue",
+    "8:00–22:00"
+   ],
+   [
+    "Vie",
+    "8:00–22:00"
+   ],
+   [
+    "Sáb",
+    "Cerrado"
+   ],
+   [
+    "Dom",
+    "Cerrado"
+   ]
+  ],
+  "lat": 40.5275238,
+  "lng": -3.6325994
+ },
+ {
+  "id": "escuela-inglesa-pozuelo",
+  "nombre": "Escuela Inglesa Pozuelo",
+  "categoria": "ingles",
+  "campamento": false,
+  "destacado": false,
+  "zona": "Pozuelo de Alarcón",
+  "zona_slug": "pozuelo-de-alarcon",
+  "tipo_zona": "municipio",
+  "direccion": "C. Benigno Granizo, 7, 28224 Pozuelo de Alarcón, Madrid",
+  "telefono": "+34 620 35 43 05",
+  "web": "http://www.escuelainglesa.es/",
+  "maps": "https://www.google.com/maps/place/?q=place_id:ChIJKTla8V6GQQ0RunoQzsM_JjA",
+  "rating": 4.7,
+  "opiniones": 37,
+  "horario": [
+   [
+    "Lun",
+    "10:00–13:00, 16:00–21:00"
+   ],
+   [
+    "Mar",
+    "10:00–13:00, 16:00–21:00"
+   ],
+   [
+    "Mié",
+    "10:00–13:00, 16:00–21:00"
+   ],
+   [
+    "Jue",
+    "10:00–13:00, 16:00–21:00"
+   ],
+   [
+    "Vie",
+    "10:00–13:00, 16:00–21:00"
+   ],
+   [
+    "Sáb",
+    "Cerrado"
+   ],
+   [
+    "Dom",
+    "Cerrado"
+   ]
+  ],
+  "lat": 40.4467459,
+  "lng": -3.8015145
+ },
+ {
+  "id": "escuela-danza-tres-en-danza",
+  "nombre": "Escuela danza Tres en Danza",
+  "categoria": "baile",
+  "campamento": false,
+  "destacado": false,
+  "zona": "Chamberí",
+  "zona_slug": "chamberi",
+  "tipo_zona": "distrito",
+  "direccion": "C. de Joaquín María López, 66, Chamberí, 28015 Madrid",
+  "telefono": "+34 910 00 13 03",
+  "web": "https://tresendanza.es/",
+  "maps": "https://www.google.com/maps/place/?q=place_id:ChIJeZ5CdUQoQg0REBECmj81Hgs",
+  "rating": 4.8,
+  "opiniones": 36,
+  "horario": [
+   [
+    "Lun",
+    "17:00–22:00"
+   ],
+   [
+    "Mar",
+    "9:30–13:00, 14:30–16:30, 17:00–22:00"
+   ],
+   [
+    "Mié",
+    "17:00–22:00"
+   ],
+   [
+    "Jue",
+    "9:30–13:00, 15:30–16:30, 17:00–22:00"
+   ],
+   [
+    "Vie",
+    "15:30–22:00"
+   ],
+   [
+    "Sáb",
+    "9:30–14:30"
+   ],
+   [
+    "Dom",
+    "Cerrado"
+   ]
+  ],
+  "lat": 40.4379299,
+  "lng": -3.7169058
+ },
+ {
+  "id": "school-of-music-soto-mesa",
+  "nombre": "School of Music Soto Mesa",
+  "categoria": "musica",
+  "campamento": false,
+  "destacado": false,
+  "zona": "Centro",
+  "zona_slug": "centro",
+  "tipo_zona": "distrito",
+  "direccion": "C. de Sta. Cruz de Marcenado, 1, Centro, 28015 Madrid",
+  "telefono": "+34 673 28 79 27",
+  "web": "http://www.sotomesa.com/",
+  "maps": "https://www.google.com/maps/place/?q=place_id:ChIJrcE9TmEoQg0RYeqjkJxgQZM",
+  "rating": 4.9,
+  "opiniones": 35,
+  "horario": [
+   [
+    "Lun",
+    "16:00–21:30"
+   ],
+   [
+    "Mar",
+    "16:00–21:30"
+   ],
+   [
+    "Mié",
+    "10:00–21:30"
+   ],
+   [
+    "Jue",
+    "10:00–21:30"
+   ],
+   [
+    "Vie",
+    "16:00–21:30"
+   ],
+   [
+    "Sáb",
+    "9:30–13:30"
+   ],
+   [
+    "Dom",
+    "Cerrado"
+   ]
+  ],
+  "lat": 40.428815,
+  "lng": -3.707001
+ },
+ {
+  "id": "a-school-of-fish-language-center",
+  "nombre": "A School of Fish Language Center",
+  "categoria": "ingles",
+  "campamento": false,
+  "destacado": false,
+  "zona": "Arganzuela",
+  "zona_slug": "arganzuela",
+  "tipo_zona": "distrito",
+  "direccion": "C. de Embajadores, 79, Arganzuela, 28012 Madrid",
+  "telefono": "+34 622 77 03 66",
+  "web": "http://asof-language-center.com/",
+  "maps": "https://www.google.com/maps/place/?q=place_id:ChIJsWG6lIIoQg0RiCaasz9ScqA",
+  "rating": 4.9,
+  "opiniones": 35,
+  "horario": [
+   [
+    "Lun",
+    "6:00–22:00"
+   ],
+   [
+    "Mar",
+    "6:00–22:00"
+   ],
+   [
+    "Mié",
+    "6:00–22:00"
+   ],
+   [
+    "Jue",
+    "6:00–22:00"
+   ],
+   [
+    "Vie",
+    "6:00–22:00"
+   ],
+   [
+    "Sáb",
+    "8:00–17:00"
+   ],
+   [
+    "Dom",
+    "Cerrado"
+   ]
+  ],
+  "lat": 40.4023585,
+  "lng": -3.700213
+ },
+ {
+  "id": "centro-deportivo-municipal-la-cebada",
+  "nombre": "Centro Deportivo Municipal La Cebada",
+  "categoria": "deporte",
+  "campamento": false,
+  "destacado": false,
+  "zona": "Centro",
+  "zona_slug": "centro",
+  "tipo_zona": "distrito",
+  "direccion": "Pl. de la Cebada, 15, Centro, 28005 Madrid",
+  "telefono": "+34 912 54 43 10",
+  "web": "https://cdmlacebada.com/?utm_source=google&utm_medium=gmb&utm_campaign=gmb_ceb_perfil",
+  "maps": "https://www.google.com/maps/place/?q=place_id:ChIJAwPnGMInQg0RgBWpi09FkMk",
+  "rating": 3.4,
+  "opiniones": 675,
+  "horario": [
+   [
+    "Lun",
+    "7:00–0:00"
+   ],
+   [
+    "Mar",
+    "7:00–0:00"
+   ],
+   [
+    "Mié",
+    "7:00–0:00"
+   ],
+   [
+    "Jue",
+    "7:00–0:00"
+   ],
+   [
+    "Vie",
+    "7:00–0:00"
+   ],
+   [
+    "Sáb",
+    "7:00–0:00"
+   ],
+   [
+    "Dom",
+    "7:00–0:00"
+   ]
+  ],
+  "lat": 40.4109907,
+  "lng": -3.7091987
+ },
+ {
+  "id": "actividades-extraescolares-sim-n-dice",
+  "nombre": "Actividades Extraescolares Simón dice ...",
+  "categoria": "extraescolares",
+  "campamento": false,
+  "destacado": false,
+  "zona": "Carabanchel",
+  "zona_slug": "carabanchel",
+  "tipo_zona": "distrito",
+  "direccion": "Av del Manzanares, 86, Loc 5, Carabanchel, 28019 Madrid",
+  "telefono": "+34 681 94 69 17",
+  "web": "https://madridextraescolares.es/",
+  "maps": "https://www.google.com/maps/place/?q=place_id:ChIJe3H4TZEnQg0RuZENl2G0Mfo",
+  "rating": 4.9,
+  "opiniones": 34,
+  "horario": [
+   [
+    "Lun",
+    "10:00–17:00"
+   ],
+   [
+    "Mar",
+    "10:00–17:00"
+   ],
+   [
+    "Mié",
+    "10:00–17:00"
+   ],
+   [
+    "Jue",
+    "10:00–17:00"
+   ],
+   [
+    "Vie",
+    "10:00–17:00"
+   ],
+   [
+    "Sáb",
+    "Cerrado"
+   ],
+   [
+    "Dom",
+    "Cerrado"
+   ]
+  ],
+  "lat": 40.3999069,
+  "lng": -3.72135
+ },
+ {
+  "id": "my-english-school-academia-de-ingl-s-madrid-centro",
+  "nombre": "My English School - Academia de Inglés Madrid Centro",
+  "categoria": "ingles",
+  "campamento": false,
+  "destacado": false,
+  "zona": "Centro",
+  "zona_slug": "centro",
+  "tipo_zona": "distrito",
+  "direccion": "Calle de la Colegiata, 13, Centro, 28012 Madrid",
+  "telefono": "+34 912 51 80 83",
+  "web": "https://www.myes.school/es/cursos-de-ingles-madrid/",
+  "maps": "https://www.google.com/maps/place/?q=place_id:ChIJdzqtdYIpQg0Rp2ZGf_Gxgic",
+  "rating": 4.6,
+  "opiniones": 36,
+  "horario": [
+   [
+    "Lun",
+    "10:00–21:00"
+   ],
+   [
+    "Mar",
+    "10:00–21:00"
+   ],
+   [
+    "Mié",
+    "10:00–21:00"
+   ],
+   [
+    "Jue",
+    "10:00–21:00"
+   ],
+   [
+    "Vie",
+    "10:00–21:00"
+   ],
+   [
+    "Sáb",
+    "10:00–14:00"
+   ],
+   [
+    "Dom",
+    "Cerrado"
+   ]
+  ],
+  "lat": 40.4128849,
+  "lng": -3.7062741
+ },
+ {
+  "id": "clases-de-m-sica-en-madrid-piano-guitarra-ukelele-canto-y-composici-n",
+  "nombre": "🎵 Clases de Música en Madrid - Piano, Guitarra, Ukelele, Canto y Composición",
+  "categoria": "musica",
+  "campamento": false,
+  "destacado": false,
+  "zona": "Centro",
+  "zona_slug": "centro",
+  "tipo_zona": "distrito",
+  "direccion": "C. del Barco, 34, Centro, 28004 Madrid",
+  "telefono": "+34 610 03 69 82",
+  "web": "https://www.gabrielventuraguli.com/",
+  "maps": "https://www.google.com/maps/place/?q=place_id:ChIJrXE2E5AnQg0RijjvhDXhcAg",
+  "rating": 5.0,
+  "opiniones": 33,
+  "horario": [
+   [
+    "Lun",
+    "17:30–20:30"
+   ],
+   [
+    "Mar",
+    "17:30–20:30"
+   ],
+   [
+    "Mié",
+    "13:30–20:30"
+   ],
+   [
+    "Jue",
+    "17:30–20:30"
+   ],
+   [
+    "Vie",
+    "Cerrado"
+   ],
+   [
+    "Sáb",
+    "Cerrado"
+   ],
+   [
+    "Dom",
+    "Cerrado"
+   ]
+  ],
+  "lat": 40.4231387,
+  "lng": -3.7022659
+ },
+ {
+  "id": "kids-us-pozuelo-de-alarc-n",
+  "nombre": "Kids&Us Pozuelo de Alarcón",
+  "categoria": "ingles",
+  "campamento": false,
+  "destacado": false,
+  "zona": "Pozuelo de Alarcón",
+  "zona_slug": "pozuelo-de-alarcon",
+  "tipo_zona": "municipio",
+  "direccion": "Av. de Pablo VI, 9, 28224 Pozuelo de Alarcón, Madrid",
+  "telefono": "+34 668 55 70 51",
+  "web": "https://www.kidsandus.es/es/academias-ingles/pozuelo-alarcon",
+  "maps": "https://www.google.com/maps/place/?q=place_id:ChIJxagRx2yGQQ0RgMtCAVgLVdo",
+  "rating": 4.6,
+  "opiniones": 35,
+  "horario": [],
+  "lat": 40.4301874,
+  "lng": -3.8108916
+ },
+ {
+  "id": "cris-class",
+  "nombre": "Cris' Class",
+  "categoria": "ingles",
+  "campamento": false,
+  "destacado": false,
+  "zona": "Pozuelo de Alarcón",
+  "zona_slug": "pozuelo-de-alarcon",
+  "tipo_zona": "municipio",
+  "direccion": "C. Luis Béjar, 28, 28223 Pozuelo de Alarcón, Madrid",
+  "telefono": "+34 910 26 45 10",
+  "web": "http://www.crisclass.es/",
+  "maps": "https://www.google.com/maps/place/?q=place_id:ChIJ81Wk__CHQQ0RfsvmEWB29FI",
+  "rating": 5.0,
+  "opiniones": 32,
+  "horario": [
+   [
+    "Lun",
+    "9:00–21:00"
+   ],
+   [
+    "Mar",
+    "9:00–21:00"
+   ],
+   [
+    "Mié",
+    "9:00–21:00"
+   ],
+   [
+    "Jue",
+    "9:00–21:00"
+   ],
+   [
+    "Vie",
+    "9:00–21:00"
+   ],
+   [
+    "Sáb",
+    "9:00–14:00"
+   ],
+   [
+    "Dom",
+    "Cerrado"
+   ]
+  ],
+  "lat": 40.4364674,
+  "lng": -3.8158616
+ },
+ {
+  "id": "escuela-y-clases-de-rob-tica-y-programaci-n",
+  "nombre": "Escuela y clases de Robótica y programación",
+  "categoria": "robotica",
+  "campamento": false,
+  "destacado": false,
+  "zona": "Salamanca",
+  "zona_slug": "salamanca",
+  "tipo_zona": "distrito",
+  "direccion": "Calle del General Díaz Porlier, 36, Loc, Salamanca, 28001 Madrid",
+  "telefono": "+34 662 35 97 95",
+  "web": "https://roboticaninosmadrid.es/",
+  "maps": "https://www.google.com/maps/place/?q=place_id:ChIJafZ49DspQg0RewP98qe9nRU",
+  "rating": 5.0,
+  "opiniones": 32,
+  "horario": [
+   [
+    "Lun",
+    "11:00–21:30"
+   ],
+   [
+    "Mar",
+    "11:00–21:30"
+   ],
+   [
+    "Mié",
+    "11:00–21:30"
+   ],
+   [
+    "Jue",
+    "11:00–21:30"
+   ],
+   [
+    "Vie",
+    "11:00–20:30"
+   ],
+   [
+    "Sáb",
+    "10:00–13:30"
+   ],
+   [
+    "Dom",
+    "Cerrado"
+   ]
+  ],
+  "lat": 40.428185,
+  "lng": -3.676841
+ },
+ {
+  "id": "m-sica-con-cabeza",
+  "nombre": "Música con Cabeza",
+  "categoria": "musica",
+  "campamento": false,
+  "destacado": false,
+  "zona": "Chamberí",
+  "zona_slug": "chamberi",
+  "tipo_zona": "distrito",
+  "direccion": "C. de Gaztambide, 60, Chamberí, 28015 Madrid",
+  "telefono": "+34 676 76 96 60",
+  "web": "http://musicaconcabeza.com/",
+  "maps": "https://www.google.com/maps/place/?q=place_id:ChIJM8neSeApQg0RnXzkz_8H0kg",
+  "rating": 5.0,
+  "opiniones": 32,
+  "horario": [
+   [
+    "Lun",
+    "11:00–21:45"
+   ],
+   [
+    "Mar",
+    "11:00–21:45"
+   ],
+   [
+    "Mié",
+    "11:00–21:45"
+   ],
+   [
+    "Jue",
+    "11:00–21:45"
+   ],
+   [
+    "Vie",
+    "11:00–15:00, 17:00–21:00"
+   ],
+   [
+    "Sáb",
+    "Cerrado"
+   ],
+   [
+    "Dom",
+    "Cerrado"
+   ]
+  ],
+  "lat": 40.4385203,
+  "lng": -3.7151754
+ },
+ {
+  "id": "aprendo-actividades-extraescolares",
+  "nombre": "Aprendo Actividades Extraescolares",
+  "categoria": "extraescolares",
+  "campamento": false,
+  "destacado": false,
+  "zona": "Chamberí",
+  "zona_slug": "chamberi",
+  "tipo_zona": "distrito",
+  "direccion": "Calle de Fernández de la Hoz, 76, Chamberí, 28003 Madrid",
+  "telefono": "+34 606 45 96 49",
+  "web": "http://www.webaprendo.com/",
+  "maps": "https://www.google.com/maps/place/?q=place_id:ChIJ_Qj5r6QpQg0RTXx_rT2Pl0A",
+  "rating": 5.0,
+  "opiniones": 32,
+  "horario": [
+   [
+    "Lun",
+    "10:00–15:00"
+   ],
+   [
+    "Mar",
+    "10:00–15:00"
+   ],
+   [
+    "Mié",
+    "10:00–15:00"
+   ],
+   [
+    "Jue",
+    "10:00–15:00"
+   ],
+   [
+    "Vie",
+    "10:00–15:00"
+   ],
+   [
+    "Sáb",
+    "Cerrado"
+   ],
+   [
+    "Dom",
+    "Cerrado"
+   ]
+  ],
+  "lat": 40.439639,
+  "lng": -3.6943193
+ },
+ {
+  "id": "kids-us",
+  "nombre": "Kids & Us",
+  "categoria": "ingles",
+  "campamento": false,
+  "destacado": false,
+  "zona": "Chamberí",
+  "zona_slug": "chamberi",
+  "tipo_zona": "distrito",
+  "direccion": "Calle de Viriato, 57, Chamberí, 28010 Madrid",
+  "telefono": "+34 618 46 99 40",
+  "web": "https://www.kidsandus.es/es/academias-ingles/chamberi",
+  "maps": "https://www.google.com/maps/place/?q=place_id:ChIJyztld_MoQg0R58N8vXPu9Xs",
+  "rating": 4.6,
+  "opiniones": 34,
+  "horario": [
+   [
+    "Lun",
+    "16:00–20:00"
+   ],
+   [
+    "Mar",
+    "16:00–20:00"
+   ],
+   [
+    "Mié",
+    "16:00–20:00"
+   ],
+   [
+    "Jue",
+    "16:00–20:00"
+   ],
+   [
+    "Vie",
+    "16:00–19:30"
+   ],
+   [
+    "Sáb",
+    "Cerrado"
+   ],
+   [
+    "Dom",
+    "Cerrado"
+   ]
+  ],
+  "lat": 40.4357917,
+  "lng": -3.6970607
+ },
+ {
+  "id": "ossus",
+  "nombre": "Ossus",
+  "categoria": "ingles",
+  "campamento": false,
+  "destacado": false,
+  "zona": "Chamartín",
+  "zona_slug": "chamartin",
+  "tipo_zona": "distrito",
+  "direccion": "Av. de Alberto Alcocer, 32, Oficinas G y H, Chamartín, 28036 Madrid",
+  "telefono": "+34 910 28 98 78",
+  "web": "",
+  "maps": "https://www.google.com/maps/place/?q=place_id:ChIJIeLSXR8pQg0R1mhyu7GQVO0",
+  "rating": 4.2,
+  "opiniones": 37,
+  "horario": [
+   [
+    "Lun",
+    "10:00–22:00"
+   ],
+   [
+    "Mar",
+    "10:00–22:00"
+   ],
+   [
+    "Mié",
+    "10:00–22:00"
+   ],
+   [
+    "Jue",
+    "10:00–22:00"
+   ],
+   [
+    "Vie",
+    "10:00–22:00"
+   ],
+   [
+    "Sáb",
+    "10:00–15:00"
+   ],
+   [
+    "Dom",
+    "Cerrado"
+   ]
+  ],
+  "lat": 40.4582432,
+  "lng": -3.6827268
+ },
+ {
+  "id": "daniel-saez-clases-de-bailes-de-sal-n-y-latinos",
+  "nombre": "Daniel Saez - Clases de Bailes de Salón y Latinos",
+  "categoria": "baile",
+  "campamento": false,
+  "destacado": false,
+  "zona": "Fuencarral-El Pardo",
+  "zona_slug": "fuencarral-el-pardo",
+  "tipo_zona": "distrito",
+  "direccion": "Calle de Ntra. Sra. de Valverde, 193, Fuencarral-El Pardo, 28034 Madrid",
+  "telefono": "+34 606 60 28 25",
+  "web": "https://bailesdesalondanielsaez.es/",
+  "maps": "https://www.google.com/maps/place/?q=place_id:ChIJQZO7nNkrQg0RjsaTjEJdb_o",
+  "rating": 5.0,
+  "opiniones": 31,
+  "horario": [
+   [
+    "Lun",
+    "17:30–22:00"
+   ],
+   [
+    "Mar",
+    "17:30–22:00"
+   ],
+   [
+    "Mié",
+    "18:00–22:30"
+   ],
+   [
+    "Jue",
+    "Cerrado"
+   ],
+   [
+    "Vie",
+    "18:00–22:30"
+   ],
+   [
+    "Sáb",
+    "11:30–13:00"
+   ],
+   [
+    "Dom",
+    "Cerrado"
+   ]
+  ],
+  "lat": 40.5052348,
+  "lng": -3.6856999
+ },
+ {
+  "id": "dance-escool-madrid",
+  "nombre": "Dance esCool Madrid",
+  "categoria": "baile",
+  "campamento": false,
+  "destacado": false,
+  "zona": "Chamartín",
+  "zona_slug": "chamartin",
+  "tipo_zona": "distrito",
+  "direccion": "Calle del Prof. Waksman, 9, Chamartín, 28036 Madrid",
+  "telefono": "+34 912 51 70 00",
+  "web": "http://www.danceescool.com/",
+  "maps": "https://www.google.com/maps/place/?q=place_id:ChIJReJragwpQg0RAtiJtOfsHys",
+  "rating": 4.8,
+  "opiniones": 32,
+  "horario": [
+   [
+    "Lun",
+    "9:00–14:00, 17:00–21:00"
+   ],
+   [
+    "Mar",
+    "9:00–14:00, 17:00–21:00"
+   ],
+   [
+    "Mié",
+    "9:00–14:00, 17:00–21:00"
+   ],
+   [
+    "Jue",
+    "9:00–14:00, 17:00–21:00"
+   ],
+   [
+    "Vie",
+    "9:00–14:00, 17:00–21:00"
+   ],
+   [
+    "Sáb",
+    "Cerrado"
+   ],
+   [
+    "Dom",
+    "Cerrado"
+   ]
+  ],
+  "lat": 40.45615,
+  "lng": -3.6880698
+ },
+ {
+  "id": "official-language-school-of-boadilla-del-monte",
+  "nombre": "Official Language School of Boadilla del Monte",
+  "categoria": "idiomas",
+  "campamento": false,
+  "destacado": false,
+  "zona": "Boadilla del Monte",
+  "zona_slug": "boadilla-del-monte",
+  "tipo_zona": "municipio",
+  "direccion": "C. Victoria Eugenia de Battenberg, 10, 28660 Boadilla del Monte, Madrid",
+  "telefono": "+34 916 32 27 33",
+  "web": "",
+  "maps": "https://www.google.com/maps/place/?q=place_id:ChIJ2fQiXGCFQQ0RysoT7KcqxAw",
+  "rating": 4.1,
+  "opiniones": 36,
+  "horario": [],
+  "lat": 40.4096421,
+  "lng": -3.8845333
+ },
+ {
+  "id": "penny-lane-language-school",
+  "nombre": "Penny Lane Language School",
+  "categoria": "ingles",
+  "campamento": false,
+  "destacado": false,
+  "zona": "Arganzuela",
+  "zona_slug": "arganzuela",
+  "tipo_zona": "distrito",
+  "direccion": "Calle de las Peñuelas, nº 29, Arganzuela, 28005 Madrid",
+  "telefono": "+34 912 02 36 10",
+  "web": "http://www.pennylane-school.es/",
+  "maps": "https://www.google.com/maps/place/?q=place_id:ChIJizeYV80nQg0Ry87O7pH0fOc",
+  "rating": 4.9,
+  "opiniones": 30,
+  "horario": [
+   [
+    "Lun",
+    "12:00–13:30, 16:00–21:00"
+   ],
+   [
+    "Mar",
+    "12:00–13:30, 16:00–21:00"
+   ],
+   [
+    "Mié",
+    "12:00–13:30, 16:00–21:00"
+   ],
+   [
+    "Jue",
+    "12:00–13:30, 16:00–21:00"
+   ],
+   [
+    "Vie",
+    "12:00–13:30, 16:00–18:30"
+   ],
+   [
+    "Sáb",
+    "Cerrado"
+   ],
+   [
+    "Dom",
+    "Cerrado"
+   ]
+  ],
+  "lat": 40.4025658,
+  "lng": -3.7034626
+ },
+ {
+  "id": "ingl-s-en-la-urba",
+  "nombre": "Inglés en la Urba ;)",
+  "categoria": "ingles",
+  "campamento": false,
+  "destacado": false,
+  "zona": "Barajas",
+  "zona_slug": "barajas",
+  "tipo_zona": "distrito",
+  "direccion": "C. Bahía de Pollensa, 5-7, Barajas, 28042 Madrid",
+  "telefono": "+34 902 05 40 36",
+  "web": "https://inglesenlaurba.com/",
+  "maps": "https://www.google.com/maps/place/?q=place_id:ChIJ_UsVtRkvQg0Rec_b8_YILHA",
+  "rating": 4.7,
+  "opiniones": 31,
+  "horario": [
+   [
+    "Lun",
+    "9:00–19:00"
+   ],
+   [
+    "Mar",
+    "9:00–19:00"
+   ],
+   [
+    "Mié",
+    "9:00–19:00"
+   ],
+   [
+    "Jue",
+    "9:00–19:00"
+   ],
+   [
+    "Vie",
+    "9:00–19:00"
+   ],
+   [
+    "Sáb",
+    "Cerrado"
+   ],
+   [
+    "Dom",
+    "Cerrado"
+   ]
+  ],
+  "lat": 40.4648701,
+  "lng": -3.5932632
+ },
+ {
+  "id": "jesport-madrid",
+  "nombre": "JESPORT MADRID",
+  "categoria": "deporte",
+  "campamento": false,
+  "destacado": false,
+  "zona": "Villa de Vallecas",
+  "zona_slug": "villa-de-vallecas",
+  "tipo_zona": "distrito",
+  "direccion": "Calle de Luis I, 31, Nave 1, Villa de Vallecas, 28031 Madrid",
+  "telefono": "",
+  "web": "http://www.jesportmadrid.com/",
+  "maps": "https://www.google.com/maps/place/?q=place_id:ChIJnR5Kuk8lQg0RTZOg8HeBmds",
+  "rating": 4.9,
+  "opiniones": 28,
+  "horario": [
+   [
+    "Lun",
+    "8:00–21:00"
+   ],
+   [
+    "Mar",
+    "8:00–21:00"
+   ],
+   [
+    "Mié",
+    "8:00–21:00"
+   ],
+   [
+    "Jue",
+    "8:00–21:00"
+   ],
+   [
+    "Vie",
+    "8:00–21:00"
+   ],
+   [
+    "Sáb",
+    "8:00–21:00"
+   ],
+   [
+    "Dom",
+    "8:00–21:00"
+   ]
+  ],
+  "lat": 40.3758074,
+  "lng": -3.6435488
+ },
+ {
+  "id": "algorithmics-retiro",
+  "nombre": "Algorithmics Retiro",
+  "categoria": "robotica",
+  "campamento": false,
+  "destacado": false,
+  "zona": "Retiro",
+  "zona_slug": "retiro",
+  "tipo_zona": "distrito",
+  "direccion": "C. de Valderribas, 9, Retiro, 28007 Madrid",
+  "telefono": "+34 614 20 39 77",
+  "web": "https://es.alg.academy/",
+  "maps": "https://www.google.com/maps/place/?q=place_id:ChIJF0ZUquEnQg0ROP6xYrRrkUA",
+  "rating": 5.0,
+  "opiniones": 27,
+  "horario": [
+   [
+    "Lun",
+    "17:30–20:30"
+   ],
+   [
+    "Mar",
+    "17:30–20:30"
+   ],
+   [
+    "Mié",
+    "17:30–20:30"
+   ],
+   [
+    "Jue",
+    "17:30–20:30"
+   ],
+   [
+    "Vie",
+    "17:30–20:30"
+   ],
+   [
+    "Sáb",
+    "Cerrado"
+   ],
+   [
+    "Dom",
+    "Cerrado"
+   ]
+  ],
+  "lat": 40.4061532,
+  "lng": -3.6789822
+ },
+ {
+  "id": "modelbot",
+  "nombre": "MODELBOT",
+  "categoria": "robotica",
+  "campamento": false,
+  "destacado": false,
+  "zona": "Tetuán",
+  "zona_slug": "tetuan",
+  "tipo_zona": "distrito",
+  "direccion": "C. de Jaén, 36, Tetuán, 28020 Madrid",
+  "telefono": "+34 605 38 87 64",
+  "web": "http://modelbot.es/",
+  "maps": "https://www.google.com/maps/place/?q=place_id:ChIJAQD0m_8oQg0R4pZhtu0jIcs",
+  "rating": 4.2,
+  "opiniones": 32,
+  "horario": [
+   [
+    "Lun",
+    "8:00–20:00"
+   ],
+   [
+    "Mar",
+    "8:00–20:00"
+   ],
+   [
+    "Mié",
+    "8:00–20:00"
+   ],
+   [
+    "Jue",
+    "8:00–20:00"
+   ],
+   [
+    "Vie",
+    "8:00–20:00"
+   ],
+   [
+    "Sáb",
+    "8:00–20:00"
+   ],
+   [
+    "Dom",
+    "Cerrado"
+   ]
+  ],
+  "lat": 40.450238,
+  "lng": -3.6999951
+ },
+ {
+  "id": "el-molino-de-las-letras-madrid",
+  "nombre": "El Molino de Las Letras (Madrid)",
+  "categoria": "musica",
+  "campamento": false,
+  "destacado": false,
+  "zona": "Centro",
+  "zona_slug": "centro",
+  "tipo_zona": "distrito",
+  "direccion": "C. de Almadén, 1, Centro, 28014 Madrid",
+  "telefono": "+34 914 29 04 51",
+  "web": "http://www.elmolinodelasletras.com/",
+  "maps": "https://www.google.com/maps/place/?q=place_id:ChIJHYposikmQg0RbpA9t6v872U",
+  "rating": 4.6,
+  "opiniones": 28,
+  "horario": [],
+  "lat": 40.411233,
+  "lng": -3.6953306
+ },
+ {
+  "id": "escuelab",
+  "nombre": "Escuelab",
+  "categoria": "extraescolares",
+  "campamento": false,
+  "destacado": false,
+  "zona": "Tetuán",
+  "zona_slug": "tetuan",
+  "tipo_zona": "distrito",
+  "direccion": "C. de la Hierbabuena, 51, bajo derecha, Tetuán, 28039 Madrid",
+  "telefono": "+34 644 61 22 55",
+  "web": "https://www.escuelab.es/",
+  "maps": "https://www.google.com/maps/place/?q=place_id:ChIJlbA3m50bJSER3r8A3tzawKc",
+  "rating": 5.0,
+  "opiniones": 25,
+  "horario": [
+   [
+    "Lun",
+    "9:00–18:00"
+   ],
+   [
+    "Mar",
+    "9:00–18:00"
+   ],
+   [
+    "Mié",
+    "9:00–18:00"
+   ],
+   [
+    "Jue",
+    "9:00–18:00"
+   ],
+   [
+    "Vie",
+    "9:00–18:00"
+   ],
+   [
+    "Sáb",
+    "Cerrado"
+   ],
+   [
+    "Dom",
+    "Cerrado"
+   ]
+  ],
+  "lat": 40.4621283,
+  "lng": -3.7006282
+ },
+ {
+  "id": "escuela-de-teatro-musical-tm4you",
+  "nombre": "Escuela de teatro musical TM4you",
+  "categoria": "musica",
+  "campamento": false,
+  "destacado": false,
+  "zona": "Centro",
+  "zona_slug": "centro",
+  "tipo_zona": "distrito",
+  "direccion": "C. de San Bernardo, 5, Centro, 28013 Madrid",
+  "telefono": "+34 675 68 41 99",
+  "web": "http://www.escuelatm4you.es/",
+  "maps": "https://www.google.com/maps/place/?q=place_id:ChIJ1QB5QnYpQg0RXTsMIHNTP3Q",
+  "rating": 5.0,
+  "opiniones": 25,
+  "horario": [
+   [
+    "Lun",
+    "Cerrado"
+   ],
+   [
+    "Mar",
+    "Cerrado"
+   ],
+   [
+    "Mié",
+    "Cerrado"
+   ],
+   [
+    "Jue",
+    "Cerrado"
+   ],
+   [
+    "Vie",
+    "Cerrado"
+   ],
+   [
+    "Sáb",
+    "10:00–14:00"
+   ],
+   [
+    "Dom",
+    "Cerrado"
+   ]
+  ],
+  "lat": 40.4209375,
+  "lng": -3.7083154
+ },
+ {
+  "id": "creativiteka-escuela-de-arte-y-creatividad",
+  "nombre": "Creativiteka. Escuela de Arte y Creatividad",
+  "categoria": "arte",
+  "campamento": false,
+  "destacado": false,
+  "zona": "Chamberí",
+  "zona_slug": "chamberi",
+  "tipo_zona": "distrito",
+  "direccion": "Calle de García de Paredes, 50, Chamberí, 28010 Madrid",
+  "telefono": "+34 654 34 40 60",
+  "web": "http://creativiteka.com/",
+  "maps": "https://www.google.com/maps/place/?q=place_id:ChIJ1ftshvMoQg0RjvI_Pq6GvUA",
+  "rating": 4.8,
+  "opiniones": 26,
+  "horario": [
+   [
+    "Lun",
+    "10:00–19:00"
+   ],
+   [
+    "Mar",
+    "10:00–19:00"
+   ],
+   [
+    "Mié",
+    "10:00–19:00"
+   ],
+   [
+    "Jue",
+    "10:00–19:00"
+   ],
+   [
+    "Vie",
+    "10:00–15:00"
+   ],
+   [
+    "Sáb",
+    "Cerrado"
+   ],
+   [
+    "Dom",
+    "Cerrado"
+   ]
+  ],
+  "lat": 40.436631,
+  "lng": -3.697662
+ },
+ {
+  "id": "official-school-of-languages",
+  "nombre": "Official school of Languages",
+  "categoria": "idiomas",
+  "campamento": false,
+  "destacado": false,
+  "zona": "Majadahonda",
+  "zona_slug": "majadahonda",
+  "tipo_zona": "municipio",
+  "direccion": "C. de los Pinos, 10, 28221 Majadahonda, Madrid",
+  "telefono": "+34 916 34 36 00",
+  "web": "http://www.eoi-majadahonda.com/",
+  "maps": "https://www.google.com/maps/place/?q=place_id:ChIJ7_O6y2aEQQ0RpO2ZuWi9eFc",
+  "rating": 4.1,
+  "opiniones": 29,
+  "horario": [
+   [
+    "Lun",
+    "15:00–21:00"
+   ],
+   [
+    "Mar",
+    "15:00–21:00"
+   ],
+   [
+    "Mié",
+    "15:00–21:00"
+   ],
+   [
+    "Jue",
+    "15:00–21:00"
+   ],
+   [
+    "Vie",
+    "10:00–13:00"
+   ],
+   [
+    "Sáb",
+    "Cerrado"
+   ],
+   [
+    "Dom",
+    "Cerrado"
+   ]
+  ],
+  "lat": 40.4721649,
+  "lng": -3.8608045
+ },
+ {
+  "id": "taller-escuela",
+  "nombre": "TALLER ESCUELA",
+  "categoria": "arte",
+  "campamento": false,
+  "destacado": false,
+  "zona": "Chamartín",
+  "zona_slug": "chamartin",
+  "tipo_zona": "distrito",
+  "direccion": "C. de Sánchez Pacheco, 53, Chamartín, 28002 Madrid",
+  "telefono": "+34 663 04 65 46",
+  "web": "http://tallerescuela.es/",
+  "maps": "https://www.google.com/maps/place/?q=place_id:ChIJAQBwuc8oQg0RePy5i4KPg0I",
+  "rating": 4.7,
+  "opiniones": 25,
+  "horario": [
+   [
+    "Lun",
+    "9:30–21:30"
+   ],
+   [
+    "Mar",
+    "9:30–19:00"
+   ],
+   [
+    "Mié",
+    "9:30–13:30"
+   ],
+   [
+    "Jue",
+    "9:30–19:00"
+   ],
+   [
+    "Vie",
+    "9:30–13:30"
+   ],
+   [
+    "Sáb",
+    "9:30–13:30"
+   ],
+   [
+    "Dom",
+    "Cerrado"
+   ]
+  ],
+  "lat": 40.4477518,
+  "lng": -3.6755323
+ },
+ {
+  "id": "passpart-academia-de-idiomas",
+  "nombre": "PASSPARTÚ - Academia de Idiomas",
+  "categoria": "idiomas",
+  "campamento": false,
+  "destacado": false,
+  "zona": "Centro",
+  "zona_slug": "centro",
+  "tipo_zona": "distrito",
+  "direccion": "C. de Rodas, 7, Centro, 28005 Madrid",
+  "telefono": "+34 697 83 46 02",
+  "web": "https://www.passpartu-academia-de-idiomas.es/",
+  "maps": "https://www.google.com/maps/place/?q=place_id:ChIJU6kn18wpQg0RTXWaELENsoI",
+  "rating": 5.0,
+  "opiniones": 23,
+  "horario": [
+   [
+    "Lun",
+    "8:00–22:30"
+   ],
+   [
+    "Mar",
+    "8:00–22:30"
+   ],
+   [
+    "Mié",
+    "8:00–22:30"
+   ],
+   [
+    "Jue",
+    "8:00–22:30"
+   ],
+   [
+    "Vie",
+    "8:00–22:30"
+   ],
+   [
+    "Sáb",
+    "8:00–22:30"
+   ],
+   [
+    "Dom",
+    "10:00–22:30"
+   ]
+  ],
+  "lat": 40.4084593,
+  "lng": -3.7055819
+ },
+ {
+  "id": "escuela-dance-in-progress",
+  "nombre": "Escuela Dance in Progress",
+  "categoria": "baile",
+  "campamento": false,
+  "destacado": false,
+  "zona": "Arganzuela",
+  "zona_slug": "arganzuela",
+  "tipo_zona": "distrito",
+  "direccion": "C. de Juan Duque, 27A, Arganzuela, 28005 Madrid",
+  "telefono": "+34 646 94 54 12",
+  "web": "http://www.escueladanceinprogress.com/",
+  "maps": "https://www.google.com/maps/place/?q=place_id:ChIJEcKfrJ4nQg0RipZuJ3Upb6A",
+  "rating": 4.9,
+  "opiniones": 23,
+  "horario": [
+   [
+    "Lun",
+    "16:00–21:00"
+   ],
+   [
+    "Mar",
+    "16:00–21:00"
+   ],
+   [
+    "Mié",
+    "16:00–21:00"
+   ],
+   [
+    "Jue",
+    "16:00–21:00"
+   ],
+   [
+    "Vie",
+    "16:00–21:00"
+   ],
+   [
+    "Sáb",
+    "10:00–14:00"
+   ],
+   [
+    "Dom",
+    "Cerrado"
+   ]
+  ],
+  "lat": 40.4111246,
+  "lng": -3.7194122
+ },
+ {
+  "id": "rbtk-rob-tica-robotic4kids",
+  "nombre": "RBTK robótica / robotic4kids",
+  "categoria": "robotica",
+  "campamento": false,
+  "destacado": false,
+  "zona": "Moncloa-Aravaca",
+  "zona_slug": "moncloa-aravaca",
+  "tipo_zona": "distrito",
+  "direccion": "C. del Conde de la Cimera, 2, Moncloa - Aravaca, 28040 Madrid",
+  "telefono": "",
+  "web": "http://robotic4kids.com/",
+  "maps": "https://www.google.com/maps/place/?q=place_id:ChIJc5nyQU4oQg0RZ2LufX-O-10",
+  "rating": 4.8,
+  "opiniones": 23,
+  "horario": [
+   [
+    "Lun",
+    "Cerrado"
+   ],
+   [
+    "Mar",
+    "Cerrado"
+   ],
+   [
+    "Mié",
+    "Cerrado"
+   ],
+   [
+    "Jue",
+    "17:45–20:30"
+   ],
+   [
+    "Vie",
+    "17:45–21:45"
+   ],
+   [
+    "Sáb",
+    "16:45–19:45"
+   ],
+   [
+    "Dom",
+    "9:30–14:30"
+   ]
+  ],
+  "lat": 40.4467046,
+  "lng": -3.7143949
+ },
+ {
+  "id": "taller-de-arte-el-encuentro",
+  "nombre": "Taller de arte El Encuentro",
+  "categoria": "arte",
+  "campamento": false,
+  "destacado": false,
+  "zona": "Moratalaz",
+  "zona_slug": "moratalaz",
+  "tipo_zona": "distrito",
+  "direccion": "Av. de Moratalaz, 95, Loc 3, Moratalaz, 28030 Madrid",
+  "telefono": "+34 624 32 33 94",
+  "web": "https://elencuentroarte.com/",
+  "maps": "https://www.google.com/maps/place/?q=place_id:ChIJY0ke68YlQg0Rp4tkqhZbtU0",
+  "rating": 5.0,
+  "opiniones": 22,
+  "horario": [
+   [
+    "Lun",
+    "10:00–21:00"
+   ],
+   [
+    "Mar",
+    "10:00–21:00"
+   ],
+   [
+    "Mié",
+    "10:00–21:00"
+   ],
+   [
+    "Jue",
+    "10:00–21:00"
+   ],
+   [
+    "Vie",
+    "10:00–21:00"
+   ],
+   [
+    "Sáb",
+    "10:00–15:00"
+   ],
+   [
+    "Dom",
+    "Cerrado"
+   ]
+  ],
+  "lat": 40.4062521,
+  "lng": -3.654647
+ },
+ {
+  "id": "academia-talktalk-ingl-s-las-tablas-madrid-otros-idiomas-espa-ol-franc-s-alem-n-ni-os-j-venes-adultos-y-in-company",
+  "nombre": "Academia TALKTALK inglés LAS TABLAS MADRID (otros idiomas: español, francés, alemán,..). Niños, jóvenes, adultos y in-company",
+  "categoria": "ingles",
+  "campamento": false,
+  "destacado": false,
+  "zona": "Hortaleza",
+  "zona_slug": "hortaleza",
+  "tipo_zona": "distrito",
+  "direccion": "Paseo Tierra de Melide, C. de Valcarlos, 28, entrada por, 28050 Madrid",
+  "telefono": "+34 910 93 69 21",
+  "web": "http://www.talktalkidiomas.com/",
+  "maps": "https://www.google.com/maps/place/?q=place_id:ChIJkU-Pc0IrQg0RVdD0gXzsvHA",
+  "rating": 4.6,
+  "opiniones": 23,
+  "horario": [
+   [
+    "Lun",
+    "11:00–22:00"
+   ],
+   [
+    "Mar",
+    "11:00–22:00"
+   ],
+   [
+    "Mié",
+    "11:00–22:00"
+   ],
+   [
+    "Jue",
+    "11:00–22:00"
+   ],
+   [
+    "Vie",
+    "11:00–22:00"
+   ],
+   [
+    "Sáb",
+    "10:00–14:00"
+   ],
+   [
+    "Dom",
+    "Cerrado"
+   ]
+  ],
+  "lat": 40.5068997,
+  "lng": -3.6625323
+ },
+ {
+  "id": "instituto-ingl-s-europeo-academia-de-idiomas",
+  "nombre": "Instituto Inglés Europeo -Academia de idiomas",
+  "categoria": "ingles",
+  "campamento": false,
+  "destacado": false,
+  "zona": "Usera",
+  "zona_slug": "usera",
+  "tipo_zona": "distrito",
+  "direccion": "Calle Gumersinda Rosillo, 5, local, Usera, 28026 Madrid",
+  "telefono": "+34 686 97 92 42",
+  "web": "http://www.ingleseuropeo.es/",
+  "maps": "https://www.google.com/maps/place/?q=place_id:ChIJ_QMEOtInQg0RBZW2xnY6lgI",
+  "rating": 5.0,
+  "opiniones": 21,
+  "horario": [
+   [
+    "Lun",
+    "11:00–21:00"
+   ],
+   [
+    "Mar",
+    "11:00–21:00"
+   ],
+   [
+    "Mié",
+    "11:00–21:00"
+   ],
+   [
+    "Jue",
+    "11:00–21:00"
+   ],
+   [
+    "Vie",
+    "11:00–21:00"
+   ],
+   [
+    "Sáb",
+    "Cerrado"
+   ],
+   [
+    "Dom",
+    "Cerrado"
+   ]
+  ],
+  "lat": 40.3858878,
+  "lng": -3.7078881
+ },
+ {
+  "id": "el-drag-n-de-madera",
+  "nombre": "El Dragón de Madera",
+  "categoria": "arte",
+  "campamento": false,
+  "destacado": false,
+  "zona": "Centro",
+  "zona_slug": "centro",
+  "tipo_zona": "distrito",
+  "direccion": "C. de Juanelo, 25, Centro, 28012 Madrid",
+  "telefono": "+34 667 45 59 65",
+  "web": "http://www.eldragondemadera.com/",
+  "maps": "https://www.google.com/maps/place/?q=place_id:ChIJf4XkxtUnQg0R4Wi4pA7CzUU",
+  "rating": 5.0,
+  "opiniones": 20,
+  "horario": [
+   [
+    "Lun",
+    "10:00–14:00, 17:00–19:00"
+   ],
+   [
+    "Mar",
+    "10:00–14:00, 17:00–19:00"
+   ],
+   [
+    "Mié",
+    "10:00–14:00, 17:00–19:00"
+   ],
+   [
+    "Jue",
+    "10:00–14:00, 17:00–19:00"
+   ],
+   [
+    "Vie",
+    "10:00–14:00, 17:00–19:00"
+   ],
+   [
+    "Sáb",
+    "Cerrado"
+   ],
+   [
+    "Dom",
+    "Cerrado"
+   ]
+  ],
+  "lat": 40.4110389,
+  "lng": -3.7067914
+ },
+ {
+  "id": "taller-ditrevi-artes-pl-sticas",
+  "nombre": "Taller DiTrevi Artes Plásticas",
+  "categoria": "arte",
+  "campamento": false,
+  "destacado": false,
+  "zona": "Arganzuela",
+  "zona_slug": "arganzuela",
+  "tipo_zona": "distrito",
+  "direccion": "P.º de las Yeserías, 47, Arganzuela, 28005 Madrid",
+  "telefono": "+34 911 64 55 44",
+  "web": "http://www.ditreviartes.com/",
+  "maps": "https://www.google.com/maps/place/?q=place_id:ChIJkeObd8wnQg0RZEdT9FbIIqM",
+  "rating": 5.0,
+  "opiniones": 20,
+  "horario": [
+   [
+    "Lun",
+    "17:15–21:00"
+   ],
+   [
+    "Mar",
+    "10:00–14:15, 17:15–21:30"
+   ],
+   [
+    "Mié",
+    "10:00–14:15, 17:15–21:30"
+   ],
+   [
+    "Jue",
+    "10:00–14:15, 17:15–21:30"
+   ],
+   [
+    "Vie",
+    "10:00–14:15, 17:15–21:30"
+   ],
+   [
+    "Sáb",
+    "10:00–14:15"
+   ],
+   [
+    "Dom",
+    "Cerrado"
+   ]
+  ],
+  "lat": 40.3976577,
+  "lng": -3.7060378
+ },
+ {
+  "id": "kids-us-chamart-n",
+  "nombre": "Kids&Us Chamartín",
+  "categoria": "ingles",
+  "campamento": false,
+  "destacado": false,
+  "zona": "Chamartín",
+  "zona_slug": "chamartin",
+  "tipo_zona": "distrito",
+  "direccion": "C. de Colombia, 34, Chamartín, 28016 Madrid",
+  "telefono": "+34 912 79 40 11",
+  "web": "https://www.kidsandus.es/es/academias-ingles/chamartin",
+  "maps": "https://www.google.com/maps/place/?q=place_id:ChIJoWcvYygpQg0RXFgfvsFVDYI",
+  "rating": 4.7,
+  "opiniones": 20,
+  "horario": [
+   [
+    "Lun",
+    "16:00–20:00"
+   ],
+   [
+    "Mar",
+    "16:00–20:00"
+   ],
+   [
+    "Mié",
+    "16:00–20:00"
+   ],
+   [
+    "Jue",
+    "16:00–20:00"
+   ],
+   [
+    "Vie",
+    "16:00–19:00"
+   ],
+   [
+    "Sáb",
+    "Cerrado"
+   ],
+   [
+    "Dom",
+    "Cerrado"
+   ]
+  ],
+  "lat": 40.4566742,
+  "lng": -3.6715833
+ },
+ {
+  "id": "kids-us-english-for-children",
+  "nombre": "Kids & Us - English for children",
+  "categoria": "ingles",
+  "campamento": false,
+  "destacado": false,
+  "zona": "Fuencarral-El Pardo",
+  "zona_slug": "fuencarral-el-pardo",
+  "tipo_zona": "distrito",
+  "direccion": "C. del Monasterio de Samos, 16, Fuencarral-El Pardo, 28049 Madrid",
+  "telefono": "+34 914 27 65 57",
+  "web": "https://www.kidsandus.es/es/academias-ingles/montecarmelo",
+  "maps": "https://www.google.com/maps/place/?q=place_id:ChIJ_9HKR84rQg0RrcyrozD9CUg",
+  "rating": 4.3,
+  "opiniones": 21,
+  "horario": [
+   [
+    "Lun",
+    "16:00–20:00"
+   ],
+   [
+    "Mar",
+    "16:00–20:00"
+   ],
+   [
+    "Mié",
+    "16:00–20:00"
+   ],
+   [
+    "Jue",
+    "16:00–20:00"
+   ],
+   [
+    "Vie",
+    "16:00–20:00"
+   ],
+   [
+    "Sáb",
+    "Cerrado"
+   ],
+   [
+    "Dom",
+    "Cerrado"
+   ]
+  ],
+  "lat": 40.5060552,
+  "lng": -3.6953861
+ },
+ {
+  "id": "fun-learning-retiro",
+  "nombre": "Fun Learning Retiro",
+  "categoria": "apoyo-escolar",
+  "campamento": false,
+  "destacado": false,
+  "zona": "Retiro",
+  "zona_slug": "retiro",
+  "tipo_zona": "distrito",
+  "direccion": "C. de Julio Rey Pastor, 4, Retiro, 28007 Madrid",
+  "telefono": "+34 636 60 64 90",
+  "web": "https://www.funlearningretiro.com/",
+  "maps": "https://www.google.com/maps/place/?q=place_id:ChIJeX8skhsmQg0R-4F5rJFWTRo",
+  "rating": 5.0,
+  "opiniones": 18,
+  "horario": [
+   [
+    "Lun",
+    "15:00–21:00"
+   ],
+   [
+    "Mar",
+    "15:00–21:00"
+   ],
+   [
+    "Mié",
+    "15:00–21:00"
+   ],
+   [
+    "Jue",
+    "15:00–21:00"
+   ],
+   [
+    "Vie",
+    "15:00–21:00"
+   ],
+   [
+    "Sáb",
+    "Cerrado"
+   ],
+   [
+    "Dom",
+    "Cerrado"
+   ]
+  ],
+  "lat": 40.4078701,
+  "lng": -3.6759713
+ },
+ {
+  "id": "rockbotic",
+  "nombre": "Rockbotic",
+  "categoria": "robotica",
+  "campamento": false,
+  "destacado": false,
+  "zona": "Arganzuela",
+  "zona_slug": "arganzuela",
+  "tipo_zona": "distrito",
+  "direccion": "C. de Arganda, 6, Arganzuela, 28005 Madrid",
+  "telefono": "+34 912 98 18 38",
+  "web": "http://www.rockbotic.com/",
+  "maps": "https://www.google.com/maps/place/?q=place_id:ChIJ_YKlgM4nQg0Rh-sUaPCHajI",
+  "rating": 4.3,
+  "opiniones": 19,
+  "horario": [
+   [
+    "Lun",
+    "10:00–20:00"
+   ],
+   [
+    "Mar",
+    "10:00–20:00"
+   ],
+   [
+    "Mié",
+    "10:00–20:00"
+   ],
+   [
+    "Jue",
+    "10:00–20:00"
+   ],
+   [
+    "Vie",
+    "10:00–20:00"
+   ],
+   [
+    "Sáb",
+    "Cerrado"
+   ],
+   [
+    "Dom",
+    "Cerrado"
+   ]
+  ],
+  "lat": 40.3999386,
+  "lng": -3.7082469
+ },
+ {
+  "id": "eoi-barajas-and-ciudad-lineal",
+  "nombre": "EOI Barajas and Ciudad Lineal",
+  "categoria": "idiomas",
+  "campamento": false,
+  "destacado": false,
+  "zona": "Barajas",
+  "zona_slug": "barajas",
+  "tipo_zona": "distrito",
+  "direccion": "C. de Antonio Sancha, 11, Barajas, 28042 Madrid",
+  "telefono": "+34 919 13 65 00",
+  "web": "https://www.educa2.madrid.org/web/centro.eoi.extciudadlineal-barajas.madrid/inicio",
+  "maps": "https://www.google.com/maps/place/?q=place_id:ChIJb7wwRCwuQg0RSE23PKX2c4g",
+  "rating": 4.5,
+  "opiniones": 17,
+  "horario": [
+   [
+    "Lun",
+    "17:00–20:00"
+   ],
+   [
+    "Mar",
+    "17:00–20:00"
+   ],
+   [
+    "Mié",
+    "17:00–20:00"
+   ],
+   [
+    "Jue",
+    "17:00–20:00"
+   ],
+   [
+    "Vie",
+    "11:00–13:00"
+   ],
+   [
+    "Sáb",
+    "Cerrado"
+   ],
+   [
+    "Dom",
+    "Cerrado"
+   ]
+  ],
+  "lat": 40.4608256,
+  "lng": -3.588756
+ },
+ {
+  "id": "espacio-creativo-lau-33",
+  "nombre": "Espacio Creativo LAU 33",
+  "categoria": "arte",
+  "campamento": false,
+  "destacado": false,
+  "zona": "Arganzuela",
+  "zona_slug": "arganzuela",
+  "tipo_zona": "distrito",
+  "direccion": "C. del Laurel, 33, Arganzuela, 28005 Madrid",
+  "telefono": "+34 917 29 58 59",
+  "web": "http://www.estudiolau33.com/",
+  "maps": "https://www.google.com/maps/place/?q=place_id:ChIJy3meQ80nQg0Rb_ylEtayeQI",
+  "rating": 5.0,
+  "opiniones": 15,
+  "horario": [
+   [
+    "Lun",
+    "9:00–14:00, 16:00–20:30"
+   ],
+   [
+    "Mar",
+    "9:00–14:00, 16:00–20:00"
+   ],
+   [
+    "Mié",
+    "9:00–14:00, 16:00–20:00"
+   ],
+   [
+    "Jue",
+    "9:00–14:00, 16:00–20:00"
+   ],
+   [
+    "Vie",
+    "9:00–14:00, 16:00–20:30"
+   ],
+   [
+    "Sáb",
+    "9:00–14:00"
+   ],
+   [
+    "Dom",
+    "Cerrado"
+   ]
+  ],
+  "lat": 40.4018723,
+  "lng": -3.7039117
+ },
+ {
+  "id": "erizo-actividades-extraescolares",
+  "nombre": "Erizo Actividades Extraescolares",
+  "categoria": "extraescolares",
+  "campamento": false,
+  "destacado": false,
+  "zona": "Arganzuela",
+  "zona_slug": "arganzuela",
+  "tipo_zona": "distrito",
+  "direccion": "P.º de las Acacias, 29, 4ºB, Arganzuela, 28005 Madrid",
+  "telefono": "+34 696 33 93 78",
+  "web": "https://actividadesextraescolareserizo.es/",
+  "maps": "https://www.google.com/maps/place/?q=place_id:ChIJI4k0NZonQg0RKOrF2osVru0",
+  "rating": 4.9,
+  "opiniones": 15,
+  "horario": [
+   [
+    "Lun",
+    "9:00–21:00"
+   ],
+   [
+    "Mar",
+    "9:00–21:00"
+   ],
+   [
+    "Mié",
+    "9:00–21:00"
+   ],
+   [
+    "Jue",
+    "9:00–21:00"
+   ],
+   [
+    "Vie",
+    "9:00–21:00"
+   ],
+   [
+    "Sáb",
+    "9:00–21:00"
+   ],
+   [
+    "Dom",
+    "Cerrado"
+   ]
+  ],
+  "lat": 40.40335,
+  "lng": -3.70802
+ },
+ {
+  "id": "adegosport",
+  "nombre": "AdegoSport",
+  "categoria": "deporte",
+  "campamento": false,
+  "destacado": false,
+  "zona": "Salamanca",
+  "zona_slug": "salamanca",
+  "tipo_zona": "distrito",
+  "direccion": "C. de Mercedes Fórmica, 15 Bis, 4º, Salamanca, 28028 Madrid",
+  "telefono": "+34 665 21 79 90",
+  "web": "https://adegosport.es/",
+  "maps": "https://www.google.com/maps/place/?q=place_id:ChIJQ2AATrEpQg0Rqn7YdTHctbA",
+  "rating": 4.7,
+  "opiniones": 15,
+  "horario": [
+   [
+    "Lun",
+    "9:00–19:00"
+   ],
+   [
+    "Mar",
+    "9:00–19:00"
+   ],
+   [
+    "Mié",
+    "9:00–19:00"
+   ],
+   [
+    "Jue",
+    "9:00–19:00"
+   ],
+   [
+    "Vie",
+    "9:00–19:00"
+   ],
+   [
+    "Sáb",
+    "Cerrado"
+   ],
+   [
+    "Dom",
+    "Cerrado"
+   ]
+  ],
+  "lat": 40.42202,
+  "lng": -3.66559
+ },
+ {
+  "id": "tweens-teens-by-kids-us-el-retiro",
+  "nombre": "Tweens&Teens by Kids&Us El Retiro",
+  "categoria": "ingles",
+  "campamento": false,
+  "destacado": false,
+  "zona": "Retiro",
+  "zona_slug": "retiro",
+  "tipo_zona": "distrito",
+  "direccion": "C. de Pío Baroja, Nº5, Retiro, 28009 Madrid",
+  "telefono": "",
+  "web": "",
+  "maps": "https://www.google.com/maps/place/?q=place_id:ChIJt5GYKmEpQg0RqySIVWVAdaM",
+  "rating": 5.0,
+  "opiniones": 14,
+  "horario": [],
+  "lat": 40.4143796,
+  "lng": -3.6738323
+ },
+ {
+  "id": "mirarte",
+  "nombre": "MirArte",
+  "categoria": "arte",
+  "campamento": false,
+  "destacado": false,
+  "zona": "Chamartín",
+  "zona_slug": "chamartin",
+  "tipo_zona": "distrito",
+  "direccion": "C. de Mauricio Legendre, 19, Chamartín, 28046 Madrid",
+  "telefono": "+34 913 23 28 72",
+  "web": "https://www.mirarte.net/",
+  "maps": "https://www.google.com/maps/place/?q=place_id:ChIJUXyUQhQpQg0RPihDQ5tuZo4",
+  "rating": 5.0,
+  "opiniones": 14,
+  "horario": [
+   [
+    "Lun",
+    "9:00–16:30"
+   ],
+   [
+    "Mar",
+    "9:00–16:30"
+   ],
+   [
+    "Mié",
+    "9:00–16:30"
+   ],
+   [
+    "Jue",
+    "9:00–16:30"
+   ],
+   [
+    "Vie",
+    "9:00–16:30"
+   ],
+   [
+    "Sáb",
+    "Cerrado"
+   ],
+   [
+    "Dom",
+    "Cerrado"
+   ]
+  ],
+  "lat": 40.4712791,
+  "lng": -3.6863155
+ },
+ {
+  "id": "academia-de-idiomas-plaza-castilla",
+  "nombre": "Academia de Idiomas Plaza Castilla",
+  "categoria": "idiomas",
+  "campamento": false,
+  "destacado": false,
+  "zona": "Tetuán",
+  "zona_slug": "tetuan",
+  "tipo_zona": "distrito",
+  "direccion": "P.º de la Castellana, 93, Planta 2, Tetuán, 28046 Madrid",
+  "telefono": "+34 626 06 54 82",
+  "web": "https://academiaidiomasplazacastilla.es/",
+  "maps": "https://www.google.com/maps/place/?q=place_id:ChIJjUGLVOBTHY4RjtO_KB0YbQ4",
+  "rating": 4.9,
+  "opiniones": 14,
+  "horario": [
+   [
+    "Lun",
+    "10:00–21:00"
+   ],
+   [
+    "Mar",
+    "10:00–21:00"
+   ],
+   [
+    "Mié",
+    "10:00–21:00"
+   ],
+   [
+    "Jue",
+    "10:00–21:00"
+   ],
+   [
+    "Vie",
+    "10:00–21:00"
+   ],
+   [
+    "Sáb",
+    "10:00–16:00"
+   ],
+   [
+    "Dom",
+    "Cerrado"
+   ]
+  ],
+  "lat": 40.4509004,
+  "lng": -3.6916603
+ },
+ {
+  "id": "rockbotic-chamber",
+  "nombre": "Rockbotic Chamberí",
+  "categoria": "robotica",
+  "campamento": false,
+  "destacado": false,
+  "zona": "Chamberí",
+  "zona_slug": "chamberi",
+  "tipo_zona": "distrito",
+  "direccion": "Calle de Viriato, 17, Bajo, Chamberí, 28010 Madrid",
+  "telefono": "+34 676 65 50 34",
+  "web": "https://campus-chamberi.rockbotic.com/",
+  "maps": "https://www.google.com/maps/place/?q=place_id:ChIJDzXihqUpQg0RHSZJRi4OGVM",
+  "rating": 4.9,
+  "opiniones": 14,
+  "horario": [
+   [
+    "Lun",
+    "15:00–20:00"
+   ],
+   [
+    "Mar",
+    "15:00–20:00"
+   ],
+   [
+    "Mié",
+    "15:00–20:00"
+   ],
+   [
+    "Jue",
+    "15:00–20:00"
+   ],
+   [
+    "Vie",
+    "15:00–20:00"
+   ],
+   [
+    "Sáb",
+    "Cerrado"
+   ],
+   [
+    "Dom",
+    "Cerrado"
+   ]
+  ],
+  "lat": 40.4360214,
+  "lng": -3.7021417
+ },
+ {
+  "id": "khansa-profesora-nativa-ingl-s-y-acompa-ante-premium-para-ni-os-pozuelo-la-finca-aravaca",
+  "nombre": "Khansa — Profesora Nativa Inglés y Acompañante Premium para Niños | Pozuelo, La Finca, Aravaca",
+  "categoria": "apoyo-escolar",
+  "campamento": false,
+  "destacado": false,
+  "zona": "Pozuelo de Alarcón",
+  "zona_slug": "pozuelo-de-alarcon",
+  "tipo_zona": "municipio",
+  "direccion": "Av. de Europa, 16, 28224 Pozuelo de Alarcón, Madrid",
+  "telefono": "+34 628 74 46 44",
+  "web": "https://native-english-teacher.com/",
+  "maps": "https://www.google.com/maps/place/?q=place_id:ChIJ3yniUq2HQQ0RzKzPtly5hy0",
+  "rating": 5.0,
+  "opiniones": 13,
+  "horario": [
+   [
+    "Lun",
+    "9:00–20:00"
+   ],
+   [
+    "Mar",
+    "9:00–20:00"
+   ],
+   [
+    "Mié",
+    "9:00–20:00"
+   ],
+   [
+    "Jue",
+    "9:00–20:00"
+   ],
+   [
+    "Vie",
+    "9:00–20:00"
+   ],
+   [
+    "Sáb",
+    "10:00–14:00"
+   ],
+   [
+    "Dom",
+    "Cerrado"
+   ]
+  ],
+  "lat": 40.4373726,
+  "lng": -3.7941799
+ },
+ {
+  "id": "academia-ingl-s-chamber-paddy-byrne",
+  "nombre": "Academia Inglés Chamberí | Paddy Byrne",
+  "categoria": "ingles",
+  "campamento": false,
+  "destacado": false,
+  "zona": "Chamberí",
+  "zona_slug": "chamberi",
+  "tipo_zona": "distrito",
+  "direccion": "C. de Fernández de los Ríos, 27, Chamberí, 28015 Madrid",
+  "telefono": "+34 636 27 67 46",
+  "web": "http://byrneacademy.com/",
+  "maps": "https://www.google.com/maps/place/?q=place_id:ChIJ5Y2d07kpQg0RfgeYy1n96mc",
+  "rating": 5.0,
+  "opiniones": 13,
+  "horario": [
+   [
+    "Lun",
+    "11:00–21:00"
+   ],
+   [
+    "Mar",
+    "11:00–21:00"
+   ],
+   [
+    "Mié",
+    "11:00–21:00"
+   ],
+   [
+    "Jue",
+    "11:00–21:00"
+   ],
+   [
+    "Vie",
+    "14:30–17:30"
+   ],
+   [
+    "Sáb",
+    "Cerrado"
+   ],
+   [
+    "Dom",
+    "Cerrado"
+   ]
+  ],
+  "lat": 40.434913,
+  "lng": -3.7076732
+ },
+ {
+  "id": "interbridges-centro-de-idiomas-academia-de-ingl-s-y-otros-idiomas-en-alameda-de-osuna-madrid",
+  "nombre": "InterBridges Centro de Idiomas | Academia de inglés y otros idiomas en Alameda de Osuna, Madrid",
+  "categoria": "ingles",
+  "campamento": false,
+  "destacado": false,
+  "zona": "Barajas",
+  "zona_slug": "barajas",
+  "tipo_zona": "distrito",
+  "direccion": "Av. de Cantabria, 19, Barajas, 28042 Madrid",
+  "telefono": "+34 910 11 90 72",
+  "web": "http://www.interbridges.com/",
+  "maps": "https://www.google.com/maps/place/?q=place_id:ChIJgc3vdM0vQg0Re32gr3orYKs",
+  "rating": 4.6,
+  "opiniones": 14,
+  "horario": [
+   [
+    "Lun",
+    "16:00–21:00"
+   ],
+   [
+    "Mar",
+    "16:00–21:00"
+   ],
+   [
+    "Mié",
+    "16:00–21:00"
+   ],
+   [
+    "Jue",
+    "16:00–21:00"
+   ],
+   [
+    "Vie",
+    "16:00–20:00"
+   ],
+   [
+    "Sáb",
+    "Cerrado"
+   ],
+   [
+    "Dom",
+    "Cerrado"
+   ]
+  ],
+  "lat": 40.4549592,
+  "lng": -3.5881385
+ },
+ {
+  "id": "idiomas-boadilla",
+  "nombre": "IDIOMAS BOADILLA",
+  "categoria": "idiomas",
+  "campamento": false,
+  "destacado": false,
+  "zona": "Boadilla del Monte",
+  "zona_slug": "boadilla-del-monte",
+  "tipo_zona": "municipio",
+  "direccion": "Cam. de San Sebastián, 16, 28660 Boadilla del Monte, Madrid",
+  "telefono": "+34 639 79 01 42",
+  "web": "http://www.idiomasboadilla.es/",
+  "maps": "https://www.google.com/maps/place/?q=place_id:ChIJbSHZoGKFQQ0RmwhN7yCkkRo",
+  "rating": 4.9,
+  "opiniones": 12,
+  "horario": [
+   [
+    "Lun",
+    "9:00–20:30"
+   ],
+   [
+    "Mar",
+    "9:00–20:30"
+   ],
+   [
+    "Mié",
+    "16:30–20:30"
+   ],
+   [
+    "Jue",
+    "9:00–20:30"
+   ],
+   [
+    "Vie",
+    "9:00–20:30"
+   ],
+   [
+    "Sáb",
+    "9:30–13:00"
+   ],
+   [
+    "Dom",
+    "Cerrado"
+   ]
+  ],
+  "lat": 40.4081124,
+  "lng": -3.8777728
+ },
+ {
+  "id": "cemar-academia-de-m-sica-y-alquiler-aulas-estudio-y-ensayo-clases-instrumentos-ni-os-suzuki-y-adultos",
+  "nombre": "CEMAR academia de música y alquiler aulas estudio y ensayo. clases instrumentos niños (suzuki) y adultos",
+  "categoria": "musica",
+  "campamento": false,
+  "destacado": false,
+  "zona": "Centro",
+  "zona_slug": "centro",
+  "tipo_zona": "distrito",
+  "direccion": "C. de la Unión, 10, Centro, 28013 Madrid",
+  "telefono": "+34 695 94 78 64",
+  "web": "",
+  "maps": "https://www.google.com/maps/place/?q=place_id:ChIJuURC1XsoQg0RPLP3MVdUDVs",
+  "rating": 4.8,
+  "opiniones": 12,
+  "horario": [
+   [
+    "Lun",
+    "16:00–20:30"
+   ],
+   [
+    "Mar",
+    "16:00–20:30"
+   ],
+   [
+    "Mié",
+    "11:00–13:30, 16:00–20:30"
+   ],
+   [
+    "Jue",
+    "16:00–20:30"
+   ],
+   [
+    "Vie",
+    "16:00–20:30"
+   ],
+   [
+    "Sáb",
+    "Cerrado"
+   ],
+   [
+    "Dom",
+    "Cerrado"
+   ]
+  ],
+  "lat": 40.4175571,
+  "lng": -3.7104127
+ },
+ {
+  "id": "the-english-academy",
+  "nombre": "The English Academy",
+  "categoria": "ingles",
+  "campamento": false,
+  "destacado": false,
+  "zona": "Carabanchel",
+  "zona_slug": "carabanchel",
+  "tipo_zona": "distrito",
+  "direccion": "Av. de Pedro Díez, 21 Bis, Carabanchel, 28019 Madrid",
+  "telefono": "+34 914 71 17 01",
+  "web": "https://www.theenglishacademymadrid.es/es/",
+  "maps": "https://www.google.com/maps/place/?q=place_id:ChIJO2VuD8EnQg0Re_sSEKWzNeI",
+  "rating": 5.0,
+  "opiniones": 11,
+  "horario": [
+   [
+    "Lun",
+    "16:30–20:00"
+   ],
+   [
+    "Mar",
+    "16:30–20:00"
+   ],
+   [
+    "Mié",
+    "16:30–20:00"
+   ],
+   [
+    "Jue",
+    "16:30–20:00"
+   ],
+   [
+    "Vie",
+    "16:00–19:00"
+   ],
+   [
+    "Sáb",
+    "Cerrado"
+   ],
+   [
+    "Dom",
+    "Cerrado"
+   ]
+  ],
+  "lat": 40.3914423,
+  "lng": -3.7314789
+ },
+ {
+  "id": "academia-gostudent-madrid-guzman-el-bueno",
+  "nombre": "Academia GoStudent - Madrid - Guzman El Bueno",
+  "categoria": "apoyo-escolar",
+  "campamento": false,
+  "destacado": false,
+  "zona": "Chamberí",
+  "zona_slug": "chamberi",
+  "tipo_zona": "distrito",
+  "direccion": "C. de Guzmán el Bueno, 100, Chamberí, 28003 Madrid",
+  "telefono": "+34 621 41 91 89",
+  "web": "https://www.gostudent.org/es-es/clases-particulares/academias/madrid/guzman-el-bueno/?utm_source=google&utm_medium=gbp&utm_campaign=hero-link",
+  "maps": "https://www.google.com/maps/place/?q=place_id:ChIJtR4zShwpQg0R-qzcwcywCQE",
+  "rating": 4.9,
+  "opiniones": 9,
+  "horario": [
+   [
+    "Lun",
+    "24 horas"
+   ],
+   [
+    "Mar",
+    "24 horas"
+   ],
+   [
+    "Mié",
+    "24 horas"
+   ],
+   [
+    "Jue",
+    "24 horas"
+   ],
+   [
+    "Vie",
+    "24 horas"
+   ],
+   [
+    "Sáb",
+    "24 horas"
+   ],
+   [
+    "Dom",
+    "24 horas"
+   ]
+  ],
+  "lat": 40.4417477,
+  "lng": -3.71231
+ },
+ {
+  "id": "ecc-english-culture-centre-academia-de-ingl-s-en-alcobendas",
+  "nombre": "ECC English Culture Centre | Academia de inglés en Alcobendas",
+  "categoria": "ingles",
+  "campamento": false,
+  "destacado": false,
+  "zona": "Alcobendas",
+  "zona_slug": "alcobendas",
+  "tipo_zona": "municipio",
+  "direccion": "P.º de la Chopera, 313, 28100 Alcobendas, Madrid",
+  "telefono": "+34 916 61 99 54",
+  "web": "https://eccidiomas.com/",
+  "maps": "https://www.google.com/maps/place/?q=place_id:ChIJmfpfLIwsQg0RpgykJHYHf7o",
+  "rating": 4.7,
+  "opiniones": 9,
+  "horario": [
+   [
+    "Lun",
+    "9:30–13:30, 16:30–21:30"
+   ],
+   [
+    "Mar",
+    "9:30–13:30, 16:30–21:30"
+   ],
+   [
+    "Mié",
+    "9:30–13:30, 16:30–21:30"
+   ],
+   [
+    "Jue",
+    "9:30–13:30, 16:30–21:30"
+   ],
+   [
+    "Vie",
+    "9:30–13:30, 16:30–20:00"
+   ],
+   [
+    "Sáb",
+    "10:00–14:00"
+   ],
+   [
+    "Dom",
+    "Cerrado"
+   ]
+  ],
+  "lat": 40.5449688,
+  "lng": -3.6592104
+ },
+ {
+  "id": "digital-genius",
+  "nombre": "Digital Genius",
+  "categoria": "robotica",
+  "campamento": false,
+  "destacado": false,
+  "zona": "Centro",
+  "zona_slug": "centro",
+  "tipo_zona": "distrito",
+  "direccion": "C. de Toledo, 46, Centro, 28005 Madrid",
+  "telefono": "+34 914 48 84 36",
+  "web": "https://digitalgenius.es/",
+  "maps": "https://www.google.com/maps/place/?q=place_id:ChIJYTLxeL0oQg0RLrKDkfuolck",
+  "rating": 5.0,
+  "opiniones": 8,
+  "horario": [
+   [
+    "Lun",
+    "9:00–18:00"
+   ],
+   [
+    "Mar",
+    "9:00–18:00"
+   ],
+   [
+    "Mié",
+    "9:00–18:00"
+   ],
+   [
+    "Jue",
+    "9:00–18:00"
+   ],
+   [
+    "Vie",
+    "9:00–18:00"
+   ],
+   [
+    "Sáb",
+    "Cerrado"
+   ],
+   [
+    "Dom",
+    "Cerrado"
+   ]
+  ],
+  "lat": 40.4124249,
+  "lng": -3.708034
+ },
+ {
+  "id": "k-for-english",
+  "nombre": "K for English",
+  "categoria": "ingles",
+  "campamento": false,
+  "destacado": false,
+  "zona": "Fuencarral-El Pardo",
+  "zona_slug": "fuencarral-el-pardo",
+  "tipo_zona": "distrito",
+  "direccion": "C. del Monasterio de Oseira, 5, Fuencarral-El Pardo, 28049 Madrid",
+  "telefono": "+34 919 20 78 39",
+  "web": "http://kforenglish.com/",
+  "maps": "https://www.google.com/maps/place/?q=place_id:ChIJoYggzr0rQg0R9hAf4OQfzjs",
+  "rating": 4.9,
+  "opiniones": 8,
+  "horario": [
+   [
+    "Lun",
+    "9:00–20:00"
+   ],
+   [
+    "Mar",
+    "9:00–20:00"
+   ],
+   [
+    "Mié",
+    "9:00–20:00"
+   ],
+   [
+    "Jue",
+    "9:00–20:00"
+   ],
+   [
+    "Vie",
+    "9:00–20:00"
+   ],
+   [
+    "Sáb",
+    "Cerrado"
+   ],
+   [
+    "Dom",
+    "Cerrado"
+   ]
+  ],
+  "lat": 40.5088618,
+  "lng": -3.6979096
+ },
+ {
+  "id": "escuela-tecnol-gica-conectados-es-tres-cantos",
+  "nombre": "Escuela Tecnológica conectados.es Tres Cantos",
+  "categoria": "robotica",
+  "campamento": false,
+  "destacado": false,
+  "zona": "Tres Cantos",
+  "zona_slug": "tres-cantos",
+  "tipo_zona": "municipio",
+  "direccion": "Sector Músicos, 15, 28760 Tres Cantos, Madrid",
+  "telefono": "+34 632 36 92 68",
+  "web": "https://www.conectados.es/tres-cantos/",
+  "maps": "https://www.google.com/maps/place/?q=place_id:ChIJbzjO1ojVQw0RjqqPX_rc-hk",
+  "rating": 5.0,
+  "opiniones": 7,
+  "horario": [
+   [
+    "Lun",
+    "17:00–20:00"
+   ],
+   [
+    "Mar",
+    "17:00–20:00"
+   ],
+   [
+    "Mié",
+    "17:00–20:00"
+   ],
+   [
+    "Jue",
+    "17:00–20:00"
+   ],
+   [
+    "Vie",
+    "17:00–20:00"
+   ],
+   [
+    "Sáb",
+    "11:00–14:00"
+   ],
+   [
+    "Dom",
+    "Cerrado"
+   ]
+  ],
+  "lat": 40.6065769,
+  "lng": -3.7174209
+ },
+ {
+  "id": "alb-n-taller-de-arte-infantil",
+  "nombre": "Albín -Taller de Arte Infantil",
+  "categoria": "arte",
+  "campamento": false,
+  "destacado": false,
+  "zona": "Moncloa-Aravaca",
+  "zona_slug": "moncloa-aravaca",
+  "tipo_zona": "distrito",
+  "direccion": "C. del Rey Francisco, 10, Loc 2, Moncloa - Aravaca, 28008 Madrid",
+  "telefono": "+34 641 22 36 56",
+  "web": "",
+  "maps": "https://www.google.com/maps/place/?q=place_id:ChIJpw-IsWgoQg0RnWFnsSzrmug",
+  "rating": 5.0,
+  "opiniones": 6,
+  "horario": [
+   [
+    "Lun",
+    "10:00–20:00"
+   ],
+   [
+    "Mar",
+    "10:00–20:00"
+   ],
+   [
+    "Mié",
+    "10:00–20:00"
+   ],
+   [
+    "Jue",
+    "10:00–20:00"
+   ],
+   [
+    "Vie",
+    "10:00–20:00"
+   ],
+   [
+    "Sáb",
+    "10:00–13:00"
+   ],
+   [
+    "Dom",
+    "Cerrado"
+   ]
+  ],
+  "lat": 40.4274969,
+  "lng": -3.7159775
+ },
+ {
+  "id": "actividades-colegios-madrid-retiro-magic",
+  "nombre": "Actividades Colegios Madrid - Retiro Magic",
+  "categoria": "extraescolares",
+  "campamento": false,
+  "destacado": false,
+  "zona": "Retiro",
+  "zona_slug": "retiro",
+  "tipo_zona": "distrito",
+  "direccion": "Av. de Menéndez Pelayo, 9, Retiro, 28009 Madrid",
+  "telefono": "+34 660 22 97 12",
+  "web": "https://actividadescolegiosmadrid.com/",
+  "maps": "https://www.google.com/maps/place/?q=place_id:ChIJ5WrUUSEpQg0Ryq6lyjoRAQM",
+  "rating": 5.0,
+  "opiniones": 6,
+  "horario": [
+   [
+    "Lun",
+    "10:00–21:00"
+   ],
+   [
+    "Mar",
+    "10:00–21:00"
+   ],
+   [
+    "Mié",
+    "10:00–21:00"
+   ],
+   [
+    "Jue",
+    "10:00–21:00"
+   ],
+   [
+    "Vie",
+    "10:00–21:00"
+   ],
+   [
+    "Sáb",
+    "10:00–21:00"
+   ],
+   [
+    "Dom",
+    "10:00–21:00"
+   ]
+  ],
+  "lat": 40.4214402,
+  "lng": -3.6796621
+ },
+ {
+  "id": "kidsbrain-school-retiro",
+  "nombre": "Kidsbrain School Retiro",
+  "categoria": "ingles",
+  "campamento": false,
+  "destacado": false,
+  "zona": "Retiro",
+  "zona_slug": "retiro",
+  "tipo_zona": "distrito",
+  "direccion": "C. de Abtao, 5, Loc 4, Retiro, 28007 Madrid",
+  "telefono": "+34 911 47 49 11",
+  "web": "https://kidsbrain.es/retiro/",
+  "maps": "https://www.google.com/maps/place/?q=place_id:ChIJ-QfjpxAmQg0RX2ottbHfhKw",
+  "rating": 4.3,
+  "opiniones": 6,
+  "horario": [
+   [
+    "Lun",
+    "21:30–0:00"
+   ],
+   [
+    "Mar",
+    "0:00–17:30"
+   ],
+   [
+    "Mié",
+    "9:30–17:30"
+   ],
+   [
+    "Jue",
+    "9:30–17:30"
+   ],
+   [
+    "Vie",
+    "9:30–16:30"
+   ],
+   [
+    "Sáb",
+    "Cerrado"
+   ],
+   [
+    "Dom",
+    "Cerrado"
+   ]
+  ],
+  "lat": 40.403621,
+  "lng": -3.6768158
+ },
+ {
+  "id": "campamento-de-baile-studio11-london",
+  "nombre": "Campamento de Baile «STUDIO11® London»",
+  "categoria": "baile",
+  "campamento": true,
+  "destacado": false,
+  "zona": "Salamanca",
+  "zona_slug": "salamanca",
+  "tipo_zona": "distrito",
+  "direccion": "C. de Antonia Ruiz Soro, 11, Salamanca, 28028 Madrid",
+  "telefono": "+34 910 84 47 06",
+  "web": "https://www.campamentosdebaile.com/",
+  "maps": "https://www.google.com/maps/place/?q=place_id:ChIJZ61FazApQg0RBkYhwsgBMwQ",
+  "rating": 5.0,
+  "opiniones": 5,
+  "horario": [
+   [
+    "Lun",
+    "17:00–22:00"
+   ],
+   [
+    "Mar",
+    "17:00–22:00"
+   ],
+   [
+    "Mié",
+    "17:00–22:00"
+   ],
+   [
+    "Jue",
+    "17:00–22:00"
+   ],
+   [
+    "Vie",
+    "17:00–22:00"
+   ],
+   [
+    "Sáb",
+    "Cerrado"
+   ],
+   [
+    "Dom",
+    "Cerrado"
+   ]
+  ],
+  "lat": 40.4380942,
+  "lng": -3.6664823
+ },
+ {
+  "id": "deportes-cormar",
+  "nombre": "Deportes Cormar",
+  "categoria": "deporte",
+  "campamento": false,
+  "destacado": false,
+  "zona": "Ciudad Lineal",
+  "zona_slug": "ciudad-lineal",
+  "tipo_zona": "distrito",
+  "direccion": "C. de Zigia, 1, Cdad. Lineal, 28027 Madrid",
+  "telefono": "",
+  "web": "",
+  "maps": "https://www.google.com/maps/place/?q=place_id:ChIJ96HR6T4vQg0Rj0zgjlQ8-9k",
+  "rating": 5.0,
+  "opiniones": 3,
+  "horario": [],
+  "lat": 40.4384142,
+  "lng": -3.6458182
+ },
+ {
+  "id": "tweens-teens-by-kids-us-boadilla",
+  "nombre": "Tweens&Teens By Kids&Us Boadilla",
+  "categoria": "ingles",
+  "campamento": false,
+  "destacado": false,
+  "zona": "Boadilla del Monte",
+  "zona_slug": "boadilla-del-monte",
+  "tipo_zona": "municipio",
+  "direccion": "Av. Isabel de Farnesio, 20, 28660 Boadilla del Monte, Madrid",
+  "telefono": "+34 673 81 10 26",
+  "web": "https://www.kidsandus.es/es/academias-ingles/boadilla-monte",
+  "maps": "https://www.google.com/maps/place/?q=place_id:ChIJU6Rf3k2FQQ0REk_aPwKe7ms",
+  "rating": 5.0,
+  "opiniones": 2,
+  "horario": [
+   [
+    "Lun",
+    "16:00–20:30"
+   ],
+   [
+    "Mar",
+    "16:00–20:30"
+   ],
+   [
+    "Mié",
+    "16:00–20:30"
+   ],
+   [
+    "Jue",
+    "16:00–20:30"
+   ],
+   [
+    "Vie",
+    "Cerrado"
+   ],
+   [
+    "Sáb",
+    "Cerrado"
+   ],
+   [
+    "Dom",
+    "Cerrado"
+   ]
+  ],
+  "lat": 40.4013416,
+  "lng": -3.8866663
+ },
+ {
+  "id": "kids-english-club",
+  "nombre": "Kids English Club",
+  "categoria": "ingles",
+  "campamento": true,
+  "destacado": false,
+  "zona": "Barajas",
+  "zona_slug": "barajas",
+  "tipo_zona": "distrito",
+  "direccion": "C. Brezos, 1, Barajas, 28042 Madrid",
+  "telefono": "+34 913 15 21 43",
+  "web": "https://iberenglish.com/web/brezo-osuna/",
+  "maps": "https://www.google.com/maps/place/?q=place_id:ChIJDQ1YahkvQg0RxgFOcbjBmtI",
+  "rating": 3.0,
+  "opiniones": 2,
+  "horario": [
+   [
+    "Lun",
+    "8:30–15:30"
+   ],
+   [
+    "Mar",
+    "8:30–15:30"
+   ],
+   [
+    "Mié",
+    "8:30–15:30"
+   ],
+   [
+    "Jue",
+    "8:30–17:30"
+   ],
+   [
+    "Vie",
+    "8:30–15:30"
+   ],
+   [
+    "Sáb",
+    "Cerrado"
+   ],
+   [
+    "Dom",
+    "Cerrado"
+   ]
+  ],
+  "lat": 40.4610065,
+  "lng": -3.5876856
+ },
+ {
+  "id": "hack-tech-club-de-rob-tica-extraescolares-talleres-campamentos",
+  "nombre": "Hack & Tech / club de robótica, extraescolares, talleres, campamentos",
+  "categoria": "robotica",
+  "campamento": true,
+  "destacado": false,
+  "zona": "Hortaleza",
+  "zona_slug": "hortaleza",
+  "tipo_zona": "distrito",
+  "direccion": "Carr. de Canillas, Nº 142, Hortaleza, 28043 Madrid",
+  "telefono": "+34 910 27 77 37",
+  "web": "",
+  "maps": "https://www.google.com/maps/place/?q=place_id:ChIJ-1NbY4ovQg0RlBi2fd7FN8g",
+  "rating": 5.0,
+  "opiniones": 1,
+  "horario": [
+   [
+    "Lun",
+    "16:30–20:00"
+   ],
+   [
+    "Mar",
+    "16:30–20:00"
+   ],
+   [
+    "Mié",
+    "16:30–20:00"
+   ],
+   [
+    "Jue",
+    "16:30–20:00"
+   ],
+   [
+    "Vie",
+    "16:30–20:00"
+   ],
+   [
+    "Sáb",
+    "Cerrado"
+   ],
+   [
+    "Dom",
+    "Cerrado"
+   ]
+  ],
+  "lat": 40.4650971,
+  "lng": -3.6384316
+ }
 ]

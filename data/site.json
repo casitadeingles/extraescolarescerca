@@ -3,9 +3,14 @@
   "domain": "https://extraescolarescerca.es",
   "tagline": "Academias, extraescolares y campamentos cerca de casa, en Madrid y alrededores",
   "categorias": [
-    { "slug": "academias-ingles", "nombre": "Academias de inglés", "plural": "academias de inglés", "activa": true },
-    { "slug": "baile", "nombre": "Baile", "plural": "escuelas de baile", "activa": false },
-    { "slug": "musica", "nombre": "Música", "plural": "escuelas de música", "activa": false },
-    { "slug": "otros-idiomas", "nombre": "Otros idiomas", "plural": "academias de idiomas", "activa": false }
+    { "slug": "ingles", "url": "academias-ingles", "nombre": "Academias de inglés", "corto": "Inglés", "plural": "academias de inglés", "icono": "🇬🇧" },
+    { "slug": "idiomas", "url": "academias-idiomas", "nombre": "Otros idiomas", "corto": "Idiomas", "plural": "academias de idiomas", "icono": "🌍" },
+    { "slug": "baile", "url": "escuelas-baile", "nombre": "Baile y danza", "corto": "Baile", "plural": "escuelas de baile y danza", "icono": "💃" },
+    { "slug": "musica", "url": "escuelas-musica", "nombre": "Música", "corto": "Música", "plural": "escuelas de música", "icono": "🎵" },
+    { "slug": "arte", "url": "arte-y-teatro", "nombre": "Arte, pintura y teatro", "corto": "Arte", "plural": "talleres de arte y teatro", "icono": "🎨" },
+    { "slug": "robotica", "url": "robotica-programacion", "nombre": "Robótica y programación", "corto": "Robótica", "plural": "academias de robótica y programación", "icono": "🤖" },
+    { "slug": "deporte", "url": "deporte-natacion", "nombre": "Deporte y natación", "corto": "Deporte", "plural": "centros deportivos y de natación", "icono": "⚽" },
+    { "slug": "apoyo-escolar", "url": "apoyo-escolar", "nombre": "Apoyo escolar y clases particulares", "corto": "Apoyo escolar", "plural": "academias de apoyo escolar", "icono": "📚" },
+    { "slug": "extraescolares", "url": "actividades-extraescolares", "nombre": "Empresas de extraescolares", "corto": "Extraescolares", "plural": "empresas de actividades extraescolares", "icono": "🧩" }
   ]
 }

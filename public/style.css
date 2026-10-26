@@ -46,3 +46,21 @@ h2{font-size:1.6rem;margin-top:1.5em}
 .chips{list-style:none;padding:0;display:flex;flex-wrap:wrap;gap:8px}
 .chips a{display:inline-block;padding:6px 14px;background:var(--soft);border-radius:999px;text-decoration:none;color:var(--ink);font-weight:600}
 .foot{border-top:1px solid var(--line);padding:28px 0;margin-top:40px;background:#fff;font-size:.95rem}
+.tile .ico{font-size:1.6rem}
+.chips span{display:inline-block;margin-left:4px;font-size:.8rem;color:var(--muted);font-weight:700}
+.rating{display:block;font-weight:700;color:#b7791f;margin-bottom:.3em}
+.tag{display:inline-block;font-size:.8rem;font-weight:700;background:var(--soft);padding:2px 10px;border-radius:999px;margin-bottom:6px}
+.actions{display:flex;gap:8px;flex-wrap:wrap;margin-top:12px}
+.btn-sm{padding:7px 16px;font-size:.9rem}
+.card h3{font-size:1.15rem}
+details{margin:.4em 0;font-size:.92rem}
+summary{cursor:pointer;color:var(--accent-2);font-weight:600}
+.hours{list-style:none;padding:6px 0 0;margin:0}
+.hours li{display:flex;gap:10px;color:var(--muted)}
+.hours li span{width:36px;font-weight:700;color:var(--ink)}
+.more{margin-top:20px;font-weight:700}
+.foot-grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(220px,1fr));gap:24px}
+.foot ul{list-style:none;padding:0;margin:.4em 0 0}
+.foot li{padding:2px 0}
+.foot a{color:var(--ink);text-decoration:none}
+.small{font-size:.85rem;margin-top:20px}
