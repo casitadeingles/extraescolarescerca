@@ -10,6 +10,60 @@
       "fechas": "Verano (junio–julio). Consulta fechas en cada sede."
     },
     {
+      "id": "british-council-summer-plus",
+      "privado": true,
+      "nombre": "British Council · Summer Plus",
+      "web": "https://www.britishcouncil.es",
+      "resumen": "Cursos de verano en inglés con actividades por edades (cocina, Minecraft Education, teatro, film-making…), en formato intensivo o de día completo con comedor y ruta.",
+      "donde": "Chamberí (Pº General Martínez Campos 31), Somosaguas (Pozuelo) y Las Rozas",
+      "edades": "4 a 17 años",
+      "idioma": "En inglés",
+      "fechas": "Verano, por semanas o mes completo"
+    },
+    {
+      "id": "kidsandus-summer-fun",
+      "privado": true,
+      "nombre": "Kids&Us · Summer Fun",
+      "web": "https://www.kidsandus.es/en-es/activities-english-children/camps/summer/",
+      "resumen": "Campamento urbano en inglés con un tema distinto cada semana, cuentos, manualidades, canciones y excursión semanal, en grupos de máximo 10 niños por profesor.",
+      "donde": "En colegios o centros deportivos cercanos a cada escuela Kids&Us (varias zonas de Madrid)",
+      "edades": "3 a 12 años",
+      "idioma": "En inglés",
+      "fechas": "Vacaciones de verano, normalmente de 9:00 a 17:00"
+    },
+    {
+      "id": "number16-summer-camp",
+      "privado": true,
+      "nombre": "Number 16 School · Summer Camp",
+      "web": "https://number16.com/es/cursos-de-ingles-ninos/campamentos-urbanos/verano",
+      "resumen": "Campamento urbano de inmersión en inglés con profesores nativos y grupos reducidos, centrado en la conversación y el aprendizaje a través del juego.",
+      "donde": "Alonso Martínez, Nuevos Ministerios y Argüelles",
+      "edades": "3 a 12 años",
+      "idioma": "En inglés",
+      "fechas": "Junio, julio y agosto, de 9:00 a 14:00"
+    },
+    {
+      "id": "ih-madrid-funtastic-summer",
+      "privado": true,
+      "nombre": "International House Madrid · Fun-tastic Summer",
+      "web": "https://www.ihmadrid.com",
+      "resumen": "Campamento urbano en inglés con juegos, teatro, cuentos, manualidades y música, con horario ampliado opcional de 8:00 a 17:00.",
+      "donde": "International House Madrid",
+      "edades": "4 a 12 años",
+      "idioma": "En inglés",
+      "fechas": "Finales de junio a finales de julio, de 9:00 a 14:00"
+    },
+    {
+      "id": "clubs-complete-ics",
+      "privado": true,
+      "nombre": "Clubs Complete · International College Spain",
+      "web": "https://www.nordangliaeducation.com/ics-madrid/outstanding-experiences/summer-camps",
+      "resumen": "Campamento de día organizado por Clubs Complete en el campus del colegio internacional, con horario de 9:00 a 16:00 o 17:00.",
+      "donde": "Campus de International College Spain (La Moraleja, Alcobendas)",
+      "edades": "2 a 11 años",
+      "fechas": "Finales de junio a mediados de julio"
+    },
+    {
       "id": "campamento-municipal-retiro",
       "zona": "Retiro (Madrid)",
       "nombre": "Campamento urbano municipal del Distrito de Retiro",

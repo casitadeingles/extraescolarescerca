@@ -226,8 +226,10 @@ function campPage(rel, tipo, h1, lead, description, extra = []) {
 <section class="wrap block">
   <h1>${esc(h1)}</h1>
   <p class="lead">${esc(lead)}</p>
-  <div class="cards">${campamentos[tipo].filter((c) => !c.zona).map(campCard).join('')}</div>
-  ${[...new Set(campamentos[tipo].filter((c) => c.zona).map((c) => c.zona))].map((z) => `<h2>${esc(z)}</h2><div class="cards">${campamentos[tipo].filter((c) => c.zona === z).map(campCard).join('')}</div>`).join('')}
+  <div class="cards">${campamentos[tipo].filter((c) => !c.zona && !c.privado).map(campCard).join('')}</div>
+  ${campamentos[tipo].some((c) => c.privado) ? `<h2>Academias y empresas con campamento urbano</h2><div class="cards">${campamentos[tipo].filter((c) => c.privado).map(campCard).join('')}</div>` : ''}
+  ${campamentos[tipo].some((c) => c.zona) ? '<h2>Más campamentos por zona</h2>' : ''}
+  ${[...new Set(campamentos[tipo].filter((c) => c.zona).map((c) => c.zona))].map((z) => `<h3 class="zona-h">${esc(z)}</h3><div class="cards">${campamentos[tipo].filter((c) => c.zona === z).map(campCard).join('')}</div>`).join('')}
   ${extra.length ? `<h2>Otros organizadores de campamentos</h2><div class="cards">${extra.map((x) => card(x, { mostrarCat: true })).join('')}</div>` : ''}
   <p class="muted note">¿Organizas un campamento? Escríbenos para aparecer en el directorio.</p>
 </section>`
