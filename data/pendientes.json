@@ -168,7 +168,8 @@
   "veces": 1,
   "actividad": null,
   "zonas": null,
-  "estado": "pendiente"
+  "estado": "descartado",
+  "motivo": "No es una extraescolar para niños"
  },
  {
   "nombre": "Local Eventos Celebraciones Cumpleaños Ojo Loco",
@@ -177,7 +178,8 @@
   "veces": 1,
   "actividad": null,
   "zonas": null,
-  "estado": "pendiente"
+  "estado": "descartado",
+  "motivo": "No es una extraescolar para niños"
  },
  {
   "nombre": "Campamentos Aventurama",
@@ -222,7 +224,8 @@
   "veces": 1,
   "actividad": "Robótica y programación",
   "zonas": "Chamberí",
-  "estado": "pendiente"
+  "estado": "descartado",
+  "motivo": "No es una extraescolar para niños"
  },
  {
   "nombre": "Centro de Ocio y Deporte Tercer Depósito Canal de Isabel II",
@@ -249,7 +252,8 @@
   "veces": 1,
   "actividad": "Deporte y natación",
   "zonas": "Centro",
-  "estado": "pendiente"
+  "estado": "descartado",
+  "motivo": "No es una extraescolar para niños"
  },
  {
   "nombre": "Academy don Quijote",
@@ -303,7 +307,8 @@
   "veces": 1,
   "actividad": "Otros idiomas",
   "zonas": "Chamberí",
-  "estado": "pendiente"
+  "estado": "descartado",
+  "motivo": "No es una extraescolar para niños"
  },
  {
   "nombre": "Randori Sport Group",
