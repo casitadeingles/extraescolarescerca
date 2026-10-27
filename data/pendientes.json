@@ -1,0 +1,4079 @@
+[
+ {
+  "nombre": "Academia CIMA",
+  "rating": 5,
+  "opiniones": 314,
+  "veces": 1,
+  "actividad": "Apoyo escolar y clases particulares",
+  "zonas": "Majadahonda",
+  "estado": "pendiente"
+ },
+ {
+  "nombre": "Premiumdance Clases De Salsa y Bachata",
+  "rating": 5,
+  "opiniones": 623,
+  "veces": 1,
+  "actividad": "Baile y danza",
+  "zonas": "Centro",
+  "estado": "pendiente"
+ },
+ {
+  "nombre": "Academia Balance",
+  "rating": 5,
+  "opiniones": 1070,
+  "veces": 1,
+  "actividad": "Robótica y programación",
+  "zonas": "Chamberí",
+  "estado": "pendiente"
+ },
+ {
+  "nombre": "EEI English Examination Institute",
+  "rating": 5,
+  "opiniones": 416,
+  "veces": 1,
+  "actividad": "Academias de inglés",
+  "zonas": "Chamartín",
+  "estado": "pendiente"
+ },
+ {
+  "nombre": "Evolution Dance School Escuela de Baile Madrid",
+  "rating": 4.9,
+  "opiniones": 263,
+  "veces": 5,
+  "actividad": "Baile y danza",
+  "zonas": "Centro, Chamartín, Chamberí, Salamanca",
+  "estado": "pendiente"
+ },
+ {
+  "nombre": "ULIC CENTRE",
+  "rating": 4.9,
+  "opiniones": 271,
+  "veces": 3,
+  "actividad": "Academias de inglés",
+  "zonas": "Chamberí, Moncloa-Aravaca",
+  "estado": "pendiente"
+ },
+ {
+  "nombre": "English Connection Academia de Inglés - Leganés centro",
+  "rating": 4.9,
+  "opiniones": 244,
+  "veces": 2,
+  "actividad": "Academias de inglés",
+  "zonas": "Chamberí, Leganés",
+  "estado": "pendiente"
+ },
+ {
+  "nombre": "ACADEMIA AVENIDA REINA SOFIA 32, S.L.",
+  "rating": 4.9,
+  "opiniones": 249,
+  "veces": 2,
+  "actividad": "Academias de inglés",
+  "zonas": "Chamberí, Leganés",
+  "estado": "pendiente"
+ },
+ {
+  "nombre": "Dancing Boulevard",
+  "rating": 4.9,
+  "opiniones": 270,
+  "veces": 1,
+  "actividad": "Baile y danza",
+  "zonas": "Fuencarral-El Pardo",
+  "estado": "pendiente"
+ },
+ {
+  "nombre": "Academia mundoestudiante Pozuelo",
+  "rating": 4.9,
+  "opiniones": 217,
+  "veces": 1,
+  "actividad": "Apoyo escolar y clases particulares",
+  "zonas": "Pozuelo de Alarcón",
+  "estado": "pendiente"
+ },
+ {
+  "nombre": "Marta Cerámica",
+  "rating": 4.9,
+  "opiniones": 281,
+  "veces": 1,
+  "actividad": "Arte, pintura y teatro",
+  "zonas": "Centro",
+  "estado": "pendiente"
+ },
+ {
+  "nombre": "Academia de Portugués en Madrid | Agoralíngua",
+  "rating": 4.9,
+  "opiniones": 228,
+  "veces": 1,
+  "actividad": "Otros idiomas",
+  "zonas": "Arganzuela",
+  "estado": "pendiente"
+ },
+ {
+  "nombre": "English Connection🔴 Academia de Inglés - Getafe Centro",
+  "rating": 4.8,
+  "opiniones": 203,
+  "veces": 4,
+  "actividad": "Academias de inglés",
+  "zonas": "Chamberí, Getafe",
+  "estado": "pendiente"
+ },
+ {
+  "nombre": "WOSAP Dance School",
+  "rating": 4.8,
+  "opiniones": 497,
+  "veces": 3,
+  "actividad": "Baile y danza",
+  "zonas": "Centro, Salamanca",
+  "estado": "pendiente"
+ },
+ {
+  "nombre": "Salsabachata Sol",
+  "rating": 4.8,
+  "opiniones": 622,
+  "veces": 2,
+  "actividad": "Baile y danza",
+  "zonas": "Centro, Retiro",
+  "estado": "pendiente"
+ },
+ {
+  "nombre": "Aventurarte",
+  "rating": 4.8,
+  "opiniones": 227,
+  "veces": 2,
+  "actividad": "Arte, pintura y teatro",
+  "zonas": "Chamartín",
+  "estado": "pendiente"
+ },
+ {
+  "nombre": "J.E. 2000 SA",
+  "rating": 4.8,
+  "opiniones": 314,
+  "veces": 2,
+  "actividad": "Academias de inglés",
+  "zonas": "Fuencarral-El Pardo",
+  "estado": "pendiente"
+ },
+ {
+  "nombre": "Curso Genius Madrid",
+  "rating": 4.8,
+  "opiniones": 641,
+  "veces": 1,
+  "actividad": "Robótica y programación",
+  "zonas": "Centro",
+  "estado": "pendiente"
+ },
+ {
+  "nombre": "Divertilandia kids S.L.U",
+  "rating": 4.8,
+  "opiniones": 461,
+  "veces": 1,
+  "actividad": null,
+  "zonas": null,
+  "estado": "pendiente"
+ },
+ {
+  "nombre": "Local Eventos Celebraciones Cumpleaños Ojo Loco",
+  "rating": 4.8,
+  "opiniones": 392,
+  "veces": 1,
+  "actividad": null,
+  "zonas": null,
+  "estado": "pendiente"
+ },
+ {
+  "nombre": "Campamentos Aventurama",
+  "rating": 4.8,
+  "opiniones": 321,
+  "veces": 1,
+  "actividad": "Empresas de extraescolares",
+  "zonas": "Chamartín",
+  "estado": "pendiente"
+ },
+ {
+  "nombre": "Aula inglés Academy",
+  "rating": 4.7,
+  "opiniones": 613,
+  "veces": 1,
+  "actividad": "Academias de inglés",
+  "zonas": "Ciudad Lineal",
+  "estado": "pendiente"
+ },
+ {
+  "nombre": "Cursos de Teatro El Almadén + de 25 Años de Emoción",
+  "rating": 4.9,
+  "opiniones": 189,
+  "veces": 1,
+  "actividad": "Música",
+  "zonas": "Centro",
+  "estado": "pendiente"
+ },
+ {
+  "nombre": "Cambridge Institute",
+  "rating": 4.6,
+  "opiniones": 338,
+  "veces": 4,
+  "actividad": "Academias de inglés",
+  "zonas": "Arganzuela, Barajas, Chamartín",
+  "estado": "pendiente"
+ },
+ {
+  "nombre": "Paraninfo Universidad Complutense de Madrid",
+  "rating": 4.6,
+  "opiniones": 284,
+  "veces": 1,
+  "actividad": "Robótica y programación",
+  "zonas": "Chamberí",
+  "estado": "pendiente"
+ },
+ {
+  "nombre": "Centro de Ocio y Deporte Tercer Depósito Canal de Isabel II",
+  "rating": 4.5,
+  "opiniones": 1254,
+  "veces": 1,
+  "actividad": "Deporte y natación",
+  "zonas": "Chamberí",
+  "estado": "pendiente"
+ },
+ {
+  "nombre": "Retiro Magic | Actividades al aire libre Madrid | Alquiler Karts, Bicicletas... | Tours Segway, Bicicleta...",
+  "rating": 4.5,
+  "opiniones": 641,
+  "veces": 1,
+  "actividad": "Empresas de extraescolares",
+  "zonas": "Retiro",
+  "estado": "pendiente"
+ },
+ {
+  "nombre": "Pool Bahia Madrid",
+  "rating": 4.5,
+  "opiniones": 292,
+  "veces": 1,
+  "actividad": "Deporte y natación",
+  "zonas": "Centro",
+  "estado": "pendiente"
+ },
+ {
+  "nombre": "Academy don Quijote",
+  "rating": 4.5,
+  "opiniones": 252,
+  "veces": 1,
+  "actividad": null,
+  "zonas": null,
+  "estado": "pendiente"
+ },
+ {
+  "nombre": "TEATRO MUSICAL IMPRO",
+  "rating": 5,
+  "opiniones": 178,
+  "veces": 1,
+  "actividad": "Música",
+  "zonas": "Centro",
+  "estado": "pendiente"
+ },
+ {
+  "nombre": "Wall Street English Madrid Cea Bermúdez - Chamberí",
+  "rating": 4.4,
+  "opiniones": 215,
+  "veces": 6,
+  "actividad": "Academias de inglés",
+  "zonas": "Centro, Chamartín, Chamberí",
+  "estado": "pendiente"
+ },
+ {
+  "nombre": "Nuclio Digital School Madrid",
+  "rating": 4.4,
+  "opiniones": 283,
+  "veces": 1,
+  "actividad": "Robótica y programación",
+  "zonas": "Centro",
+  "estado": "pendiente"
+ },
+ {
+  "nombre": "Tercer Depósito Park",
+  "rating": 4.4,
+  "opiniones": 3045,
+  "veces": 1,
+  "actividad": null,
+  "zonas": null,
+  "estado": "pendiente"
+ },
+ {
+  "nombre": "Autoescuela Montero Espinosa",
+  "rating": 4.9,
+  "opiniones": 179,
+  "veces": 1,
+  "actividad": "Otros idiomas",
+  "zonas": "Chamberí",
+  "estado": "pendiente"
+ },
+ {
+  "nombre": "Randori Sport Group",
+  "rating": 4.9,
+  "opiniones": 177,
+  "veces": 1,
+  "actividad": "Deporte y natación",
+  "zonas": "Ciudad Lineal",
+  "estado": "pendiente"
+ },
+ {
+  "nombre": "La Casita De Mon Petit Monde",
+  "rating": 4.3,
+  "opiniones": 406,
+  "veces": 1,
+  "actividad": "Arte, pintura y teatro",
+  "zonas": "Ciudad Lineal",
+  "estado": "pendiente"
+ },
+ {
+  "nombre": "Complejo Deportivo Juan Antonio Samaranch",
+  "rating": 4.2,
+  "opiniones": 499,
+  "veces": 1,
+  "actividad": "Deporte y natación",
+  "zonas": "Arganzuela",
+  "estado": "pendiente"
+ },
+ {
+  "nombre": "Polideportivo Municipal Gallur",
+  "rating": 4.2,
+  "opiniones": 2561,
+  "veces": 1,
+  "actividad": "Deporte y natación",
+  "zonas": "Arganzuela",
+  "estado": "pendiente"
+ },
+ {
+  "nombre": "Ciudad Deportiva Juan Antonio Samaranch",
+  "rating": 4.2,
+  "opiniones": 1007,
+  "veces": 1,
+  "actividad": "Deporte y natación",
+  "zonas": "Arganzuela",
+  "estado": "pendiente"
+ },
+ {
+  "nombre": "CityPlay Kids",
+  "rating": 4.1,
+  "opiniones": 243,
+  "veces": 1,
+  "actividad": null,
+  "zonas": null,
+  "estado": "pendiente"
+ },
+ {
+  "nombre": "Centro Deportivo M86",
+  "rating": 4,
+  "opiniones": 1883,
+  "veces": 1,
+  "actividad": "Deporte y natación",
+  "zonas": "Retiro",
+  "estado": "pendiente"
+ },
+ {
+  "nombre": "Centro Deportivo Municipal Daoiz and Velarde 1",
+  "rating": 4,
+  "opiniones": 1646,
+  "veces": 1,
+  "actividad": "Deporte y natación",
+  "zonas": "Retiro",
+  "estado": "pendiente"
+ },
+ {
+  "nombre": "Piscina pública",
+  "rating": 3.9,
+  "opiniones": 2384,
+  "veces": 2,
+  "actividad": "Deporte y natación",
+  "zonas": "Centro",
+  "estado": "pendiente"
+ },
+ {
+  "nombre": "English Connection - School of English Legazpi",
+  "rating": 4.9,
+  "opiniones": 159,
+  "veces": 4,
+  "actividad": "Academias de inglés",
+  "zonas": "Arganzuela, Carabanchel",
+  "estado": "pendiente"
+ },
+ {
+  "nombre": "Glow Up- Pole Studio Legazpi",
+  "rating": 4.9,
+  "opiniones": 159,
+  "veces": 1,
+  "actividad": "Baile y danza",
+  "zonas": "Centro",
+  "estado": "pendiente"
+ },
+ {
+  "nombre": "La Dinamo Creativa. Academia de dibujo y pintura, en Madrid.",
+  "rating": 4.8,
+  "opiniones": 160,
+  "veces": 3,
+  "actividad": "Arte, pintura y teatro",
+  "zonas": "Chamberí, Salamanca, Tetuán",
+  "estado": "pendiente"
+ },
+ {
+  "nombre": "Centro Deportivo Municipal Forus Barceló",
+  "rating": 3.8,
+  "opiniones": 1024,
+  "veces": 2,
+  "actividad": "Deporte y natación",
+  "zonas": "Centro",
+  "estado": "pendiente"
+ },
+ {
+  "nombre": "Leisure and Sports Canal",
+  "rating": 3.7,
+  "opiniones": 372,
+  "veces": 2,
+  "actividad": "Deporte y natación",
+  "zonas": "Chamberí",
+  "estado": "pendiente"
+ },
+ {
+  "nombre": "Municipal Sports Center Gymnasium Moscardó",
+  "rating": 3.7,
+  "opiniones": 779,
+  "veces": 1,
+  "actividad": "Deporte y natación",
+  "zonas": "Salamanca",
+  "estado": "pendiente"
+ },
+ {
+  "nombre": "La Pátina Taller",
+  "rating": 5,
+  "opiniones": 145,
+  "veces": 1,
+  "actividad": "Arte, pintura y teatro",
+  "zonas": "Ciudad Lineal",
+  "estado": "pendiente"
+ },
+ {
+  "nombre": "Online Speaking",
+  "rating": 4.9,
+  "opiniones": 145,
+  "veces": 1,
+  "actividad": "Apoyo escolar y clases particulares",
+  "zonas": "Centro",
+  "estado": "pendiente"
+ },
+ {
+  "nombre": "Madrid Royal Conservatory",
+  "rating": 4.2,
+  "opiniones": 168,
+  "veces": 1,
+  "actividad": "Música",
+  "zonas": "Centro",
+  "estado": "pendiente"
+ },
+ {
+  "nombre": "Piscina de Verano M86",
+  "rating": 3.7,
+  "opiniones": 189,
+  "veces": 1,
+  "actividad": "Deporte y natación",
+  "zonas": "Retiro",
+  "estado": "pendiente"
+ },
+ {
+  "nombre": "Baile de Salón José Ignacio | Escuela de Baile en Madrid",
+  "rating": 4.9,
+  "opiniones": 140,
+  "veces": 3,
+  "actividad": "Baile y danza",
+  "zonas": "Chamberí, Retiro",
+  "estado": "pendiente"
+ },
+ {
+  "nombre": "Centro Deportivo Municipal Peñuelas",
+  "rating": 3.4,
+  "opiniones": 1134,
+  "veces": 3,
+  "actividad": "Deporte y natación",
+  "zonas": "Centro, Chamberí",
+  "estado": "pendiente"
+ },
+ {
+  "nombre": "PAPELERIA MONTECARMELO",
+  "rating": 3.4,
+  "opiniones": 350,
+  "veces": 1,
+  "actividad": "Academias de inglés",
+  "zonas": "Fuencarral-El Pardo",
+  "estado": "pendiente"
+ },
+ {
+  "nombre": "Piscina Barrio Pilar",
+  "rating": 3.4,
+  "opiniones": 254,
+  "veces": 1,
+  "actividad": "Deporte y natación",
+  "zonas": "Salamanca",
+  "estado": "pendiente"
+ },
+ {
+  "nombre": "RIO ACADEMY English Center and School Support",
+  "rating": 4.9,
+  "opiniones": 138,
+  "veces": 1,
+  "actividad": "Apoyo escolar y clases particulares",
+  "zonas": "Leganés",
+  "estado": "pendiente"
+ },
+ {
+  "nombre": "English Connection Academia de Inglés - Madrid Cuatro Caminos",
+  "rating": 4.9,
+  "opiniones": 138,
+  "veces": 1,
+  "actividad": "Academias de inglés",
+  "zonas": "Tetuán",
+  "estado": "pendiente"
+ },
+ {
+  "nombre": "Escuela Atlántida",
+  "rating": 5,
+  "opiniones": 130,
+  "veces": 1,
+  "actividad": "Apoyo escolar y clases particulares",
+  "zonas": "Majadahonda",
+  "estado": "pendiente"
+ },
+ {
+  "nombre": "EOI San Blas",
+  "rating": 4.2,
+  "opiniones": 154,
+  "veces": 3,
+  "actividad": "Otros idiomas",
+  "zonas": "Barajas, Centro, Pozuelo de Alarcón",
+  "estado": "pendiente"
+ },
+ {
+  "nombre": "Espacio Irie",
+  "rating": 5,
+  "opiniones": 126,
+  "veces": 2,
+  "actividad": "Baile y danza",
+  "zonas": "Arganzuela, Centro",
+  "estado": "pendiente"
+ },
+ {
+  "nombre": "European Idiomas",
+  "rating": 4.8,
+  "opiniones": 130,
+  "veces": 1,
+  "actividad": "Academias de inglés",
+  "zonas": "Getafe",
+  "estado": "pendiente"
+ },
+ {
+  "nombre": "Fransdance",
+  "rating": 4.9,
+  "opiniones": 127,
+  "veces": 2,
+  "actividad": "Baile y danza",
+  "zonas": "Fuencarral-El Pardo",
+  "estado": "pendiente"
+ },
+ {
+  "nombre": "Academia Yo Bailo Laura Daganzo",
+  "rating": 4.9,
+  "opiniones": 126,
+  "veces": 1,
+  "actividad": "Baile y danza",
+  "zonas": "Retiro",
+  "estado": "pendiente"
+ },
+ {
+  "nombre": "EDUCAVENTURA TRAINING AND LEISURE",
+  "rating": 4.5,
+  "opiniones": 135,
+  "veces": 2,
+  "actividad": "Empresas de extraescolares",
+  "zonas": "Chamartín",
+  "estado": "pendiente"
+ },
+ {
+  "nombre": "Mary & English",
+  "rating": 4.9,
+  "opiniones": 123,
+  "veces": 1,
+  "actividad": "Academias de inglés",
+  "zonas": "Leganés",
+  "estado": "pendiente"
+ },
+ {
+  "nombre": "Noba Danza Studio",
+  "rating": 4.9,
+  "opiniones": 123,
+  "veces": 1,
+  "actividad": "Baile y danza",
+  "zonas": "Puente de Vallecas",
+  "estado": "pendiente"
+ },
+ {
+  "nombre": "English Connection Academia de Inglés - Boadilla del Monte",
+  "rating": 4.8,
+  "opiniones": 125,
+  "veces": 4,
+  "actividad": "Otros idiomas",
+  "zonas": "Boadilla del Monte",
+  "estado": "pendiente"
+ },
+ {
+  "nombre": "ACADEMIAS ENTELEQUIA.Centro multidisciplinar de formación y conducta.",
+  "rating": 5,
+  "opiniones": 119,
+  "veces": 1,
+  "actividad": "Academias de inglés",
+  "zonas": "Leganés",
+  "estado": "pendiente"
+ },
+ {
+  "nombre": "Kids&Us - School of English",
+  "rating": 4.8,
+  "opiniones": 122,
+  "veces": 1,
+  "actividad": "Academias de inglés",
+  "zonas": "Fuencarral-El Pardo",
+  "estado": "pendiente"
+ },
+ {
+  "nombre": "TEC School of Inglés",
+  "rating": 4.9,
+  "opiniones": 118,
+  "veces": 3,
+  "actividad": "Academias de inglés",
+  "zonas": "Alcobendas",
+  "estado": "pendiente"
+ },
+ {
+  "nombre": "Flow escuela de baile y pole dance EN MADRID",
+  "rating": 4.4,
+  "opiniones": 131,
+  "veces": 2,
+  "actividad": "Baile y danza",
+  "zonas": "Chamartín, Tetuán",
+  "estado": "pendiente"
+ },
+ {
+  "nombre": "ACADEMIA LopezdeHoyos190",
+  "rating": 4.7,
+  "opiniones": 122,
+  "veces": 1,
+  "actividad": "Robótica y programación",
+  "zonas": "Retiro",
+  "estado": "pendiente"
+ },
+ {
+  "nombre": "The Bridge Academia en Madrid",
+  "rating": 4.9,
+  "opiniones": 117,
+  "veces": 3,
+  "actividad": "Academias de inglés",
+  "zonas": "Arganzuela, Barajas, Centro",
+  "estado": "pendiente"
+ },
+ {
+  "nombre": "⭐Centro de Estudios Luis Vives Sol",
+  "rating": 4.8,
+  "opiniones": 118,
+  "veces": 1,
+  "actividad": "Otros idiomas",
+  "zonas": "Centro",
+  "estado": "pendiente"
+ },
+ {
+  "nombre": "Central Pole",
+  "rating": 4.9,
+  "opiniones": 115,
+  "veces": 1,
+  "actividad": "Baile y danza",
+  "zonas": "Centro",
+  "estado": "pendiente"
+ },
+ {
+  "nombre": "That's English! Carabanchel",
+  "rating": 4.1,
+  "opiniones": 137,
+  "veces": 1,
+  "actividad": "Academias de inglés",
+  "zonas": "Carabanchel",
+  "estado": "pendiente"
+ },
+ {
+  "nombre": "Escuela de Ajedrez | La Armonía de Vivir",
+  "rating": 5,
+  "opiniones": 111,
+  "veces": 1,
+  "actividad": "Música",
+  "zonas": "Salamanca",
+  "estado": "pendiente"
+ },
+ {
+  "nombre": "MATRONATACION y CLASES NATACION INFANTIL LA BRUJULA",
+  "rating": 4.4,
+  "opiniones": 125,
+  "veces": 1,
+  "actividad": "Deporte y natación",
+  "zonas": "Chamartín",
+  "estado": "pendiente"
+ },
+ {
+  "nombre": "Escuela de Pintura y Dibujo | El Taller del Aire 🔹️ARC Approved® school",
+  "rating": 5,
+  "opiniones": 109,
+  "veces": 4,
+  "actividad": "Arte, pintura y teatro",
+  "zonas": "Chamartín, Chamberí, Ciudad Lineal, Salamanca",
+  "estado": "pendiente"
+ },
+ {
+  "nombre": "Action Piano Music School",
+  "rating": 5,
+  "opiniones": 106,
+  "veces": 1,
+  "actividad": "Música",
+  "zonas": "Chamberí",
+  "estado": "pendiente"
+ },
+ {
+  "nombre": "EducaChild Carabanchel",
+  "rating": 4.9,
+  "opiniones": 108,
+  "veces": 1,
+  "actividad": "Academias de inglés",
+  "zonas": "Leganés",
+  "estado": "pendiente"
+ },
+ {
+  "nombre": "LV dance school Dance",
+  "rating": 5,
+  "opiniones": 105,
+  "veces": 3,
+  "actividad": "Baile y danza",
+  "zonas": "Chamartín, Salamanca, Tetuán",
+  "estado": "pendiente"
+ },
+ {
+  "nombre": "Centro Deportivo Cultural Delicias",
+  "rating": 4.3,
+  "opiniones": 122,
+  "veces": 1,
+  "actividad": "Deporte y natación",
+  "zonas": "Retiro",
+  "estado": "pendiente"
+ },
+ {
+  "nombre": "EOI Business School",
+  "rating": 4.2,
+  "opiniones": 124,
+  "veces": 1,
+  "actividad": "Otros idiomas",
+  "zonas": "Centro",
+  "estado": "pendiente"
+ },
+ {
+  "nombre": "Duque Global Teaching",
+  "rating": 5,
+  "opiniones": 101,
+  "veces": 3,
+  "actividad": "Academias de inglés",
+  "zonas": "Alcobendas",
+  "estado": "pendiente"
+ },
+ {
+  "nombre": "Chikis Park",
+  "rating": 4.9,
+  "opiniones": 103,
+  "veces": 1,
+  "actividad": null,
+  "zonas": null,
+  "estado": "pendiente"
+ },
+ {
+  "nombre": "La Veleta | Academia de Dibujo y Pintura en Madrid",
+  "rating": 4.9,
+  "opiniones": 102,
+  "veces": 2,
+  "actividad": "Arte, pintura y teatro",
+  "zonas": "Chamberí, Salamanca",
+  "estado": "pendiente"
+ },
+ {
+  "nombre": "Academia de Pintura Presencial y Online DeCinti Villalón",
+  "rating": 5,
+  "opiniones": 99,
+  "veces": 3,
+  "actividad": "Arte, pintura y teatro",
+  "zonas": "Centro, Chamberí, Moncloa-Aravaca",
+  "estado": "pendiente"
+ },
+ {
+  "nombre": "Clubhaus Kaiser la escuela de alemán",
+  "rating": 4.3,
+  "opiniones": 114,
+  "veces": 2,
+  "actividad": "Otros idiomas",
+  "zonas": "Arganzuela, Centro",
+  "estado": "pendiente"
+ },
+ {
+  "nombre": "English Plus | Academia de Inglés en Madrid",
+  "rating": 4.3,
+  "opiniones": 112,
+  "veces": 1,
+  "actividad": "Academias de inglés",
+  "zonas": "Salamanca",
+  "estado": "pendiente"
+ },
+ {
+  "nombre": "ANUADANCE",
+  "rating": 4.5,
+  "opiniones": 106,
+  "veces": 1,
+  "actividad": "Baile y danza",
+  "zonas": "Carabanchel",
+  "estado": "pendiente"
+ },
+ {
+  "nombre": "Aquí Se Baila A Lo Cubano",
+  "rating": 5,
+  "opiniones": 95,
+  "veces": 1,
+  "actividad": "Baile y danza",
+  "zonas": "Arganzuela",
+  "estado": "pendiente"
+ },
+ {
+  "nombre": "Escuela de Baile MADRID 47",
+  "rating": 4.9,
+  "opiniones": 95,
+  "veces": 2,
+  "actividad": "Baile y danza",
+  "zonas": "Salamanca",
+  "estado": "pendiente"
+ },
+ {
+  "nombre": "School of Dance, Fitness Boutique by Pilar Rivas",
+  "rating": 4.8,
+  "opiniones": 94,
+  "veces": 1,
+  "actividad": "Baile y danza",
+  "zonas": "Puente de Vallecas",
+  "estado": "pendiente"
+ },
+ {
+  "nombre": "Official School of Languages ​​of Rozas",
+  "rating": 4.3,
+  "opiniones": 104,
+  "veces": 1,
+  "actividad": "Otros idiomas",
+  "zonas": "Majadahonda",
+  "estado": "pendiente"
+ },
+ {
+  "nombre": "Stylo Dance Studio",
+  "rating": 5,
+  "opiniones": 89,
+  "veces": 2,
+  "actividad": "Baile y danza",
+  "zonas": "Chamberí",
+  "estado": "pendiente"
+ },
+ {
+  "nombre": "Kids&Us Aluche- Inglés para niños",
+  "rating": 5,
+  "opiniones": 88,
+  "veces": 3,
+  "actividad": "Academias de inglés",
+  "zonas": "Fuencarral-El Pardo, Pozuelo de Alarcón",
+  "estado": "pendiente"
+ },
+ {
+  "nombre": "El Estudio Escuela de Dibujo y Pintura",
+  "rating": 4.8,
+  "opiniones": 91,
+  "veces": 5,
+  "actividad": "Arte, pintura y teatro",
+  "zonas": "Arganzuela, Carabanchel, Centro, Chamartín, Salamanca",
+  "estado": "pendiente"
+ },
+ {
+  "nombre": "Escuela Infantil Nemomarlin Arturo Soria/Conde Orgaz",
+  "rating": 4.9,
+  "opiniones": 89,
+  "veces": 1,
+  "actividad": null,
+  "zonas": null,
+  "estado": "pendiente"
+ },
+ {
+  "nombre": "Dream & Dance",
+  "rating": 5,
+  "opiniones": 87,
+  "veces": 1,
+  "actividad": "Baile y danza",
+  "zonas": "Retiro",
+  "estado": "pendiente"
+ },
+ {
+  "nombre": "The Workshop Madrid",
+  "rating": 4.7,
+  "opiniones": 92,
+  "veces": 1,
+  "actividad": "Arte, pintura y teatro",
+  "zonas": "Centro",
+  "estado": "pendiente"
+ },
+ {
+  "nombre": "Escuela Infantil Nemomarlin Sanchinarro",
+  "rating": 5,
+  "opiniones": 86,
+  "veces": 1,
+  "actividad": null,
+  "zonas": null,
+  "estado": "pendiente"
+ },
+ {
+  "nombre": "REVELS Dance Studio",
+  "rating": 4.8,
+  "opiniones": 88,
+  "veces": 1,
+  "actividad": "Baile y danza",
+  "zonas": "Retiro",
+  "estado": "pendiente"
+ },
+ {
+  "nombre": "Dame2Salsa - Salsa cubana en Madrid",
+  "rating": 5,
+  "opiniones": 84,
+  "veces": 1,
+  "actividad": "Baile y danza",
+  "zonas": "Moncloa-Aravaca",
+  "estado": "pendiente"
+ },
+ {
+  "nombre": "ceramicarte.",
+  "rating": 4.9,
+  "opiniones": 84,
+  "veces": 1,
+  "actividad": "Arte, pintura y teatro",
+  "zonas": "Centro",
+  "estado": "pendiente"
+ },
+ {
+  "nombre": "Proyecto a Salvo",
+  "rating": 5,
+  "opiniones": 82,
+  "veces": 2,
+  "actividad": "Deporte y natación",
+  "zonas": "Centro, Chamartín",
+  "estado": "pendiente"
+ },
+ {
+  "nombre": "CENTRO DE ESTUDIOS GLOBAL",
+  "rating": 4.8,
+  "opiniones": 85,
+  "veces": 1,
+  "actividad": "Otros idiomas",
+  "zonas": "Getafe",
+  "estado": "pendiente"
+ },
+ {
+  "nombre": "Distrito 27",
+  "rating": 4.9,
+  "opiniones": 82,
+  "veces": 1,
+  "actividad": "Arte, pintura y teatro",
+  "zonas": "Ciudad Lineal",
+  "estado": "pendiente"
+ },
+ {
+  "nombre": "Aprending Idiomas- Centro oficial de Cambridge",
+  "rating": 4.5,
+  "opiniones": 89,
+  "veces": 1,
+  "actividad": "Academias de inglés",
+  "zonas": "Barajas",
+  "estado": "pendiente"
+ },
+ {
+  "nombre": "Academia china Instituto Chino Europeo中欧学院",
+  "rating": 5,
+  "opiniones": 80,
+  "veces": 1,
+  "actividad": "Academias de inglés",
+  "zonas": "Usera",
+  "estado": "pendiente"
+ },
+ {
+  "nombre": "Dinamo - Education, Sport and Travel",
+  "rating": 4.2,
+  "opiniones": 93,
+  "veces": 1,
+  "actividad": "Empresas de extraescolares",
+  "zonas": "Carabanchel",
+  "estado": "pendiente"
+ },
+ {
+  "nombre": "My English Centre Madrid",
+  "rating": 5,
+  "opiniones": 78,
+  "veces": 3,
+  "actividad": "Academias de inglés",
+  "zonas": "Centro, Chamberí",
+  "estado": "pendiente"
+ },
+ {
+  "nombre": "Humanitas Idiomas",
+  "rating": 4.9,
+  "opiniones": 79,
+  "veces": 1,
+  "actividad": "Apoyo escolar y clases particulares",
+  "zonas": "Pozuelo de Alarcón",
+  "estado": "pendiente"
+ },
+ {
+  "nombre": "Ciudad Jardín",
+  "rating": 4.8,
+  "opiniones": 79,
+  "veces": 1,
+  "actividad": null,
+  "zonas": null,
+  "estado": "pendiente"
+ },
+ {
+  "nombre": "English Academy Alcobendas - Miranda's Academy",
+  "rating": 4.5,
+  "opiniones": 84,
+  "veces": 1,
+  "actividad": "Academias de inglés",
+  "zonas": "Fuencarral-El Pardo",
+  "estado": "pendiente"
+ },
+ {
+  "nombre": "Escuela Imagina Wedding Planner",
+  "rating": 4.8,
+  "opiniones": 78,
+  "veces": 1,
+  "actividad": "Arte, pintura y teatro",
+  "zonas": "Tetuán",
+  "estado": "pendiente"
+ },
+ {
+  "nombre": "France Madrid",
+  "rating": 4.9,
+  "opiniones": 76,
+  "veces": 1,
+  "actividad": "Robótica y programación",
+  "zonas": "Chamberí",
+  "estado": "pendiente"
+ },
+ {
+  "nombre": "ESTUDIO DE DANZA LAURA ROZALÉN",
+  "rating": 5,
+  "opiniones": 74,
+  "veces": 2,
+  "actividad": "Baile y danza",
+  "zonas": "Arganzuela, Fuencarral-El Pardo",
+  "estado": "pendiente"
+ },
+ {
+  "nombre": "Escuela de Danza Noelia",
+  "rating": 4.8,
+  "opiniones": 77,
+  "veces": 1,
+  "actividad": "Baile y danza",
+  "zonas": "Retiro",
+  "estado": "pendiente"
+ },
+ {
+  "nombre": "Official Language School of San Sebastian de los Reyes",
+  "rating": 4.1,
+  "opiniones": 90,
+  "veces": 2,
+  "actividad": "Otros idiomas",
+  "zonas": "Barajas, Centro",
+  "estado": "pendiente"
+ },
+ {
+  "nombre": "Education Leader",
+  "rating": 4.9,
+  "opiniones": 75,
+  "veces": 2,
+  "actividad": "Academias de inglés",
+  "zonas": "Carabanchel",
+  "estado": "pendiente"
+ },
+ {
+  "nombre": "Cursos TOEFL ® y TOEIC ®- Exam Madrid Academy",
+  "rating": 4.7,
+  "opiniones": 78,
+  "veces": 2,
+  "actividad": "Academias de inglés",
+  "zonas": "Chamberí, Moncloa-Aravaca",
+  "estado": "pendiente"
+ },
+ {
+  "nombre": "Wall Street English Alcobendas",
+  "rating": 4.7,
+  "opiniones": 77,
+  "veces": 3,
+  "actividad": "Academias de inglés",
+  "zonas": "Alcobendas",
+  "estado": "pendiente"
+ },
+ {
+  "nombre": "Magicland: Centro de Ocio Infantil y Eventos",
+  "rating": 4.4,
+  "opiniones": 82,
+  "veces": 1,
+  "actividad": null,
+  "zonas": null,
+  "estado": "pendiente"
+ },
+ {
+  "nombre": "Midleton School Getafe - Academia de Inglés",
+  "rating": 4.6,
+  "opiniones": 78,
+  "veces": 1,
+  "actividad": "Otros idiomas",
+  "zonas": "Getafe",
+  "estado": "pendiente"
+ },
+ {
+  "nombre": "Escuela Superior de Canto de Madrid",
+  "rating": 4.7,
+  "opiniones": 76,
+  "veces": 2,
+  "actividad": "Música",
+  "zonas": "Centro",
+  "estado": "pendiente"
+ },
+ {
+  "nombre": "LimeLingo",
+  "rating": 4.9,
+  "opiniones": 72,
+  "veces": 1,
+  "actividad": "Academias de inglés",
+  "zonas": "Tetuán",
+  "estado": "pendiente"
+ },
+ {
+  "nombre": "▷ BHA Urbance - Clases de Baile en Madrid",
+  "rating": 4.9,
+  "opiniones": 71,
+  "veces": 1,
+  "actividad": "Baile y danza",
+  "zonas": "Tetuán",
+  "estado": "pendiente"
+ },
+ {
+  "nombre": "Studio 91 escuela de danza",
+  "rating": 5,
+  "opiniones": 69,
+  "veces": 1,
+  "actividad": "Baile y danza",
+  "zonas": "Chamartín",
+  "estado": "pendiente"
+ },
+ {
+  "nombre": "Official Language School in Leganes",
+  "rating": 4,
+  "opiniones": 86,
+  "veces": 2,
+  "actividad": "Academias de inglés",
+  "zonas": "Majadahonda, Pozuelo de Alarcón",
+  "estado": "pendiente"
+ },
+ {
+  "nombre": "Escuela Oficial de Idiomas Madrid-Embajadores",
+  "rating": 3.7,
+  "opiniones": 92,
+  "veces": 1,
+  "actividad": "Otros idiomas",
+  "zonas": "Centro",
+  "estado": "pendiente"
+ },
+ {
+  "nombre": "Ecoidiomas Academias de Idiomas",
+  "rating": 3.7,
+  "opiniones": 92,
+  "veces": 1,
+  "actividad": "Academias de inglés",
+  "zonas": "Chamberí",
+  "estado": "pendiente"
+ },
+ {
+  "nombre": "Sigfredo",
+  "rating": 5,
+  "opiniones": 67,
+  "veces": 1,
+  "actividad": "Música",
+  "zonas": "Salamanca",
+  "estado": "pendiente"
+ },
+ {
+  "nombre": "Vipper Sistemas",
+  "rating": 4.8,
+  "opiniones": 69,
+  "veces": 1,
+  "actividad": "Robótica y programación",
+  "zonas": "Retiro",
+  "estado": "pendiente"
+ },
+ {
+  "nombre": "Déborah Abizanda Ceramica",
+  "rating": 4.8,
+  "opiniones": 69,
+  "veces": 1,
+  "actividad": "Arte, pintura y teatro",
+  "zonas": "Centro",
+  "estado": "pendiente"
+ },
+ {
+  "nombre": "Báilalo Madrid Dance Studio",
+  "rating": 4.7,
+  "opiniones": 70,
+  "veces": 4,
+  "actividad": "Baile y danza",
+  "zonas": "Arganzuela, Centro, Retiro",
+  "estado": "pendiente"
+ },
+ {
+  "nombre": "Escuela de Ballet - Ecole Française de Danse",
+  "rating": 4.8,
+  "opiniones": 67,
+  "veces": 1,
+  "actividad": "Baile y danza",
+  "zonas": "Chamberí",
+  "estado": "pendiente"
+ },
+ {
+  "nombre": "Academia de Alemán Hamburg",
+  "rating": 4.8,
+  "opiniones": 67,
+  "veces": 1,
+  "actividad": "Otros idiomas",
+  "zonas": "Boadilla del Monte",
+  "estado": "pendiente"
+ },
+ {
+  "nombre": "ENGLISH MEETING - Learning & Training - Las Tablas",
+  "rating": 4.8,
+  "opiniones": 66,
+  "veces": 2,
+  "actividad": "Academias de inglés",
+  "zonas": "Hortaleza, Retiro",
+  "estado": "pendiente"
+ },
+ {
+  "nombre": "Academia Aula Tres Olivos",
+  "rating": 4.9,
+  "opiniones": 64,
+  "veces": 1,
+  "actividad": "Otros idiomas",
+  "zonas": "Fuencarral-El Pardo",
+  "estado": "pendiente"
+ },
+ {
+  "nombre": "Official Language School Moratalaz",
+  "rating": 3.7,
+  "opiniones": 84,
+  "veces": 3,
+  "actividad": "Otros idiomas",
+  "zonas": "Barajas, Centro, Majadahonda",
+  "estado": "pendiente"
+ },
+ {
+  "nombre": "La Artelería - Escuela De Dibujo Y Pintura. Acuarela",
+  "rating": 5,
+  "opiniones": 62,
+  "veces": 2,
+  "actividad": "Arte, pintura y teatro",
+  "zonas": "Chamberí",
+  "estado": "pendiente"
+ },
+ {
+  "nombre": "La Escuela del Arte Machado",
+  "rating": 4.9,
+  "opiniones": 63,
+  "veces": 1,
+  "actividad": "Arte, pintura y teatro",
+  "zonas": "Chamartín",
+  "estado": "pendiente"
+ },
+ {
+  "nombre": "Cambridge English",
+  "rating": 4.9,
+  "opiniones": 62,
+  "veces": 5,
+  "actividad": "Academias de inglés",
+  "zonas": "Arganzuela, Fuencarral-El Pardo",
+  "estado": "pendiente"
+ },
+ {
+  "nombre": "Studies Center Colyseum",
+  "rating": 4.9,
+  "opiniones": 62,
+  "veces": 2,
+  "actividad": "Academias de inglés",
+  "zonas": "Alcobendas",
+  "estado": "pendiente"
+ },
+ {
+  "nombre": "La Casita de Inglés Barrio de Salamanca",
+  "rating": 4.9,
+  "opiniones": 62,
+  "veces": 1,
+  "actividad": "Academias de inglés",
+  "zonas": "Retiro",
+  "estado": "pendiente"
+ },
+ {
+  "nombre": "yesyoucanENGLISH",
+  "rating": 5,
+  "opiniones": 60,
+  "veces": 2,
+  "actividad": "Academias de inglés",
+  "zonas": "Moncloa-Aravaca, Tetuán",
+  "estado": "pendiente"
+ },
+ {
+  "nombre": "Clases de pintura y dibujo en Madrid - Lucía Espinós",
+  "rating": 5,
+  "opiniones": 60,
+  "veces": 1,
+  "actividad": "Arte, pintura y teatro",
+  "zonas": "Ciudad Lineal",
+  "estado": "pendiente"
+ },
+ {
+  "nombre": "DIVERTALLER",
+  "rating": 4.9,
+  "opiniones": 59,
+  "veces": 1,
+  "actividad": "Arte, pintura y teatro",
+  "zonas": "Ciudad Lineal",
+  "estado": "pendiente"
+ },
+ {
+  "nombre": "Academia de música y canto | Preludio",
+  "rating": 4.7,
+  "opiniones": 61,
+  "veces": 1,
+  "actividad": "Música",
+  "zonas": "Salamanca",
+  "estado": "pendiente"
+ },
+ {
+  "nombre": "Kids&Us Villaverde Butarque",
+  "rating": 4.9,
+  "opiniones": 58,
+  "veces": 1,
+  "actividad": "Academias de inglés",
+  "zonas": "Fuencarral-El Pardo",
+  "estado": "pendiente"
+ },
+ {
+  "nombre": "Fast English - Escuela de inglés Carabanchel",
+  "rating": 4.9,
+  "opiniones": 58,
+  "veces": 1,
+  "actividad": "Academias de inglés",
+  "zonas": "Carabanchel",
+  "estado": "pendiente"
+ },
+ {
+  "nombre": "Senior School Dance",
+  "rating": 4.8,
+  "opiniones": 59,
+  "veces": 1,
+  "actividad": "Baile y danza",
+  "zonas": "Arganzuela",
+  "estado": "pendiente"
+ },
+ {
+  "nombre": "El parque de Emily, local para cumpleaños!",
+  "rating": 4.5,
+  "opiniones": 60,
+  "veces": 1,
+  "actividad": "Arte, pintura y teatro",
+  "zonas": "Ciudad Lineal",
+  "estado": "pendiente"
+ },
+ {
+  "nombre": "TutorAsap|British College Madrid|Academia IB,A levels,IGCSE",
+  "rating": 4.9,
+  "opiniones": 54,
+  "veces": 1,
+  "actividad": "Apoyo escolar y clases particulares",
+  "zonas": "Pozuelo de Alarcón",
+  "estado": "pendiente"
+ },
+ {
+  "nombre": "Kids&Us Canillas - Academia de inglés para niños en Canillas",
+  "rating": 4.8,
+  "opiniones": 55,
+  "veces": 1,
+  "actividad": "Academias de inglés",
+  "zonas": "Chamartín",
+  "estado": "pendiente"
+ },
+ {
+  "nombre": "Skippin and Kids | Academia de Inglés y Apoyo escolar",
+  "rating": 4.8,
+  "opiniones": 55,
+  "veces": 1,
+  "actividad": "Academias de inglés",
+  "zonas": "Retiro",
+  "estado": "pendiente"
+ },
+ {
+  "nombre": "Escuela del profesor Vigario 2",
+  "rating": 4.6,
+  "opiniones": 56,
+  "veces": 1,
+  "actividad": "Baile y danza",
+  "zonas": "Salamanca",
+  "estado": "pendiente"
+ },
+ {
+  "nombre": "Campamentos Tadeo Jones",
+  "rating": 4.4,
+  "opiniones": 58,
+  "veces": 1,
+  "actividad": "Robótica y programación",
+  "zonas": "Retiro",
+  "estado": "pendiente"
+ },
+ {
+  "nombre": "Centro de estudios Altamira. Academia de Inglés",
+  "rating": 4.9,
+  "opiniones": 52,
+  "veces": 2,
+  "actividad": "Academias de inglés",
+  "zonas": "Chamberí, Leganés",
+  "estado": "pendiente"
+ },
+ {
+  "nombre": "Danzare Ballet | Escuela de Danza",
+  "rating": 4.9,
+  "opiniones": 52,
+  "veces": 1,
+  "actividad": "Baile y danza",
+  "zonas": "Chamberí",
+  "estado": "pendiente"
+ },
+ {
+  "nombre": "Codenotch",
+  "rating": 4.1,
+  "opiniones": 62,
+  "veces": 1,
+  "actividad": "Robótica y programación",
+  "zonas": "Hortaleza",
+  "estado": "pendiente"
+ },
+ {
+  "nombre": "Playground",
+  "rating": 4.1,
+  "opiniones": 62,
+  "veces": 1,
+  "actividad": null,
+  "zonas": null,
+  "estado": "pendiente"
+ },
+ {
+  "nombre": "Clases de Dibujo y Pintura TELERETRATO",
+  "rating": 5,
+  "opiniones": 50,
+  "veces": 2,
+  "actividad": "Arte, pintura y teatro",
+  "zonas": "Arganzuela, Chamberí",
+  "estado": "pendiente"
+ },
+ {
+  "nombre": "Escuela Infantil Tren de los Niños",
+  "rating": 5,
+  "opiniones": 50,
+  "veces": 1,
+  "actividad": null,
+  "zonas": null,
+  "estado": "pendiente"
+ },
+ {
+  "nombre": "TRAMANDOTALLER",
+  "rating": 5,
+  "opiniones": 50,
+  "veces": 1,
+  "actividad": "Arte, pintura y teatro",
+  "zonas": "Moratalaz",
+  "estado": "pendiente"
+ },
+ {
+  "nombre": "Academia Balance Idiomas",
+  "rating": 5,
+  "opiniones": 50,
+  "veces": 1,
+  "actividad": "Otros idiomas",
+  "zonas": "Arganzuela",
+  "estado": "pendiente"
+ },
+ {
+  "nombre": "El Atelier Pottery",
+  "rating": 4.9,
+  "opiniones": 51,
+  "veces": 1,
+  "actividad": "Arte, pintura y teatro",
+  "zonas": "Centro",
+  "estado": "pendiente"
+ },
+ {
+  "nombre": "Why Not! English Academy",
+  "rating": 4.8,
+  "opiniones": 52,
+  "veces": 1,
+  "actividad": "Academias de inglés",
+  "zonas": "Salamanca",
+  "estado": "pendiente"
+ },
+ {
+  "nombre": "La Corrala de La Danza",
+  "rating": 4.5,
+  "opiniones": 55,
+  "veces": 1,
+  "actividad": "Baile y danza",
+  "zonas": "Centro",
+  "estado": "pendiente"
+ },
+ {
+  "nombre": "Academia de Dibujo y pintura Zoya",
+  "rating": 5,
+  "opiniones": 49,
+  "veces": 1,
+  "actividad": "Arte, pintura y teatro",
+  "zonas": "Carabanchel",
+  "estado": "pendiente"
+ },
+ {
+  "nombre": "Escuela de Danza In Stage",
+  "rating": 5,
+  "opiniones": 48,
+  "veces": 1,
+  "actividad": "Baile y danza",
+  "zonas": "Tetuán",
+  "estado": "pendiente"
+ },
+ {
+  "nombre": "VIBRA ESCUELA DE BAILE MULTIESPACIO",
+  "rating": 4.8,
+  "opiniones": 50,
+  "veces": 1,
+  "actividad": "Baile y danza",
+  "zonas": "Puente de Vallecas",
+  "estado": "pendiente"
+ },
+ {
+  "nombre": "English Connection Getafe Norte",
+  "rating": 4.8,
+  "opiniones": 49,
+  "veces": 1,
+  "actividad": "Academias de inglés",
+  "zonas": "Getafe",
+  "estado": "pendiente"
+ },
+ {
+  "nombre": "Kids&Us - Inglés para niños",
+  "rating": 4.7,
+  "opiniones": 50,
+  "veces": 2,
+  "actividad": "Academias de inglés",
+  "zonas": "Getafe",
+  "estado": "pendiente"
+ },
+ {
+  "nombre": "La Escuela de Canal",
+  "rating": 4.9,
+  "opiniones": 47,
+  "veces": 4,
+  "actividad": "Música",
+  "zonas": "Centro, Chamberí",
+  "estado": "pendiente"
+ },
+ {
+  "nombre": "Aulaitalia",
+  "rating": 5,
+  "opiniones": 46,
+  "veces": 1,
+  "actividad": "Otros idiomas",
+  "zonas": "Centro",
+  "estado": "pendiente"
+ },
+ {
+  "nombre": "Academia Inglés Leganés OK English Steve&Maggie ENSANCHE SAN NICASIO",
+  "rating": 4.9,
+  "opiniones": 46,
+  "veces": 1,
+  "actividad": "Academias de inglés",
+  "zonas": "Leganés",
+  "estado": "pendiente"
+ },
+ {
+  "nombre": "Entre óleos y esculturas",
+  "rating": 4.6,
+  "opiniones": 48,
+  "veces": 2,
+  "actividad": "Arte, pintura y teatro",
+  "zonas": "Centro, Chamartín",
+  "estado": "pendiente"
+ },
+ {
+  "nombre": "Escultura Ceramica",
+  "rating": 4.8,
+  "opiniones": 46,
+  "veces": 1,
+  "actividad": "Arte, pintura y teatro",
+  "zonas": "Centro",
+  "estado": "pendiente"
+ },
+ {
+  "nombre": "Escuela Infantil Nemomarlin Cuatro Caminos",
+  "rating": 4.5,
+  "opiniones": 49,
+  "veces": 1,
+  "actividad": null,
+  "zonas": null,
+  "estado": "pendiente"
+ },
+ {
+  "nombre": "LCT IDIOMAS | ACADEMIA DE INGLÉS",
+  "rating": 4.8,
+  "opiniones": 45,
+  "veces": 1,
+  "actividad": "Academias de inglés",
+  "zonas": "Arganzuela",
+  "estado": "pendiente"
+ },
+ {
+  "nombre": "Música Bajo Llave",
+  "rating": 5,
+  "opiniones": 42,
+  "veces": 4,
+  "actividad": "Música",
+  "zonas": "Centro, Chamberí",
+  "estado": "pendiente"
+ },
+ {
+  "nombre": "Campamento de RBTK - ajedrez BYN",
+  "rating": 5,
+  "opiniones": 42,
+  "veces": 1,
+  "actividad": "Robótica y programación",
+  "zonas": "Moncloa-Aravaca",
+  "estado": "pendiente"
+ },
+ {
+  "nombre": "Language House",
+  "rating": 5,
+  "opiniones": 42,
+  "veces": 1,
+  "actividad": "Academias de inglés",
+  "zonas": "Arganzuela",
+  "estado": "pendiente"
+ },
+ {
+  "nombre": "Cadel Studies Center",
+  "rating": 4.6,
+  "opiniones": 45,
+  "veces": 1,
+  "actividad": "Apoyo escolar y clases particulares",
+  "zonas": "Leganés",
+  "estado": "pendiente"
+ },
+ {
+  "nombre": "Gaby Soule Clases de Guitarra (Online)",
+  "rating": 5,
+  "opiniones": 41,
+  "veces": 1,
+  "actividad": "Música",
+  "zonas": "Centro",
+  "estado": "pendiente"
+ },
+ {
+  "nombre": "¡Mi cuerpo crea! Danza y yoga en Carabanchel Madrid",
+  "rating": 5,
+  "opiniones": 40,
+  "veces": 1,
+  "actividad": "Baile y danza",
+  "zonas": "Carabanchel",
+  "estado": "pendiente"
+ },
+ {
+  "nombre": "Pretty Art Academia de Dibujo Pintura Manualidades",
+  "rating": 5,
+  "opiniones": 40,
+  "veces": 1,
+  "actividad": "Arte, pintura y teatro",
+  "zonas": "Carabanchel",
+  "estado": "pendiente"
+ },
+ {
+  "nombre": "Academia Don Alumno Majadahonda Norte",
+  "rating": 4.7,
+  "opiniones": 42,
+  "veces": 1,
+  "actividad": "Apoyo escolar y clases particulares",
+  "zonas": "Majadahonda",
+  "estado": "pendiente"
+ },
+ {
+  "nombre": "Kokoro, espacio de crianza",
+  "rating": 4.8,
+  "opiniones": 41,
+  "veces": 1,
+  "actividad": "Empresas de extraescolares",
+  "zonas": "Arganzuela",
+  "estado": "pendiente"
+ },
+ {
+  "nombre": "Escuela Creativa (M)ARTE",
+  "rating": 4.9,
+  "opiniones": 40,
+  "veces": 2,
+  "actividad": "Arte, pintura y teatro",
+  "zonas": "Chamartín, Tetuán",
+  "estado": "pendiente"
+ },
+ {
+  "nombre": "Kids&Us Humanes- Inglés para niños",
+  "rating": 5,
+  "opiniones": 39,
+  "veces": 2,
+  "actividad": "Academias de inglés",
+  "zonas": "Fuencarral-El Pardo",
+  "estado": "pendiente"
+ },
+ {
+  "nombre": "School of Rock Retiro",
+  "rating": 5,
+  "opiniones": 39,
+  "veces": 1,
+  "actividad": "Baile y danza",
+  "zonas": "Retiro",
+  "estado": "pendiente"
+ },
+ {
+  "nombre": "NEUS AGUER ESCUELA DE CANTO",
+  "rating": 5,
+  "opiniones": 39,
+  "veces": 1,
+  "actividad": "Música",
+  "zonas": "Centro",
+  "estado": "pendiente"
+ },
+ {
+  "nombre": "21st Century Music",
+  "rating": 4.7,
+  "opiniones": 41,
+  "veces": 1,
+  "actividad": "Música",
+  "zonas": "Centro",
+  "estado": "pendiente"
+ },
+ {
+  "nombre": "Campamento de Verano Activa Educación y Tiempo Libre",
+  "rating": 5,
+  "opiniones": 38,
+  "veces": 2,
+  "actividad": "Empresas de extraescolares",
+  "zonas": "Chamartín, Tetuán",
+  "estado": "pendiente"
+ },
+ {
+  "nombre": "UP English",
+  "rating": 4.4,
+  "opiniones": 43,
+  "veces": 2,
+  "actividad": "Academias de inglés",
+  "zonas": "Arganzuela, Chamartín",
+  "estado": "pendiente"
+ },
+ {
+  "nombre": "1001 Aventuras Ocio S.L.",
+  "rating": 4.9,
+  "opiniones": 38,
+  "veces": 1,
+  "actividad": "Robótica y programación",
+  "zonas": "Retiro",
+  "estado": "pendiente"
+ },
+ {
+  "nombre": "Obrador - Espacio Creativo",
+  "rating": 5,
+  "opiniones": 37,
+  "veces": 2,
+  "actividad": "Arte, pintura y teatro",
+  "zonas": "Arganzuela",
+  "estado": "pendiente"
+ },
+ {
+  "nombre": "Club Natación Chiboi",
+  "rating": 5,
+  "opiniones": 37,
+  "veces": 1,
+  "actividad": "Deporte y natación",
+  "zonas": "Chamartín",
+  "estado": "pendiente"
+ },
+ {
+  "nombre": "Northwest English Centre",
+  "rating": 4.5,
+  "opiniones": 41,
+  "veces": 2,
+  "actividad": "Academias de inglés",
+  "zonas": "Majadahonda",
+  "estado": "pendiente"
+ },
+ {
+  "nombre": "SOM Academy - Escuela de musicales",
+  "rating": 4.5,
+  "opiniones": 41,
+  "veces": 1,
+  "actividad": "Música",
+  "zonas": "Centro",
+  "estado": "pendiente"
+ },
+ {
+  "nombre": "Clases de piano en Madrid - jazz, armonía moderna, lenguaje musical, composición -",
+  "rating": 5,
+  "opiniones": 36,
+  "veces": 3,
+  "actividad": "Música",
+  "zonas": "Centro, Salamanca",
+  "estado": "pendiente"
+ },
+ {
+  "nombre": "La Casita de Inglés Carabanchel",
+  "rating": 5,
+  "opiniones": 36,
+  "veces": 2,
+  "actividad": "Academias de inglés",
+  "zonas": "Majadahonda, Pozuelo de Alarcón",
+  "estado": "pendiente"
+ },
+ {
+  "nombre": "Academia de inglés ¿Quieres Aprender Idiomas?",
+  "rating": 5,
+  "opiniones": 36,
+  "veces": 2,
+  "actividad": "Academias de inglés",
+  "zonas": "Centro, Moncloa-Aravaca",
+  "estado": "pendiente"
+ },
+ {
+  "nombre": "Washi Extraescolares",
+  "rating": 4,
+  "opiniones": 45,
+  "veces": 1,
+  "actividad": "Empresas de extraescolares",
+  "zonas": "Arganzuela",
+  "estado": "pendiente"
+ },
+ {
+  "nombre": "Sprachcaffe Languages Plus España",
+  "rating": 4.6,
+  "opiniones": 39,
+  "veces": 1,
+  "actividad": "Otros idiomas",
+  "zonas": "Centro",
+  "estado": "pendiente"
+ },
+ {
+  "nombre": "World Idiomas",
+  "rating": 4.6,
+  "opiniones": 39,
+  "veces": 1,
+  "actividad": "Academias de inglés",
+  "zonas": "Arganzuela",
+  "estado": "pendiente"
+ },
+ {
+  "nombre": "Escuela Oficial de Idiomas",
+  "rating": 4.4,
+  "opiniones": 40,
+  "veces": 1,
+  "actividad": "Academias de inglés",
+  "zonas": "Getafe",
+  "estado": "pendiente"
+ },
+ {
+  "nombre": "Talk English Language Center",
+  "rating": 5,
+  "opiniones": 35,
+  "veces": 3,
+  "actividad": "Academias de inglés",
+  "zonas": "Hortaleza, Salamanca, Tetuán",
+  "estado": "pendiente"
+ },
+ {
+  "nombre": "Clases de piano, Armonía moderna, Jazz, Blues, Boogie-Woogie, Clásico.",
+  "rating": 5,
+  "opiniones": 35,
+  "veces": 1,
+  "actividad": "Música",
+  "zonas": "Centro",
+  "estado": "pendiente"
+ },
+ {
+  "nombre": "GROWUP ENGLISH ACADEMY",
+  "rating": 4.8,
+  "opiniones": 36,
+  "veces": 3,
+  "actividad": "Academias de inglés",
+  "zonas": "Getafe, Leganés",
+  "estado": "pendiente"
+ },
+ {
+  "nombre": "Le français",
+  "rating": 4.8,
+  "opiniones": 36,
+  "veces": 1,
+  "actividad": "Otros idiomas",
+  "zonas": "Retiro",
+  "estado": "pendiente"
+ },
+ {
+  "nombre": "TutorASAP Preparación Exámenes A-levels IB IGCSE|Clases y Cursos|Online y Presencial en Madrid",
+  "rating": 4.6,
+  "opiniones": 37,
+  "veces": 1,
+  "actividad": "Academias de inglés",
+  "zonas": "Chamartín",
+  "estado": "pendiente"
+ },
+ {
+  "nombre": "Madrid Río Escuela de danza",
+  "rating": 5,
+  "opiniones": 34,
+  "veces": 1,
+  "actividad": "Baile y danza",
+  "zonas": "Carabanchel",
+  "estado": "pendiente"
+ },
+ {
+  "nombre": "Aula de Música Retiro",
+  "rating": 4.9,
+  "opiniones": 34,
+  "veces": 1,
+  "actividad": "Baile y danza",
+  "zonas": "Retiro",
+  "estado": "pendiente"
+ },
+ {
+  "nombre": "Escuela Inglesa Las Rozas",
+  "rating": 5,
+  "opiniones": 33,
+  "veces": 3,
+  "actividad": "Academias de inglés",
+  "zonas": "Majadahonda",
+  "estado": "pendiente"
+ },
+ {
+  "nombre": "El Desván. Centro de Ocio y Tiempo Libre infantil y juvenil",
+  "rating": 5,
+  "opiniones": 33,
+  "veces": 1,
+  "actividad": "Deporte y natación",
+  "zonas": "Villa de Vallecas",
+  "estado": "pendiente"
+ },
+ {
+  "nombre": "Tata Quintana. Clases de canto en Madrid",
+  "rating": 5,
+  "opiniones": 32,
+  "veces": 1,
+  "actividad": "Música",
+  "zonas": "Centro",
+  "estado": "pendiente"
+ },
+ {
+  "nombre": "Escuela Tutti Música",
+  "rating": 5,
+  "opiniones": 32,
+  "veces": 1,
+  "actividad": "Música",
+  "zonas": "Arganzuela",
+  "estado": "pendiente"
+ },
+ {
+  "nombre": "CESEDUCA. Academia de inglés en Leganés",
+  "rating": 4.8,
+  "opiniones": 33,
+  "veces": 1,
+  "actividad": "Academias de inglés",
+  "zonas": "Leganés",
+  "estado": "pendiente"
+ },
+ {
+  "nombre": "THE CIRCLE OF VICKY-JOSE ANTONIO",
+  "rating": 4.7,
+  "opiniones": 33,
+  "veces": 1,
+  "actividad": "Baile y danza",
+  "zonas": "Chamberí",
+  "estado": "pendiente"
+ },
+ {
+  "nombre": "Cursos TOEFL© Madrid - American Test Center",
+  "rating": 4.9,
+  "opiniones": 31,
+  "veces": 1,
+  "actividad": "Academias de inglés",
+  "zonas": "Centro",
+  "estado": "pendiente"
+ },
+ {
+  "nombre": "CLASES DE PERCUSIÓN EN MADRID",
+  "rating": 5,
+  "opiniones": 30,
+  "veces": 1,
+  "actividad": "Música",
+  "zonas": "Arganzuela",
+  "estado": "pendiente"
+ },
+ {
+  "nombre": "Concertissimo Escuela de Música",
+  "rating": 5,
+  "opiniones": 30,
+  "veces": 1,
+  "actividad": "Música",
+  "zonas": "Arganzuela",
+  "estado": "pendiente"
+ },
+ {
+  "nombre": "Zona pública de ejercicios",
+  "rating": 4.7,
+  "opiniones": 31,
+  "veces": 1,
+  "actividad": null,
+  "zonas": null,
+  "estado": "pendiente"
+ },
+ {
+  "nombre": "Esmuva: Escuela De Música",
+  "rating": 4.6,
+  "opiniones": 31,
+  "veces": 1,
+  "actividad": "Baile y danza",
+  "zonas": "Retiro",
+  "estado": "pendiente"
+ },
+ {
+  "nombre": "Brays School of English Getafe",
+  "rating": 5,
+  "opiniones": 28,
+  "veces": 4,
+  "actividad": "Academias de inglés",
+  "zonas": "Chamberí, Getafe",
+  "estado": "pendiente"
+ },
+ {
+  "nombre": "Academia Geymo - Centro de Estudios",
+  "rating": 4.8,
+  "opiniones": 29,
+  "veces": 1,
+  "actividad": "Apoyo escolar y clases particulares",
+  "zonas": "Leganés",
+  "estado": "pendiente"
+ },
+ {
+  "nombre": "English Teachers SL",
+  "rating": 4.7,
+  "opiniones": 29,
+  "veces": 1,
+  "actividad": "Academias de inglés",
+  "zonas": "Usera",
+  "estado": "pendiente"
+ },
+ {
+  "nombre": "Escuela de Canto Mónica Matabuena",
+  "rating": 5,
+  "opiniones": 27,
+  "veces": 1,
+  "actividad": "Música",
+  "zonas": "Chamberí",
+  "estado": "pendiente"
+ },
+ {
+  "nombre": "Escuela Municipal de Música y Danza Plácido Domingo",
+  "rating": 3.6,
+  "opiniones": 37,
+  "veces": 1,
+  "actividad": "Baile y danza",
+  "zonas": "Retiro",
+  "estado": "pendiente"
+ },
+ {
+  "nombre": "THE ENGLISH GROUP",
+  "rating": 4.9,
+  "opiniones": 27,
+  "veces": 1,
+  "actividad": "Academias de inglés",
+  "zonas": "Ciudad Lineal",
+  "estado": "pendiente"
+ },
+ {
+  "nombre": "Aguaespejo estudio",
+  "rating": 5,
+  "opiniones": 26,
+  "veces": 1,
+  "actividad": "Arte, pintura y teatro",
+  "zonas": "Carabanchel",
+  "estado": "pendiente"
+ },
+ {
+  "nombre": "Planesport",
+  "rating": 5,
+  "opiniones": 26,
+  "veces": 1,
+  "actividad": "Deporte y natación",
+  "zonas": "Villa de Vallecas",
+  "estado": "pendiente"
+ },
+ {
+  "nombre": "Danzalia Estudio",
+  "rating": 4.8,
+  "opiniones": 27,
+  "veces": 2,
+  "actividad": "Baile y danza",
+  "zonas": "Arganzuela",
+  "estado": "pendiente"
+ },
+ {
+  "nombre": "Escuela de Danza Silvia",
+  "rating": 4.6,
+  "opiniones": 27,
+  "veces": 1,
+  "actividad": "Baile y danza",
+  "zonas": "Arganzuela",
+  "estado": "pendiente"
+ },
+ {
+  "nombre": "HARLOW IDIOMAS Retiro",
+  "rating": 4.2,
+  "opiniones": 29,
+  "veces": 1,
+  "actividad": "Robótica y programación",
+  "zonas": "Retiro",
+  "estado": "pendiente"
+ },
+ {
+  "nombre": "Talking U2",
+  "rating": 5,
+  "opiniones": 24,
+  "veces": 2,
+  "actividad": "Academias de inglés",
+  "zonas": "Carabanchel, Chamberí",
+  "estado": "pendiente"
+ },
+ {
+  "nombre": "Con Luz Propia escuela de danza",
+  "rating": 5,
+  "opiniones": 24,
+  "veces": 1,
+  "actividad": "Baile y danza",
+  "zonas": "Chamberí",
+  "estado": "pendiente"
+ },
+ {
+  "nombre": "Campamentos Sonia Nubecuentos",
+  "rating": 5,
+  "opiniones": 24,
+  "veces": 1,
+  "actividad": "Empresas de extraescolares",
+  "zonas": "Tetuán",
+  "estado": "pendiente"
+ },
+ {
+  "nombre": "Academia Machado de dibujo y pintura en Moratalaz",
+  "rating": 4.8,
+  "opiniones": 25,
+  "veces": 1,
+  "actividad": "Arte, pintura y teatro",
+  "zonas": "Moratalaz",
+  "estado": "pendiente"
+ },
+ {
+  "nombre": "Dos Sedes//Timbre 4 Madrid - Escuela de Teatro (Arganzuela 6) - Sala de Teatro ( Palos de la Frontera 16)",
+  "rating": 4.8,
+  "opiniones": 23,
+  "veces": 1,
+  "actividad": "Música",
+  "zonas": "Centro",
+  "estado": "pendiente"
+ },
+ {
+  "nombre": "nuevo del Canal Park",
+  "rating": 3.8,
+  "opiniones": 29,
+  "veces": 1,
+  "actividad": null,
+  "zonas": null,
+  "estado": "pendiente"
+ },
+ {
+  "nombre": "Eurolenguas Academia de Idiomas",
+  "rating": 5,
+  "opiniones": 22,
+  "veces": 2,
+  "actividad": "Academias de inglés",
+  "zonas": "Fuencarral-El Pardo",
+  "estado": "pendiente"
+ },
+ {
+  "nombre": "New Central Park",
+  "rating": 4.7,
+  "opiniones": 23,
+  "veces": 1,
+  "actividad": "Academias de inglés",
+  "zonas": "Arganzuela",
+  "estado": "pendiente"
+ },
+ {
+  "nombre": "English Connection Getafe Buenavista",
+  "rating": 4.9,
+  "opiniones": 22,
+  "veces": 1,
+  "actividad": "Academias de inglés",
+  "zonas": "Getafe",
+  "estado": "pendiente"
+ },
+ {
+  "nombre": "Dance Studio Carmen Senra",
+  "rating": 4.6,
+  "opiniones": 23,
+  "veces": 1,
+  "actividad": "Baile y danza",
+  "zonas": "Carabanchel",
+  "estado": "pendiente"
+ },
+ {
+  "nombre": "Madbeat Music Lab Academy (Escuela de música)",
+  "rating": 5,
+  "opiniones": 21,
+  "veces": 1,
+  "actividad": "Música",
+  "zonas": "Centro",
+  "estado": "pendiente"
+ },
+ {
+  "nombre": "Always Charlie",
+  "rating": 4.8,
+  "opiniones": 21,
+  "veces": 1,
+  "actividad": "Academias de inglés",
+  "zonas": "Chamartín",
+  "estado": "pendiente"
+ },
+ {
+  "nombre": "Lingua Coaching",
+  "rating": 5,
+  "opiniones": 20,
+  "veces": 2,
+  "actividad": "Academias de inglés",
+  "zonas": "Pozuelo de Alarcón",
+  "estado": "pendiente"
+ },
+ {
+  "nombre": "SC Language | Academia de Idiomas en Las Rozas",
+  "rating": 5,
+  "opiniones": 20,
+  "veces": 1,
+  "actividad": "Otros idiomas",
+  "zonas": "Majadahonda",
+  "estado": "pendiente"
+ },
+ {
+  "nombre": "Cocorico Academy",
+  "rating": 5,
+  "opiniones": 20,
+  "veces": 1,
+  "actividad": "Academias de inglés",
+  "zonas": "Fuencarral-El Pardo",
+  "estado": "pendiente"
+ },
+ {
+  "nombre": "CAB Centro De Arte Y Baile",
+  "rating": 4.7,
+  "opiniones": 21,
+  "veces": 1,
+  "actividad": "Baile y danza",
+  "zonas": "Puente de Vallecas",
+  "estado": "pendiente"
+ },
+ {
+  "nombre": "Stephen - Profesor de inglés",
+  "rating": 4.9,
+  "opiniones": 20,
+  "veces": 1,
+  "actividad": "Academias de inglés",
+  "zonas": "Chamberí",
+  "estado": "pendiente"
+ },
+ {
+  "nombre": "Escuela de Escultura almArt (aula-taller)",
+  "rating": 4.8,
+  "opiniones": 20,
+  "veces": 1,
+  "actividad": "Arte, pintura y teatro",
+  "zonas": "Centro",
+  "estado": "pendiente"
+ },
+ {
+  "nombre": "Tu Academia de Educación",
+  "rating": 5,
+  "opiniones": 19,
+  "veces": 1,
+  "actividad": "Academias de inglés",
+  "zonas": "Boadilla del Monte",
+  "estado": "pendiente"
+ },
+ {
+  "nombre": "Escuela Infantil Nemomarlin La Vaguada",
+  "rating": 5,
+  "opiniones": 19,
+  "veces": 1,
+  "actividad": null,
+  "zonas": null,
+  "estado": "pendiente"
+ },
+ {
+  "nombre": "A Escuela de Teatro Musical María Beltran",
+  "rating": 4.3,
+  "opiniones": 21,
+  "veces": 1,
+  "actividad": "Música",
+  "zonas": "Centro",
+  "estado": "pendiente"
+ },
+ {
+  "nombre": "Escuela de Educación Infantil Colorin Colorado",
+  "rating": 4.7,
+  "opiniones": 19,
+  "veces": 1,
+  "actividad": null,
+  "zonas": null,
+  "estado": "pendiente"
+ },
+ {
+  "nombre": "EducaChild Retiro",
+  "rating": 4.4,
+  "opiniones": 20,
+  "veces": 1,
+  "actividad": "Academias de inglés",
+  "zonas": "Retiro",
+  "estado": "pendiente"
+ },
+ {
+  "nombre": "Kids&Us Barrio De Salamanca",
+  "rating": 4.6,
+  "opiniones": 19,
+  "veces": 1,
+  "actividad": "Academias de inglés",
+  "zonas": "Chamberí",
+  "estado": "pendiente"
+ },
+ {
+  "nombre": "Escuela de Natación, Deportivas y Campamentos EDUCOSPORT",
+  "rating": 4.3,
+  "opiniones": 20,
+  "veces": 1,
+  "actividad": "Deporte y natación",
+  "zonas": "Salamanca",
+  "estado": "pendiente"
+ },
+ {
+  "nombre": "Academia Martimat",
+  "rating": 5,
+  "opiniones": 17,
+  "veces": 2,
+  "actividad": "Otros idiomas",
+  "zonas": "Chamberí, Fuencarral-El Pardo",
+  "estado": "pendiente"
+ },
+ {
+  "nombre": "DANCEANDO",
+  "rating": 5,
+  "opiniones": 17,
+  "veces": 1,
+  "actividad": "Baile y danza",
+  "zonas": "Carabanchel",
+  "estado": "pendiente"
+ },
+ {
+  "nombre": "The Queen's English School",
+  "rating": 5,
+  "opiniones": 17,
+  "veces": 1,
+  "actividad": "Academias de inglés",
+  "zonas": "Usera",
+  "estado": "pendiente"
+ },
+ {
+  "nombre": "DateArte. Escuela taller de arte.",
+  "rating": 4.9,
+  "opiniones": 17,
+  "veces": 1,
+  "actividad": "Arte, pintura y teatro",
+  "zonas": "Arganzuela",
+  "estado": "pendiente"
+ },
+ {
+  "nombre": "Wake Up Academy Santa Eugenia",
+  "rating": 4.6,
+  "opiniones": 18,
+  "veces": 1,
+  "actividad": "Academias de inglés",
+  "zonas": "Chamberí",
+  "estado": "pendiente"
+ },
+ {
+  "nombre": "Centro Kumon",
+  "rating": 4.8,
+  "opiniones": 17,
+  "veces": 1,
+  "actividad": "Apoyo escolar y clases particulares",
+  "zonas": "Majadahonda",
+  "estado": "pendiente"
+ },
+ {
+  "nombre": "English Connection",
+  "rating": 3.7,
+  "opiniones": 22,
+  "veces": 3,
+  "actividad": "Academias de inglés",
+  "zonas": "Carabanchel, Salamanca",
+  "estado": "pendiente"
+ },
+ {
+  "nombre": "Añil, Espacio Creativo",
+  "rating": 5,
+  "opiniones": 16,
+  "veces": 1,
+  "actividad": "Arte, pintura y teatro",
+  "zonas": "Moncloa-Aravaca",
+  "estado": "pendiente"
+ },
+ {
+  "nombre": "Wake Up Academy Ensanche de Vallecas",
+  "rating": 5,
+  "opiniones": 16,
+  "veces": 1,
+  "actividad": "Academias de inglés",
+  "zonas": "Carabanchel",
+  "estado": "pendiente"
+ },
+ {
+  "nombre": "Rastlos",
+  "rating": 4.4,
+  "opiniones": 18,
+  "veces": 1,
+  "actividad": "Robótica y programación",
+  "zonas": "Retiro",
+  "estado": "pendiente"
+ },
+ {
+  "nombre": "Escuela Municipal de Música Almudena Cano",
+  "rating": 4.9,
+  "opiniones": 16,
+  "veces": 1,
+  "actividad": "Música",
+  "zonas": "Centro",
+  "estado": "pendiente"
+ },
+ {
+  "nombre": "Easy Peasy Academia de inglés",
+  "rating": 4.9,
+  "opiniones": 16,
+  "veces": 1,
+  "actividad": "Academias de inglés",
+  "zonas": "Arganzuela",
+  "estado": "pendiente"
+ },
+ {
+  "nombre": "Kids&Us Sanchinarro - Academia de inglés para niños en Sanchinarro",
+  "rating": 4.3,
+  "opiniones": 18,
+  "veces": 1,
+  "actividad": "Academias de inglés",
+  "zonas": "Chamberí",
+  "estado": "pendiente"
+ },
+ {
+  "nombre": "Escuela de Música Alameda - EMA",
+  "rating": 5,
+  "opiniones": 15,
+  "veces": 1,
+  "actividad": "Música",
+  "zonas": "Centro",
+  "estado": "pendiente"
+ },
+ {
+  "nombre": "El Patio Taller de Cerámica",
+  "rating": 5,
+  "opiniones": 15,
+  "veces": 1,
+  "actividad": "Arte, pintura y teatro",
+  "zonas": "Centro",
+  "estado": "pendiente"
+ },
+ {
+  "nombre": "CADAprendizaje | Clases Particulares y Apoyo Escolar",
+  "rating": 5,
+  "opiniones": 15,
+  "veces": 1,
+  "actividad": "Empresas de extraescolares",
+  "zonas": "Chamberí",
+  "estado": "pendiente"
+ },
+ {
+  "nombre": "Marlow English Academy",
+  "rating": 4.6,
+  "opiniones": 16,
+  "veces": 1,
+  "actividad": "Academias de inglés",
+  "zonas": "Ciudad Lineal",
+  "estado": "pendiente"
+ },
+ {
+  "nombre": "Escuela Infantil Nemomarlin Arroyo Fresno",
+  "rating": 4.7,
+  "opiniones": 15,
+  "veces": 1,
+  "actividad": null,
+  "zonas": null,
+  "estado": "pendiente"
+ },
+ {
+  "nombre": "SYLVAN",
+  "rating": 5,
+  "opiniones": 14,
+  "veces": 1,
+  "actividad": "Academias de inglés",
+  "zonas": "Retiro",
+  "estado": "pendiente"
+ },
+ {
+  "nombre": "The Quick Academy",
+  "rating": 5,
+  "opiniones": 14,
+  "veces": 1,
+  "actividad": "Academias de inglés",
+  "zonas": "Centro",
+  "estado": "pendiente"
+ },
+ {
+  "nombre": "Centro Lingua Italiana by REDyVIVA",
+  "rating": 5,
+  "opiniones": 14,
+  "veces": 1,
+  "actividad": "Otros idiomas",
+  "zonas": "Centro",
+  "estado": "pendiente"
+ },
+ {
+  "nombre": "Tus Clases Particulares Inglés Madrid",
+  "rating": 4.9,
+  "opiniones": 14,
+  "veces": 2,
+  "actividad": "Academias de inglés",
+  "zonas": "Chamberí",
+  "estado": "pendiente"
+ },
+ {
+  "nombre": "Piscina",
+  "rating": 3.8,
+  "opiniones": 18,
+  "veces": 1,
+  "actividad": "Deporte y natación",
+  "zonas": "Chamberí",
+  "estado": "pendiente"
+ },
+ {
+  "nombre": "Academia Madrid Plus",
+  "rating": 4.2,
+  "opiniones": 16,
+  "veces": 3,
+  "actividad": "Academias de inglés",
+  "zonas": "Centro",
+  "estado": "pendiente"
+ },
+ {
+  "nombre": "Native Learn",
+  "rating": 3.7,
+  "opiniones": 18,
+  "veces": 1,
+  "actividad": "Academias de inglés",
+  "zonas": "Moncloa-Aravaca",
+  "estado": "pendiente"
+ },
+ {
+  "nombre": "FIRST LANGUAGE ACADEMY",
+  "rating": 4.7,
+  "opiniones": 14,
+  "veces": 3,
+  "actividad": "Academias de inglés",
+  "zonas": "Chamberí, Retiro",
+  "estado": "pendiente"
+ },
+ {
+  "nombre": "WoWplay",
+  "rating": 4.7,
+  "opiniones": 14,
+  "veces": 1,
+  "actividad": "Empresas de extraescolares",
+  "zonas": "Chamartín",
+  "estado": "pendiente"
+ },
+ {
+  "nombre": "Escuela de Música Yasmina Muro",
+  "rating": 4.9,
+  "opiniones": 13,
+  "veces": 2,
+  "actividad": "Música",
+  "zonas": "Salamanca",
+  "estado": "pendiente"
+ },
+ {
+  "nombre": "Arte M.A.S.",
+  "rating": 4.8,
+  "opiniones": 13,
+  "veces": 1,
+  "actividad": "Arte, pintura y teatro",
+  "zonas": "Carabanchel",
+  "estado": "pendiente"
+ },
+ {
+  "nombre": "Pistas Padel Canal Isabel II",
+  "rating": 4.1,
+  "opiniones": 15,
+  "veces": 2,
+  "actividad": "Deporte y natación",
+  "zonas": "Chamberí",
+  "estado": "pendiente"
+ },
+ {
+  "nombre": "Vaughan Tienda",
+  "rating": 3.8,
+  "opiniones": 16,
+  "veces": 1,
+  "actividad": "Apoyo escolar y clases particulares",
+  "zonas": "Tetuán",
+  "estado": "pendiente"
+ },
+ {
+  "nombre": "Escuela de Música | Mio Bambino | Clases de piano, violín, guitarra, música y movimiento...",
+  "rating": 5,
+  "opiniones": 12,
+  "veces": 1,
+  "actividad": "Música",
+  "zonas": "Centro",
+  "estado": "pendiente"
+ },
+ {
+  "nombre": "Estudio Aljafra",
+  "rating": 4.6,
+  "opiniones": 13,
+  "veces": 1,
+  "actividad": "Arte, pintura y teatro",
+  "zonas": "Ciudad Lineal",
+  "estado": "pendiente"
+ },
+ {
+  "nombre": "EducaChild - Arroyo Culebro (Leganés)",
+  "rating": 4.8,
+  "opiniones": 12,
+  "veces": 1,
+  "actividad": "Academias de inglés",
+  "zonas": "Leganés",
+  "estado": "pendiente"
+ },
+ {
+  "nombre": "Talking2u",
+  "rating": 4.7,
+  "opiniones": 12,
+  "veces": 1,
+  "actividad": "Academias de inglés",
+  "zonas": "Chamberí",
+  "estado": "pendiente"
+ },
+ {
+  "nombre": "LALY",
+  "rating": 4.7,
+  "opiniones": 12,
+  "veces": 1,
+  "actividad": null,
+  "zonas": null,
+  "estado": "pendiente"
+ },
+ {
+  "nombre": "Galway Meeting Point",
+  "rating": 4.7,
+  "opiniones": 12,
+  "veces": 1,
+  "actividad": "Academias de inglés",
+  "zonas": "Carabanchel",
+  "estado": "pendiente"
+ },
+ {
+  "nombre": "Madrid Green Nature",
+  "rating": 5,
+  "opiniones": 11,
+  "veces": 1,
+  "actividad": "Robótica y programación",
+  "zonas": "Retiro",
+  "estado": "pendiente"
+ },
+ {
+  "nombre": "Delta Taller de Arte",
+  "rating": 5,
+  "opiniones": 11,
+  "veces": 1,
+  "actividad": "Arte, pintura y teatro",
+  "zonas": "Moratalaz",
+  "estado": "pendiente"
+ },
+ {
+  "nombre": "Taller de Arte La Mina",
+  "rating": 5,
+  "opiniones": 11,
+  "veces": 1,
+  "actividad": "Arte, pintura y teatro",
+  "zonas": "Chamberí",
+  "estado": "pendiente"
+ },
+ {
+  "nombre": "C.D. Sport Villa de Vallecas (Sede Social)",
+  "rating": 3.4,
+  "opiniones": 16,
+  "veces": 1,
+  "actividad": "Deporte y natación",
+  "zonas": "Villa de Vallecas",
+  "estado": "pendiente"
+ },
+ {
+  "nombre": "Europe English Academy, Carabanchel",
+  "rating": 4.6,
+  "opiniones": 11,
+  "veces": 2,
+  "actividad": "Academias de inglés",
+  "zonas": "Carabanchel, Usera",
+  "estado": "pendiente"
+ },
+ {
+  "nombre": "Academia de Idiomas Talk&Tech",
+  "rating": 5,
+  "opiniones": 10,
+  "veces": 3,
+  "actividad": "Academias de inglés",
+  "zonas": "Pozuelo de Alarcón",
+  "estado": "pendiente"
+ },
+ {
+  "nombre": "Campo de fútbol Marqués de Samaranch",
+  "rating": 4.5,
+  "opiniones": 11,
+  "veces": 1,
+  "actividad": "Deporte y natación",
+  "zonas": "Arganzuela",
+  "estado": "pendiente"
+ },
+ {
+  "nombre": "Academia Clases Particulares Madrid",
+  "rating": 4.9,
+  "opiniones": 10,
+  "veces": 3,
+  "actividad": "Otros idiomas",
+  "zonas": "Centro, Chamartín, Tetuán",
+  "estado": "pendiente"
+ },
+ {
+  "nombre": "Dance esCool Pozuelo",
+  "rating": 3.4,
+  "opiniones": 14,
+  "veces": 1,
+  "actividad": "Baile y danza",
+  "zonas": "Chamartín",
+  "estado": "pendiente"
+ },
+ {
+  "nombre": "PuntoArtes Academia de Arte",
+  "rating": 4.3,
+  "opiniones": 11,
+  "veces": 1,
+  "actividad": "Arte, pintura y teatro",
+  "zonas": "Moratalaz",
+  "estado": "pendiente"
+ },
+ {
+  "nombre": "Madrid Sur Exams Centre, Centro de Examen Autorizado por Cambridge Assessment English",
+  "rating": 4.3,
+  "opiniones": 11,
+  "veces": 1,
+  "actividad": "Academias de inglés",
+  "zonas": "Chamartín",
+  "estado": "pendiente"
+ },
+ {
+  "nombre": "Divinoarte. Clases de Pintura, Dibujo y Grabado",
+  "rating": 5,
+  "opiniones": 9,
+  "veces": 2,
+  "actividad": "Arte, pintura y teatro",
+  "zonas": "Arganzuela, Ciudad Lineal",
+  "estado": "pendiente"
+ },
+ {
+  "nombre": "CP Santa María del Pilar",
+  "rating": 3,
+  "opiniones": 15,
+  "veces": 1,
+  "actividad": "Deporte y natación",
+  "zonas": "Retiro",
+  "estado": "pendiente"
+ },
+ {
+  "nombre": "Taller Lume- Cerámica y Escultura",
+  "rating": 3.9,
+  "opiniones": 11,
+  "veces": 1,
+  "actividad": "Arte, pintura y teatro",
+  "zonas": "Centro",
+  "estado": "pendiente"
+ },
+ {
+  "nombre": "Mamut Actividades",
+  "rating": 3.9,
+  "opiniones": 11,
+  "veces": 1,
+  "actividad": "Arte, pintura y teatro",
+  "zonas": "Chamartín",
+  "estado": "pendiente"
+ },
+ {
+  "nombre": "Academia de Idiomas Setúbal",
+  "rating": 5,
+  "opiniones": 8,
+  "veces": 1,
+  "actividad": "Otros idiomas",
+  "zonas": "Tetuán",
+  "estado": "pendiente"
+ },
+ {
+  "nombre": "WOP DANCE STUDIO",
+  "rating": 5,
+  "opiniones": 8,
+  "veces": 1,
+  "actividad": "Baile y danza",
+  "zonas": "Puente de Vallecas",
+  "estado": "pendiente"
+ },
+ {
+  "nombre": "Taller Bellas Artes Teresa Muñoz",
+  "rating": 5,
+  "opiniones": 8,
+  "veces": 1,
+  "actividad": "Arte, pintura y teatro",
+  "zonas": "Chamartín",
+  "estado": "pendiente"
+ },
+ {
+  "nombre": "estudio LAOCOONTE",
+  "rating": 5,
+  "opiniones": 8,
+  "veces": 1,
+  "actividad": "Arte, pintura y teatro",
+  "zonas": "Arganzuela",
+  "estado": "pendiente"
+ },
+ {
+  "nombre": "Academia English",
+  "rating": 5,
+  "opiniones": 8,
+  "veces": 1,
+  "actividad": "Academias de inglés",
+  "zonas": "Arganzuela",
+  "estado": "pendiente"
+ },
+ {
+  "nombre": "Ecus Educational | Academia sede Barrio Sanchinarro",
+  "rating": 4.4,
+  "opiniones": 9,
+  "veces": 1,
+  "actividad": "Academias de inglés",
+  "zonas": "Chamartín",
+  "estado": "pendiente"
+ },
+ {
+  "nombre": "ENGLISH LINK SCHOOL",
+  "rating": 3.9,
+  "opiniones": 10,
+  "veces": 4,
+  "actividad": "Academias de inglés",
+  "zonas": "Alcobendas, Fuencarral-El Pardo, Hortaleza",
+  "estado": "pendiente"
+ },
+ {
+  "nombre": "AIL Spaces",
+  "rating": 4.3,
+  "opiniones": 9,
+  "veces": 1,
+  "actividad": null,
+  "zonas": null,
+  "estado": "pendiente"
+ },
+ {
+  "nombre": "Escuela de Ballet y Piano Di Mare Corporán",
+  "rating": 4.1,
+  "opiniones": 9,
+  "veces": 1,
+  "actividad": "Baile y danza",
+  "zonas": "Fuencarral-El Pardo",
+  "estado": "pendiente"
+ },
+ {
+  "nombre": "Columpios",
+  "rating": 4.6,
+  "opiniones": 8,
+  "veces": 1,
+  "actividad": null,
+  "zonas": null,
+  "estado": "pendiente"
+ },
+ {
+  "nombre": "The A Academy",
+  "rating": 3.9,
+  "opiniones": 9,
+  "veces": 1,
+  "actividad": "Academias de inglés",
+  "zonas": "Moncloa-Aravaca",
+  "estado": "pendiente"
+ },
+ {
+  "nombre": "Wall Street English Getafe",
+  "rating": 5,
+  "opiniones": 7,
+  "veces": 3,
+  "actividad": "Academias de inglés",
+  "zonas": "Chamberí, Getafe",
+  "estado": "pendiente"
+ },
+ {
+  "nombre": "Educativ Majadahonda S.C.",
+  "rating": 5,
+  "opiniones": 7,
+  "veces": 1,
+  "actividad": "Apoyo escolar y clases particulares",
+  "zonas": "Majadahonda",
+  "estado": "pendiente"
+ },
+ {
+  "nombre": "Forma Roboti-k | Extraescolares, cursos y talleres virtuales, team-buildings, eventos, etc",
+  "rating": 4,
+  "opiniones": 8,
+  "veces": 1,
+  "actividad": "Robótica y programación",
+  "zonas": "Salamanca",
+  "estado": "pendiente"
+ },
+ {
+  "nombre": "My School",
+  "rating": 4.4,
+  "opiniones": 7,
+  "veces": 1,
+  "actividad": "Academias de inglés",
+  "zonas": "Chamberí",
+  "estado": "pendiente"
+ },
+ {
+  "nombre": "Valdebebas Kids",
+  "rating": 5,
+  "opiniones": 6,
+  "veces": 1,
+  "actividad": "Academias de inglés",
+  "zonas": "Barajas",
+  "estado": "pendiente"
+ },
+ {
+  "nombre": "Professional English - Online English Classes",
+  "rating": 4.7,
+  "opiniones": 6,
+  "veces": 1,
+  "actividad": "Apoyo escolar y clases particulares",
+  "zonas": "Retiro",
+  "estado": "pendiente"
+ },
+ {
+  "nombre": "Estudio de Danza Mirasierra",
+  "rating": 4.3,
+  "opiniones": 6,
+  "veces": 1,
+  "actividad": "Baile y danza",
+  "zonas": "Fuencarral-El Pardo",
+  "estado": "pendiente"
+ },
+ {
+  "nombre": "Lit Dance Madrid",
+  "rating": 5,
+  "opiniones": 5,
+  "veces": 1,
+  "actividad": "Baile y danza",
+  "zonas": "Fuencarral-El Pardo",
+  "estado": "pendiente"
+ },
+ {
+  "nombre": "Academia Simaer",
+  "rating": 5,
+  "opiniones": 5,
+  "veces": 1,
+  "actividad": "Otros idiomas",
+  "zonas": "Fuencarral-El Pardo",
+  "estado": "pendiente"
+ },
+ {
+  "nombre": "Campamento de danzas urbanas (Camp Of Dance)",
+  "rating": 5,
+  "opiniones": 5,
+  "veces": 1,
+  "actividad": "Baile y danza",
+  "zonas": "Salamanca",
+  "estado": "pendiente"
+ },
+ {
+  "nombre": "Adictos a las teclas",
+  "rating": 5,
+  "opiniones": 5,
+  "veces": 1,
+  "actividad": "Robótica y programación",
+  "zonas": "Tres Cantos",
+  "estado": "pendiente"
+ },
+ {
+  "nombre": "AULARECREO - Empresa Actividades Extraescolares.",
+  "rating": 5,
+  "opiniones": 5,
+  "veces": 1,
+  "actividad": "Empresas de extraescolares",
+  "zonas": "Carabanchel",
+  "estado": "pendiente"
+ },
+ {
+  "nombre": "Academia Eureka",
+  "rating": 5,
+  "opiniones": 5,
+  "veces": 1,
+  "actividad": "Otros idiomas",
+  "zonas": "Centro",
+  "estado": "pendiente"
+ },
+ {
+  "nombre": "Around Art S.L.",
+  "rating": 4.8,
+  "opiniones": 5,
+  "veces": 1,
+  "actividad": "Empresas de extraescolares",
+  "zonas": "Arganzuela",
+  "estado": "pendiente"
+ },
+ {
+  "nombre": "BrainLang",
+  "rating": 4.2,
+  "opiniones": 5,
+  "veces": 1,
+  "actividad": "Apoyo escolar y clases particulares",
+  "zonas": "Tetuán",
+  "estado": "pendiente"
+ },
+ {
+  "nombre": "Profesor de inglés - Casey | clases particulares y preparación de exámenes",
+  "rating": 5,
+  "opiniones": 4,
+  "veces": 2,
+  "actividad": "Academias de inglés",
+  "zonas": "Chamartín",
+  "estado": "pendiente"
+ },
+ {
+  "nombre": "CW English",
+  "rating": 5,
+  "opiniones": 4,
+  "veces": 2,
+  "actividad": "Academias de inglés",
+  "zonas": "Barajas",
+  "estado": "pendiente"
+ },
+ {
+  "nombre": "EA Campamentos de verano en inglés",
+  "rating": 5,
+  "opiniones": 4,
+  "veces": 2,
+  "actividad": "Academias de inglés",
+  "zonas": "Barajas, Moncloa-Aravaca",
+  "estado": "pendiente"
+ },
+ {
+  "nombre": "BusinessKids Madrid",
+  "rating": 5,
+  "opiniones": 4,
+  "veces": 1,
+  "actividad": "Empresas de extraescolares",
+  "zonas": "Tetuán",
+  "estado": "pendiente"
+ },
+ {
+  "nombre": "Asociación Familias Enlazadas por una crianza saludable",
+  "rating": 5,
+  "opiniones": 4,
+  "veces": 1,
+  "actividad": "Empresas de extraescolares",
+  "zonas": "Moncloa-Aravaca",
+  "estado": "pendiente"
+ },
+ {
+  "nombre": "Campo Chopera",
+  "rating": 4,
+  "opiniones": 5,
+  "veces": 1,
+  "actividad": "Deporte y natación",
+  "zonas": "Retiro",
+  "estado": "pendiente"
+ },
+ {
+  "nombre": "Helen Doron English- Academia de Inglés para niños",
+  "rating": 4.8,
+  "opiniones": 4,
+  "veces": 1,
+  "actividad": "Academias de inglés",
+  "zonas": "Getafe",
+  "estado": "pendiente"
+ },
+ {
+  "nombre": "Escuela de bailes salsa y bachata urbana",
+  "rating": 4.8,
+  "opiniones": 4,
+  "veces": 1,
+  "actividad": "Baile y danza",
+  "zonas": "Moncloa-Aravaca",
+  "estado": "pendiente"
+ },
+ {
+  "nombre": "Campamentos Urbanos y de Verano EDUCAVENTURA",
+  "rating": 3.8,
+  "opiniones": 5,
+  "veces": 1,
+  "actividad": "Empresas de extraescolares",
+  "zonas": "Chamartín",
+  "estado": "pendiente"
+ },
+ {
+  "nombre": "Club Natación Master Madrid",
+  "rating": 4,
+  "opiniones": 4,
+  "veces": 1,
+  "actividad": "Deporte y natación",
+  "zonas": "Chamartín",
+  "estado": "pendiente"
+ },
+ {
+  "nombre": "Prosperity Classes",
+  "rating": 5,
+  "opiniones": 3,
+  "veces": 1,
+  "actividad": "Academias de inglés",
+  "zonas": "Pozuelo de Alarcón",
+  "estado": "pendiente"
+ },
+ {
+  "nombre": "Aula 3 Formación",
+  "rating": 5,
+  "opiniones": 3,
+  "veces": 1,
+  "actividad": "Robótica y programación",
+  "zonas": "Tres Cantos",
+  "estado": "pendiente"
+ },
+ {
+  "nombre": "VIVA VIOLÍN",
+  "rating": 5,
+  "opiniones": 3,
+  "veces": 1,
+  "actividad": "Música",
+  "zonas": "Salamanca",
+  "estado": "pendiente"
+ },
+ {
+  "nombre": "Estudio de Arte y Pintura Leticia Trotta",
+  "rating": 5,
+  "opiniones": 3,
+  "veces": 1,
+  "actividad": "Arte, pintura y teatro",
+  "zonas": "Chamartín",
+  "estado": "pendiente"
+ },
+ {
+  "nombre": "Madrid Retiro Deporte",
+  "rating": 5,
+  "opiniones": 3,
+  "veces": 1,
+  "actividad": "Deporte y natación",
+  "zonas": "Retiro",
+  "estado": "pendiente"
+ },
+ {
+  "nombre": "ListenUp Spain",
+  "rating": 5,
+  "opiniones": 3,
+  "veces": 1,
+  "actividad": "Academias de inglés",
+  "zonas": "Chamberí",
+  "estado": "pendiente"
+ },
+ {
+  "nombre": "englishME! Orcasitas",
+  "rating": 3,
+  "opiniones": 4,
+  "veces": 1,
+  "actividad": "Academias de inglés",
+  "zonas": "Usera",
+  "estado": "pendiente"
+ },
+ {
+  "nombre": "Patio de calistenia",
+  "rating": 3.7,
+  "opiniones": 3,
+  "veces": 1,
+  "actividad": null,
+  "zonas": null,
+  "estado": "pendiente"
+ },
+ {
+  "nombre": "Afrodreams",
+  "rating": 5,
+  "opiniones": 2,
+  "veces": 1,
+  "actividad": "Baile y danza",
+  "zonas": "Retiro",
+  "estado": "pendiente"
+ },
+ {
+  "nombre": "Teach it Simple",
+  "rating": 5,
+  "opiniones": 2,
+  "veces": 1,
+  "actividad": "Empresas de extraescolares",
+  "zonas": "Tetuán",
+  "estado": "pendiente"
+ },
+ {
+  "nombre": "Englishjet SL",
+  "rating": 5,
+  "opiniones": 2,
+  "veces": 1,
+  "actividad": "Academias de inglés",
+  "zonas": "Salamanca",
+  "estado": "pendiente"
+ },
+ {
+  "nombre": "CEI Academy",
+  "rating": 5,
+  "opiniones": 2,
+  "veces": 1,
+  "actividad": "Academias de inglés",
+  "zonas": "Ciudad Lineal",
+  "estado": "pendiente"
+ },
+ {
+  "nombre": "Apoyo Logístico Integrado, SL",
+  "rating": 4.5,
+  "opiniones": 2,
+  "veces": 1,
+  "actividad": "Robótica y programación",
+  "zonas": "Retiro",
+  "estado": "pendiente"
+ },
+ {
+  "nombre": "Aula de la Naturaleza Ayuntamiento de Madrid",
+  "rating": 3,
+  "opiniones": 3,
+  "veces": 1,
+  "actividad": "Empresas de extraescolares",
+  "zonas": "Moncloa-Aravaca",
+  "estado": "pendiente"
+ },
+ {
+  "nombre": "El Encuentro",
+  "rating": 4.5,
+  "opiniones": 2,
+  "veces": 1,
+  "actividad": "Arte, pintura y teatro",
+  "zonas": "Moratalaz",
+  "estado": "pendiente"
+ },
+ {
+  "nombre": "Campo del Retiro",
+  "rating": 4.5,
+  "opiniones": 2,
+  "veces": 1,
+  "actividad": "Deporte y natación",
+  "zonas": "Retiro",
+  "estado": "pendiente"
+ },
+ {
+  "nombre": "A&Z Centro Internacional de Idiomas S. L.",
+  "rating": 4.5,
+  "opiniones": 2,
+  "veces": 1,
+  "actividad": "Otros idiomas",
+  "zonas": "Centro",
+  "estado": "pendiente"
+ },
+ {
+  "nombre": "Afterschool Association Rainbow",
+  "rating": 2.7,
+  "opiniones": 3,
+  "veces": 1,
+  "actividad": "Empresas de extraescolares",
+  "zonas": "Chamberí",
+  "estado": "pendiente"
+ },
+ {
+  "nombre": "Cool School",
+  "rating": 2,
+  "opiniones": 4,
+  "veces": 2,
+  "actividad": "Academias de inglés",
+  "zonas": "Barajas, Chamberí",
+  "estado": "pendiente"
+ },
+ {
+  "nombre": "Tweens&Teens by Kids&Us Montecarmelo",
+  "rating": 3,
+  "opiniones": 2,
+  "veces": 4,
+  "actividad": "Academias de inglés",
+  "zonas": "Fuencarral-El Pardo, Retiro",
+  "estado": "pendiente"
+ },
+ {
+  "nombre": "Always School Of Languages",
+  "rating": 3,
+  "opiniones": 2,
+  "veces": 2,
+  "actividad": "Otros idiomas",
+  "zonas": "Arganzuela, Chamberí",
+  "estado": "pendiente"
+ },
+ {
+  "nombre": "EDUCOSPORT EDUCA SL",
+  "rating": 3,
+  "opiniones": 2,
+  "veces": 1,
+  "actividad": "Deporte y natación",
+  "zonas": "Salamanca",
+  "estado": "pendiente"
+ },
+ {
+  "nombre": "The New Kids Club - Boosters Language School",
+  "rating": 5,
+  "opiniones": 1,
+  "veces": 1,
+  "actividad": "Academias de inglés",
+  "zonas": "Barajas",
+  "estado": "pendiente"
+ },
+ {
+  "nombre": "La Casita del Tol. Madre de día",
+  "rating": 5,
+  "opiniones": 1,
+  "veces": 1,
+  "actividad": "Academias de inglés",
+  "zonas": "Barajas",
+  "estado": "pendiente"
+ },
+ {
+  "nombre": "Mathcup ® | Altas Capacidades Matemáticas",
+  "rating": 5,
+  "opiniones": 1,
+  "veces": 1,
+  "actividad": null,
+  "zonas": null,
+  "estado": "pendiente"
+ },
+ {
+  "nombre": "Jóvenes Inventores Tecnología y Educación S.L.",
+  "rating": 5,
+  "opiniones": 1,
+  "veces": 1,
+  "actividad": "Robótica y programación",
+  "zonas": "Fuencarral-El Pardo",
+  "estado": "pendiente"
+ },
+ {
+  "nombre": "Estudio Berlin",
+  "rating": 5,
+  "opiniones": 1,
+  "veces": 1,
+  "actividad": "Arte, pintura y teatro",
+  "zonas": "Moncloa-Aravaca",
+  "estado": "pendiente"
+ },
+ {
+  "nombre": "ART",
+  "rating": 5,
+  "opiniones": 1,
+  "veces": 1,
+  "actividad": "Empresas de extraescolares",
+  "zonas": "Arganzuela",
+  "estado": "pendiente"
+ },
+ {
+  "nombre": "Campamentos Puzzle ı Actividades Extraescolares",
+  "rating": 5,
+  "opiniones": 1,
+  "veces": 1,
+  "actividad": "Empresas de extraescolares",
+  "zonas": "Chamartín",
+  "estado": "pendiente"
+ },
+ {
+  "nombre": "SPORTMIKO ESCUELA DEPORTIVA, S.L.",
+  "rating": 5,
+  "opiniones": 1,
+  "veces": 1,
+  "actividad": "Deporte y natación",
+  "zonas": "Ciudad Lineal",
+  "estado": "pendiente"
+ },
+ {
+  "nombre": "all&go",
+  "rating": 5,
+  "opiniones": 1,
+  "veces": 1,
+  "actividad": "Deporte y natación",
+  "zonas": "Salamanca",
+  "estado": "pendiente"
+ },
+ {
+  "nombre": "CREA - Club de Robótica, Electrónica y Automática",
+  "rating": 4,
+  "opiniones": 1,
+  "veces": 2,
+  "actividad": "Robótica y programación",
+  "zonas": "Arganzuela, Hortaleza",
+  "estado": "pendiente"
+ },
+ {
+  "nombre": "Kids&Us Getafe Buenavista - Academia de inglés para niños en Getafe",
+  "rating": 1,
+  "opiniones": 1,
+  "veces": 2,
+  "actividad": "Academias de inglés",
+  "zonas": "Fuencarral-El Pardo, Getafe",
+  "estado": "pendiente"
+ },
+ {
+  "nombre": "Escuela de Baile y Musica - Madrid",
+  "rating": 1,
+  "opiniones": 1,
+  "veces": 1,
+  "actividad": "Baile y danza",
+  "zonas": "Fuencarral-El Pardo",
+  "estado": "pendiente"
+ },
+ {
+  "nombre": "Campus Academy Getafe",
+  "rating": 1,
+  "opiniones": 1,
+  "veces": 1,
+  "actividad": "Academias de inglés",
+  "zonas": "Chamberí",
+  "estado": "pendiente"
+ },
+ {
+  "nombre": "En français, s'il vous plaît !",
+  "rating": 1,
+  "opiniones": 1,
+  "veces": 1,
+  "actividad": "Apoyo escolar y clases particulares",
+  "zonas": "Centro",
+  "estado": "pendiente"
+ },
+ {
+  "nombre": "Inglés Madrid",
+  "rating": 0,
+  "opiniones": 0,
+  "veces": 4,
+  "actividad": "Academias de inglés",
+  "zonas": "Chamberí, Moncloa-Aravaca",
+  "estado": "pendiente"
+ },
+ {
+  "nombre": "Academia de idiomas",
+  "rating": 0,
+  "opiniones": 0,
+  "veces": 3,
+  "actividad": "Otros idiomas",
+  "zonas": "Chamberí, Salamanca, Tetuán",
+  "estado": "pendiente"
+ },
+ {
+  "nombre": "Academia De Inglês",
+  "rating": 0,
+  "opiniones": 0,
+  "veces": 3,
+  "actividad": "Academias de inglés",
+  "zonas": "Fuencarral-El Pardo, Salamanca",
+  "estado": "pendiente"
+ },
+ {
+  "nombre": "Englishcoffe Club Boadilla",
+  "rating": 0,
+  "opiniones": 0,
+  "veces": 2,
+  "actividad": "Otros idiomas",
+  "zonas": "Boadilla del Monte",
+  "estado": "pendiente"
+ },
+ {
+  "nombre": "Talk Native",
+  "rating": 0,
+  "opiniones": 0,
+  "veces": 2,
+  "actividad": "Academias de inglés",
+  "zonas": "Fuencarral-El Pardo, Hortaleza",
+  "estado": "pendiente"
+ },
+ {
+  "nombre": "Roboticlab",
+  "rating": 0,
+  "opiniones": 0,
+  "veces": 2,
+  "actividad": "Robótica y programación",
+  "zonas": "Arganzuela, Salamanca",
+  "estado": "pendiente"
+ },
+ {
+  "nombre": "Robots in Action Madrid",
+  "rating": 0,
+  "opiniones": 0,
+  "veces": 2,
+  "actividad": "Robótica y programación",
+  "zonas": "Chamberí, Tetuán",
+  "estado": "pendiente"
+ },
+ {
+  "nombre": "EBC y Asociados Idiomas",
+  "rating": 0,
+  "opiniones": 0,
+  "veces": 1,
+  "actividad": "Academias de inglés",
+  "zonas": "Alcobendas",
+  "estado": "pendiente"
+ },
+ {
+  "nombre": "Little Wings - Escuela de Idiomas en la Moraleja, Madrid.",
+  "rating": 0,
+  "opiniones": 0,
+  "veces": 1,
+  "actividad": "Academias de inglés",
+  "zonas": "Alcobendas",
+  "estado": "pendiente"
+ },
+ {
+  "nombre": "Tweens&Teens by Kids&Us Arganzuela",
+  "rating": 0,
+  "opiniones": 0,
+  "veces": 1,
+  "actividad": "Academias de inglés",
+  "zonas": "Boadilla del Monte",
+  "estado": "pendiente"
+ },
+ {
+  "nombre": "English School",
+  "rating": 0,
+  "opiniones": 0,
+  "veces": 1,
+  "actividad": "Otros idiomas",
+  "zonas": "Barajas",
+  "estado": "pendiente"
+ },
+ {
+  "nombre": "Inspira Learning Clases de Inglés",
+  "rating": 0,
+  "opiniones": 0,
+  "veces": 1,
+  "actividad": "Academias de inglés",
+  "zonas": "Barajas",
+  "estado": "pendiente"
+ },
+ {
+  "nombre": "The Little One Escuela infantil",
+  "rating": 0,
+  "opiniones": 0,
+  "veces": 1,
+  "actividad": null,
+  "zonas": null,
+  "estado": "pendiente"
+ },
+ {
+  "nombre": "Colegio Retiro",
+  "rating": 0,
+  "opiniones": 0,
+  "veces": 1,
+  "actividad": null,
+  "zonas": null,
+  "estado": "pendiente"
+ },
+ {
+  "nombre": "Colegio Nuestra Señora de la Paz",
+  "rating": 0,
+  "opiniones": 0,
+  "veces": 1,
+  "actividad": null,
+  "zonas": null,
+  "estado": "pendiente"
+ },
+ {
+  "nombre": "Colegio Concertado Arcangel",
+  "rating": 0,
+  "opiniones": 0,
+  "veces": 1,
+  "actividad": null,
+  "zonas": null,
+  "estado": "pendiente"
+ },
+ {
+  "nombre": "Purity of Mary College",
+  "rating": 0,
+  "opiniones": 0,
+  "veces": 1,
+  "actividad": null,
+  "zonas": null,
+  "estado": "pendiente"
+ },
+ {
+  "nombre": "Colegio de Fomento Los Olmos",
+  "rating": 0,
+  "opiniones": 0,
+  "veces": 1,
+  "actividad": null,
+  "zonas": null,
+  "estado": "pendiente"
+ },
+ {
+  "nombre": "Reamis Academia",
+  "rating": 0,
+  "opiniones": 0,
+  "veces": 1,
+  "actividad": "Otros idiomas",
+  "zonas": "Fuencarral-El Pardo",
+  "estado": "pendiente"
+ },
+ {
+  "nombre": "The Language School - Las Tablas",
+  "rating": 0,
+  "opiniones": 0,
+  "veces": 1,
+  "actividad": "Academias de inglés",
+  "zonas": "Hortaleza",
+  "estado": "pendiente"
+ },
+ {
+  "nombre": "cursos de idiomas",
+  "rating": 0,
+  "opiniones": 0,
+  "veces": 1,
+  "actividad": "Otros idiomas",
+  "zonas": "Retiro",
+  "estado": "pendiente"
+ },
+ {
+  "nombre": "Tweens&Teens By Kids&Us Legazpi",
+  "rating": 0,
+  "opiniones": 0,
+  "veces": 1,
+  "actividad": "Academias de inglés",
+  "zonas": "Retiro",
+  "estado": "pendiente"
+ },
+ {
+  "nombre": "The Perfect British English",
+  "rating": 0,
+  "opiniones": 0,
+  "veces": 1,
+  "actividad": "Academias de inglés",
+  "zonas": "Chamartín",
+  "estado": "pendiente"
+ },
+ {
+  "nombre": "CENTRO FLAMENCO Y DANZA EL LUCERO",
+  "rating": 0,
+  "opiniones": 0,
+  "veces": 1,
+  "actividad": "Baile y danza",
+  "zonas": "Centro",
+  "estado": "pendiente"
+ },
+ {
+  "nombre": "Escuela De Baile Rld",
+  "rating": 0,
+  "opiniones": 0,
+  "veces": 1,
+  "actividad": "Baile y danza",
+  "zonas": "Centro",
+  "estado": "pendiente"
+ },
+ {
+  "nombre": "TalentGenome ® Institute",
+  "rating": 0,
+  "opiniones": 0,
+  "veces": 1,
+  "actividad": null,
+  "zonas": null,
+  "estado": "pendiente"
+ },
+ {
+  "nombre": "TALENT TEAM MADRID",
+  "rating": 0,
+  "opiniones": 0,
+  "veces": 1,
+  "actividad": null,
+  "zonas": null,
+  "estado": "pendiente"
+ },
+ {
+  "nombre": "MathCup® GYMKHANA STEM®",
+  "rating": 0,
+  "opiniones": 0,
+  "veces": 1,
+  "actividad": null,
+  "zonas": null,
+  "estado": "pendiente"
+ },
+ {
+  "nombre": "THE·TEAM",
+  "rating": 0,
+  "opiniones": 0,
+  "veces": 1,
+  "actividad": null,
+  "zonas": null,
+  "estado": "pendiente"
+ },
+ {
+  "nombre": "Alarse Consulting",
+  "rating": 0,
+  "opiniones": 0,
+  "veces": 1,
+  "actividad": "Robótica y programación",
+  "zonas": "Retiro",
+  "estado": "pendiente"
+ },
+ {
+  "nombre": "Beyond Learning - Retiro",
+  "rating": 0,
+  "opiniones": 0,
+  "veces": 1,
+  "actividad": "Robótica y programación",
+  "zonas": "Retiro",
+  "estado": "pendiente"
+ },
+ {
+  "nombre": "Mejores Prácticas",
+  "rating": 0,
+  "opiniones": 0,
+  "veces": 1,
+  "actividad": "Robótica y programación",
+  "zonas": "Tres Cantos",
+  "estado": "pendiente"
+ },
+ {
+  "nombre": "Dap Formacion Tecnológica",
+  "rating": 0,
+  "opiniones": 0,
+  "veces": 1,
+  "actividad": "Robótica y programación",
+  "zonas": "Tres Cantos",
+  "estado": "pendiente"
+ },
+ {
+  "nombre": "imb school madrid",
+  "rating": 0,
+  "opiniones": 0,
+  "veces": 1,
+  "actividad": "Empresas de extraescolares",
+  "zonas": "Tetuán",
+  "estado": "pendiente"
+ },
+ {
+  "nombre": "La Buena Estrella",
+  "rating": 0,
+  "opiniones": 0,
+  "veces": 1,
+  "actividad": "Robótica y programación",
+  "zonas": "Fuencarral-El Pardo",
+  "estado": "pendiente"
+ },
+ {
+  "nombre": "Aprenderesdesabios",
+  "rating": 0,
+  "opiniones": 0,
+  "veces": 1,
+  "actividad": "Robótica y programación",
+  "zonas": "Fuencarral-El Pardo",
+  "estado": "pendiente"
+ },
+ {
+  "nombre": "Club de Robotica Madrid",
+  "rating": 0,
+  "opiniones": 0,
+  "veces": 1,
+  "actividad": "Robótica y programación",
+  "zonas": "Hortaleza",
+  "estado": "pendiente"
+ },
+ {
+  "nombre": "Generación Digital",
+  "rating": 0,
+  "opiniones": 0,
+  "veces": 1,
+  "actividad": "Robótica y programación",
+  "zonas": "Centro",
+  "estado": "pendiente"
+ },
+ {
+  "nombre": "Music Time With Laura - Clases de música en inglés para bebés y niños",
+  "rating": 0,
+  "opiniones": 0,
+  "veces": 1,
+  "actividad": "Música",
+  "zonas": "Arganzuela",
+  "estado": "pendiente"
+ },
+ {
+  "nombre": "Aula De La Naturaleza",
+  "rating": 0,
+  "opiniones": 0,
+  "veces": 1,
+  "actividad": "Empresas de extraescolares",
+  "zonas": "Moncloa-Aravaca",
+  "estado": "pendiente"
+ },
+ {
+  "nombre": "ECOGESFOR",
+  "rating": 0,
+  "opiniones": 0,
+  "veces": 1,
+  "actividad": "Empresas de extraescolares",
+  "zonas": "Moncloa-Aravaca",
+  "estado": "pendiente"
+ },
+ {
+  "nombre": "EDIFICIO DE AULAS E.T.S.I DE AGRÓNOMOS",
+  "rating": 0,
+  "opiniones": 0,
+  "veces": 1,
+  "actividad": "Empresas de extraescolares",
+  "zonas": "Moncloa-Aravaca",
+  "estado": "pendiente"
+ },
+ {
+  "nombre": "Academia de Arte Albín",
+  "rating": 0,
+  "opiniones": 0,
+  "veces": 1,
+  "actividad": "Arte, pintura y teatro",
+  "zonas": "Moncloa-Aravaca",
+  "estado": "pendiente"
+ },
+ {
+  "nombre": "ymás. Organización de eventos Madrid",
+  "rating": 0,
+  "opiniones": 0,
+  "veces": 1,
+  "actividad": "Empresas de extraescolares",
+  "zonas": "Arganzuela",
+  "estado": "pendiente"
+ },
+ {
+  "nombre": "artmnevenets",
+  "rating": 0,
+  "opiniones": 0,
+  "veces": 1,
+  "actividad": "Empresas de extraescolares",
+  "zonas": "Arganzuela",
+  "estado": "pendiente"
+ },
+ {
+  "nombre": "Carlos de Artíñano Gómez",
+  "rating": 0,
+  "opiniones": 0,
+  "veces": 1,
+  "actividad": "Empresas de extraescolares",
+  "zonas": "Arganzuela",
+  "estado": "pendiente"
+ },
+ {
+  "nombre": "Create KId",
+  "rating": 0,
+  "opiniones": 0,
+  "veces": 1,
+  "actividad": "Arte, pintura y teatro",
+  "zonas": "Chamberí",
+  "estado": "pendiente"
+ },
+ {
+  "nombre": "Neuroarte",
+  "rating": 0,
+  "opiniones": 0,
+  "veces": 1,
+  "actividad": "Arte, pintura y teatro",
+  "zonas": "Chamartín",
+  "estado": "pendiente"
+ },
+ {
+  "nombre": "Escuela Infantil Magos",
+  "rating": 0,
+  "opiniones": 0,
+  "veces": 1,
+  "actividad": "Empresas de extraescolares",
+  "zonas": "Retiro",
+  "estado": "pendiente"
+ },
+ {
+  "nombre": "Crono: Ocio, Cultura y Deporte",
+  "rating": 0,
+  "opiniones": 0,
+  "veces": 1,
+  "actividad": "Deporte y natación",
+  "zonas": "Ciudad Lineal",
+  "estado": "pendiente"
+ },
+ {
+  "nombre": "Salle de sport",
+  "rating": 0,
+  "opiniones": 0,
+  "veces": 1,
+  "actividad": "Deporte y natación",
+  "zonas": "Ciudad Lineal",
+  "estado": "pendiente"
+ },
+ {
+  "nombre": "C.D. One More Academy - Tecnificación de Fútbol en Madrid",
+  "rating": 0,
+  "opiniones": 0,
+  "veces": 1,
+  "actividad": "Deporte y natación",
+  "zonas": "Ciudad Lineal",
+  "estado": "pendiente"
+ },
+ {
+  "nombre": "Club de Natación Artística | AD Sincro Retiro | Escuela Moscardó",
+  "rating": 0,
+  "opiniones": 0,
+  "veces": 1,
+  "actividad": "Deporte y natación",
+  "zonas": "Salamanca",
+  "estado": "pendiente"
+ },
+ {
+  "nombre": "Clases de Natación Infantil a Domicilio en Madrid",
+  "rating": 0,
+  "opiniones": 0,
+  "veces": 1,
+  "actividad": "Deporte y natación",
+  "zonas": "Chamartín",
+  "estado": "pendiente"
+ },
+ {
+  "nombre": "Sport Cesbe",
+  "rating": 0,
+  "opiniones": 0,
+  "veces": 1,
+  "actividad": "Deporte y natación",
+  "zonas": "Villa de Vallecas",
+  "estado": "pendiente"
+ },
+ {
+  "nombre": "Agrup. Deport. venture",
+  "rating": 0,
+  "opiniones": 0,
+  "veces": 1,
+  "actividad": "Deporte y natación",
+  "zonas": "Salamanca",
+  "estado": "pendiente"
+ },
+ {
+  "nombre": "Badgie",
+  "rating": 0,
+  "opiniones": 0,
+  "veces": 1,
+  "actividad": "Deporte y natación",
+  "zonas": "Salamanca",
+  "estado": "pendiente"
+ },
+ {
+  "nombre": "dixit",
+  "rating": 0,
+  "opiniones": 0,
+  "veces": 1,
+  "actividad": "Apoyo escolar y clases particulares",
+  "zonas": "Centro",
+  "estado": "pendiente"
+ },
+ {
+  "nombre": "Academia Centro Express",
+  "rating": 0,
+  "opiniones": 0,
+  "veces": 1,
+  "actividad": "Otros idiomas",
+  "zonas": "Centro",
+  "estado": "pendiente"
+ },
+ {
+  "nombre": "Academia de Inglés Your Language Club Madrid",
+  "rating": 0,
+  "opiniones": 0,
+  "veces": 1,
+  "actividad": "Academias de inglés",
+  "zonas": "Tetuán",
+  "estado": "pendiente"
+ },
+ {
+  "nombre": "Language Trainers Madrid",
+  "rating": 0,
+  "opiniones": 0,
+  "veces": 1,
+  "actividad": "Academias de inglés",
+  "zonas": "Chamberí",
+  "estado": "pendiente"
+ },
+ {
+  "nombre": "The English Training Company",
+  "rating": 0,
+  "opiniones": 0,
+  "veces": 1,
+  "actividad": "Arte, pintura y teatro",
+  "zonas": "Retiro",
+  "estado": "pendiente"
+ },
+ {
+  "nombre": "Inglés Online para Profesionales",
+  "rating": 0,
+  "opiniones": 0,
+  "veces": 1,
+  "actividad": "Apoyo escolar y clases particulares",
+  "zonas": "Centro",
+  "estado": "pendiente"
+ }
+]
