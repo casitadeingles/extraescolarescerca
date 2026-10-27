@@ -687,5 +687,27 @@
    "Escuela pública municipal",
    "Música"
   ]
+ },
+ {
+  "id": "algorithmics-pozuelo-de-alarcon",
+  "nombre": "Algorithmics Pozuelo de Alarcón",
+  "categoria": "robotica",
+  "campamento": false,
+  "destacado": false,
+  "zona": "Pozuelo de Alarcón",
+  "zona_slug": "pozuelo-de-alarcon",
+  "tipo_zona": "municipio",
+  "direccion": "Av. de Europa, 18 A, local, 28224 Pozuelo de Alarcón",
+  "telefono": "",
+  "web": "https://algorithmics.es",
+  "maps": "",
+  "rating": null,
+  "opiniones": 0,
+  "horario": [],
+  "descripcion": "Escuela internacional de programación para niños y jóvenes, con cursos por edades para aprender a programar, crear videojuegos y desarrollar proyectos digitales.",
+  "servicios": [
+   "Programación",
+   "Videojuegos"
+  ]
  }
 ]
