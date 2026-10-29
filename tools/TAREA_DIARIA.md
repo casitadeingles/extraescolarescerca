@@ -18,7 +18,8 @@ Mejor 7 fichas correctas que 10 dudosas: si no se puede verificar la dirección,
 ## De dónde sacar candidatos (en este orden)
 1. **Huecos zona × actividad.** Ejecuta `node tools/huecos.js`, que lista las zonas con menos centros y las actividades que les faltan. Empieza por las zonas con sede de La Casita y pocas opciones: Hortaleza (Sanchinarro), Puente y Villa de Vallecas, Carabanchel, Salamanca, Barajas, Ciudad Lineal. Busca, por ejemplo, "escuela de música Sanchinarro" y verifica en la web oficial.
 2. **`data/pendientes.json`**: negocios que Google relaciona con los nuestros, ordenados por valoración. Busca su web oficial y, al añadirlo, cambia su `estado` a `"añadido"`. Si no es un centro válido, cámbialo a `"descartado"` y anota el motivo en `motivo`.
-3. **Zonas nuevas**, cuando las anteriores estén razonablemente cubiertas: Las Rozas, San Sebastián de los Reyes, Rivas-Vaciamadrid, Alcalá de Henares, Torrejón de Ardoz, Fuenlabrada, Arroyomolinos y Villaviciosa de Odón.
+3. **Directorio padresenmadrid.com** (https://padresenmadrid.com/extraescolares, unos 500 centros). Sirve solo para encontrar candidatos: filtra por tipo con `/extraescolares/tipo/<tipo>` (idiomas, musica, robotica, arte, teatro, cocina, ajedrez, apoyo-escolar, baile) y pasa páginas con `?page=N`. Cada ficha indica la calle y el barrio, así que es útil para cubrir huecos de zona × actividad. Después hay que sacar la dirección, el teléfono y la web de la **web oficial** del centro; nunca copies sus descripciones ni enlaces sus fichas en lugar de la web oficial.
+4. **Zonas nuevas**, cuando las anteriores estén razonablemente cubiertas: Las Rozas, San Sebastián de los Reyes, Rivas-Vaciamadrid, Alcalá de Henares, Torrejón de Ardoz, Fuenlabrada, Arroyomolinos y Villaviciosa de Odón.
 
 ## Formato de cada ficha (añadir al array de `data/centros_extra.json`)
 ```json
