@@ -893,7 +893,8 @@
   "veces": 3,
   "actividad": "Academias de inglés",
   "zonas": "Fuencarral-El Pardo, Pozuelo de Alarcón",
-  "estado": "pendiente"
+  "estado": "descartado",
+  "motivo": "Ya está en el directorio (Kids&Us Aluche, añadido el 2026-10-30)"
  },
  {
   "nombre": "El Estudio Escuela de Dibujo y Pintura",
