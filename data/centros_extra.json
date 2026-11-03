@@ -2363,5 +2363,55 @@
    "Inglés para preadolescentes de 9 a 12 años",
    "Inglés para adolescentes de 13 a 18 años"
   ]
+ },
+ {
+  "id": "la-casita-de-ingles-sanchinarro",
+  "nombre": "La Casita de Inglés Sanchinarro",
+  "categoria": "ingles",
+  "campamento": true,
+  "destacado": true,
+  "zona": "Hortaleza",
+  "zona_slug": "hortaleza",
+  "tipo_zona": "distrito",
+  "direccion": "C/ de los Padres Dominicos, 34, 28050 Madrid",
+  "telefono": "+34 644 820 738",
+  "web": "https://lacasitadeingles.com/academias/sanchinarro/",
+  "maps": "",
+  "rating": null,
+  "opiniones": 0,
+  "horario": [
+   [
+    "Lun",
+    "17:30–19:30"
+   ],
+   [
+    "Mar",
+    "17:30–19:30"
+   ],
+   [
+    "Mié",
+    "17:30–19:30"
+   ],
+   [
+    "Jue",
+    "17:30–19:30"
+   ],
+   [
+    "Vie",
+    "17:30–19:30"
+   ],
+   [
+    "Sáb",
+    "11:00–13:00"
+   ]
+  ],
+  "descripcion": "Academia de inglés para niños en Sanchinarro con profesores nativos y grupos reducidos, con clases desde bebés hasta los 13 años, días sin cole y campamento de verano.",
+  "servicios": [
+   "Baby & Me (0 a 2 años)",
+   "Home Circle y Home Express Kids (3 a 8 años)",
+   "Home Run y Home Express Juniors (9 a 13 años)",
+   "Días sin cole (3 a 12 años)",
+   "Summer Camp (3 a 12 años)"
+  ]
  }
 ]
