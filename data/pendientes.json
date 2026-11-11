@@ -1011,7 +1011,7 @@
   "veces": 1,
   "actividad": "Academias de inglés",
   "zonas": "Usera",
-  "estado": "pendiente"
+  "estado": "añadido"
  },
  {
   "nombre": "Dinamo - Education, Sport and Travel",
@@ -2748,7 +2748,8 @@
   "veces": 1,
   "actividad": "Arte, pintura y teatro",
   "zonas": "Moratalaz",
-  "estado": "pendiente"
+  "estado": "descartado",
+  "motivo": "No se encontró web oficial (solo directorios, con dos direcciones distintas)."
  },
  {
   "nombre": "Taller de Arte La Mina",
