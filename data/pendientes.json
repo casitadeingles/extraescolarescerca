@@ -1425,7 +1425,8 @@
   "veces": 1,
   "actividad": "Academias de inglés",
   "zonas": "Chamartín",
-  "estado": "pendiente"
+  "estado": "descartado",
+  "motivo": "Ya está en el directorio (Kids&Us Canillas)"
  },
  {
   "nombre": "Skippin and Kids | Academia de Inglés y Apoyo escolar",
@@ -1596,7 +1597,8 @@
   "veces": 2,
   "actividad": "Academias de inglés",
   "zonas": "Getafe",
-  "estado": "pendiente"
+  "estado": "descartado",
+  "motivo": "Ya está en el directorio (Kids & Us - English for children, Getafe, C/ Alhambra esq. Av. de El Casar)"
  },
  {
   "nombre": "La Escuela de Canal",
@@ -1758,7 +1760,7 @@
   "veces": 2,
   "actividad": "Academias de inglés",
   "zonas": "Fuencarral-El Pardo",
-  "estado": "pendiente"
+  "estado": "añadido"
  },
  {
   "nombre": "School of Rock Retiro",
@@ -2388,7 +2390,8 @@
   "veces": 1,
   "actividad": "Academias de inglés",
   "zonas": "Chamberí",
-  "estado": "pendiente"
+  "estado": "descartado",
+  "motivo": "Ya está en el directorio (Kids&Us Barrio de Salamanca)"
  },
  {
   "nombre": "Escuela de Natación, Deportivas y Campamentos EDUCOSPORT",
@@ -2514,7 +2517,8 @@
   "veces": 1,
   "actividad": "Academias de inglés",
   "zonas": "Chamberí",
-  "estado": "pendiente"
+  "estado": "descartado",
+  "motivo": "Ya está en el directorio (Kids&Us Sanchinarro)"
  },
  {
   "nombre": "Escuela de Música Alameda - EMA",
